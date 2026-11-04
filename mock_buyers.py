@@ -13,7 +13,6 @@ We don't have real users yet, so we make up hundreds of buyers. For each one:
 The true weights are the answer key. The matching model never sees them; we
 only use them afterwards to check how well the model learned each buyer.
 """
-import json
 import numpy as np
 
 from schema import (Buyer, ITEMS_BY_CATEGORY, TRANSPORT_MODES, PRIORITIES,
@@ -36,27 +35,16 @@ TRANSPORT_WILLINGNESS = {"walk": 0.70, "transit": 0.50, "car": 0.45}
 # Step 1: filling out the onboarding form
 # ---------------------------------------------------------------------------
 
-def make_buyer(rng, buyer_id, ask_llm=None):
-    """Create one buyer.
-
-    By default, priority ratings are picked at random. To have an LLM fill
-    them in instead, pass ask_llm: any function that takes a prompt string
-    and returns the LLM's reply as a string.
-    """
-    form = {
-        "buyer_id": buyer_id,
-        "transport": pick_transport_modes(rng),
-        "budget": float(round(rng.uniform(150, 2000), -1)),   # rounded to $10
-        "shopping_list": pick_shopping_list(rng),
-    }
-
-    llm_answers = ask_llm_for_answers(form, ask_llm) if ask_llm else None
-    if llm_answers is None:   # no LLM given, or it never gave a usable reply
-        llm_answers = {
-            "name": str(rng.choice(FIRST_NAMES)),
-            "priorities": {p: int(rng.integers(1, 6)) for p in PRIORITIES},
-        }
-    return Buyer(**form, **llm_answers)
+def make_buyer(rng, buyer_id):
+    """Create one buyer with randomly chosen form answers."""
+    return Buyer(
+        buyer_id=buyer_id,
+        name=str(rng.choice(FIRST_NAMES)),
+        priorities={p: int(rng.integers(1, 6)) for p in PRIORITIES},   # 1 to 5
+        transport=pick_transport_modes(rng),
+        budget=float(round(rng.uniform(150, 2000), -1)),   # rounded to $10
+        shopping_list=pick_shopping_list(rng),
+    )
 
 
 def pick_transport_modes(rng):
@@ -81,51 +69,6 @@ def pick_shopping_list(rng):
     num_items = int(rng.integers(2, 6))
     picks = rng.choice(len(all_items), size=num_items, replace=False, p=item_odds)
     return [{"item": all_items[i][0], "category": all_items[i][1]} for i in picks]
-
-
-LLM_PROMPT = """You are filling out an onboarding form as one realistic secondhand-marketplace buyer, for a research simulation.
-
-These answers are already decided:
-{decided_answers}
-
-Return ONLY a JSON object, with no other text and no code fences, containing exactly these keys:
-- "name": a first name
-- "priorities": an object rating each of {priorities} with a whole number from 1 to 5, where 5 means "matters a lot"
-
-Make the ratings believable for someone with this budget and shopping list, and don't rate everything 3 or 4."""
-
-
-def ask_llm_for_answers(form, ask_llm, attempts=3):
-    """Ask the LLM for a name and priority ratings.
-
-    Returns None if the LLM fails to give a valid answer after a few tries,
-    so the caller can fall back to random answers instead of crashing.
-    """
-    decided = {key: value for key, value in form.items() if key != "buyer_id"}
-    prompt = LLM_PROMPT.format(decided_answers=json.dumps(decided, indent=2),
-                               priorities=PRIORITIES)
-    for _ in range(attempts):
-        reply = ask_llm(prompt).strip()
-        # LLMs sometimes wrap JSON in ```json ... ``` even when told not to.
-        reply = reply.removeprefix("```json").removesuffix("```").strip()
-        try:
-            answers = json.loads(reply)
-        except json.JSONDecodeError:
-            continue
-        if is_valid_llm_answer(answers):
-            return answers
-    return None
-
-
-def is_valid_llm_answer(answers):
-    if not isinstance(answers, dict) or set(answers) != {"name", "priorities"}:
-        return False
-    if not isinstance(answers["name"], str):
-        return False
-    ratings = answers["priorities"]
-    return (isinstance(ratings, dict)
-            and set(ratings) == set(PRIORITIES)
-            and all(isinstance(r, int) and 1 <= r <= 5 for r in ratings.values()))
 
 
 # ---------------------------------------------------------------------------
