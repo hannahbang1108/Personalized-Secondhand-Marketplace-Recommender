@@ -36,7 +36,6 @@ def main():
     rng = np.random.default_rng(settings.seed)
 
     listings = make_listings(settings.listings, rng)
-    # To use an LLM, pass ask_llm=your_function to make_buyer (see mock_buyers.py).
     buyers = [make_buyer(rng, f"U{i:04d}") for i in range(settings.buyers)]
     true_weights = {buyer.buyer_id: make_true_weights(buyer) for buyer in buyers}
     choices = simulate_choices(buyers, true_weights, listings, rng,
