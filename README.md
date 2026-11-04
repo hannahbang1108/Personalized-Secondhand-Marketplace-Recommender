@@ -44,7 +44,7 @@ This creates a `data/` folder with mock buyers, listings, and "which would you r
 | File | What it does |
 |---|---|
 | `schema.py` | Defines the `Listing` and `Buyer` formats and turns a listing into the feature vector the model uses. Every data source (mock now, eBay later) must produce this format. |
-| `mock_buyers.py` | Creates simulated buyers from onboarding-form answers, sets each buyer's true preferences from their priority ratings, and simulates their choices. Includes an optional LLM hook for filling in form answers. |
+| `mock_buyers.py` | Creates simulated buyers from onboarding-form answers, sets each buyer's true preferences from their priority ratings, and simulates their choices. |
 | `mock_listings.py` | Temporary fake listings with eBay-like numbers. To be replaced by Mercari-based listings and then the eBay adapter. |
 | `generate_mock_data.py` | The script you run. Generates buyers, listings, and choices, splits them for training and evaluation, and saves everything to `data/`. |
 | `docs/proposal.md` | Full project proposal: motivation, approach, methods, evaluation plan, related work. |
