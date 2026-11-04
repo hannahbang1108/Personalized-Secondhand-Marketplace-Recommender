@@ -1,0 +1,5202 @@
+{
+ "U0000": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0001": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0002": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0003": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0004": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0005": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0006": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0007": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0008": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0009": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0010": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0011": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0012": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0013": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0014": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0015": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0016": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0017": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0018": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0019": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0020": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0021": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0022": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0023": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0024": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0025": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0026": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0027": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0028": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0029": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0030": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0031": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0032": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0033": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0034": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0035": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0036": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0037": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0038": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0039": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0040": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0041": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0042": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0043": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0044": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0045": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0046": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0047": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0048": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0049": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0050": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0051": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0052": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0053": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0054": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0055": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0056": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0057": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0058": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0059": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0060": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0061": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0062": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0063": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0064": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0065": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0066": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0067": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0068": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0069": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0070": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0071": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0072": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0073": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0074": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0075": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0076": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0077": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0078": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0079": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0080": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0081": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0082": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0083": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0084": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0085": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0086": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0087": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0088": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0089": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0090": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0091": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0092": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0093": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0094": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0095": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0096": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0097": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0098": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0099": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0100": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0101": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0102": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0103": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0104": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0105": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0106": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0107": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0108": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0109": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0110": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0111": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0112": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0113": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0114": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0115": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0116": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0117": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0118": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0119": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0120": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0121": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0122": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0123": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0124": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0125": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0126": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0127": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0128": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0129": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0130": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0131": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0132": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0133": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0134": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0135": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0136": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0137": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0138": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0139": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0140": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0141": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0142": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0143": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0144": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0145": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0146": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0147": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0148": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0149": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0150": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0151": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0152": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0153": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0154": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0155": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0156": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0157": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0158": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0159": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0160": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0161": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0162": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0163": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0164": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0165": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0166": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0167": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0168": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0169": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0170": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0171": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0172": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0173": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0174": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0175": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0176": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0177": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0178": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0179": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0180": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0181": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0182": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0183": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0184": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0185": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0186": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0187": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0188": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0189": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0190": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0191": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0192": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0193": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0194": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0195": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0196": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0197": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0198": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0199": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0200": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0201": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0202": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0203": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0204": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0205": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0206": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0207": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0208": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0209": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0210": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0211": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0212": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0213": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0214": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0215": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0216": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0217": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0218": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0219": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0220": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0221": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0222": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0223": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0224": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0225": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0226": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0227": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0228": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0229": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0230": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0231": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0232": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0233": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0234": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0235": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0236": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0237": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0238": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0239": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0240": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0241": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0242": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0243": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0244": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0245": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0246": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0247": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0248": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0249": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0250": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0251": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0252": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0253": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0254": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0255": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0256": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0257": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0258": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0259": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0260": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0261": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0262": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0263": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0264": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0265": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0266": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0267": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0268": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0269": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0270": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0271": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0272": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0273": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0274": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0275": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0276": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0277": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0278": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0279": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0280": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0281": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0282": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0283": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0284": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0285": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0286": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0287": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0288": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0289": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0290": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0291": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0292": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0293": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0294": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0295": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0296": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0297": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0298": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0299": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0300": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0301": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0302": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0303": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0304": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0305": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0306": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0307": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0308": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0309": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0310": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0311": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0312": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0313": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0314": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0315": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0316": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0317": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0318": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.5
+  }
+ },
+ "U0319": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0320": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0321": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0322": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0323": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0324": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0325": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0326": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0327": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0328": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0329": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0330": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0331": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0332": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0333": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0334": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0335": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0336": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0337": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0338": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0339": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0340": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0341": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0342": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0343": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0344": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0345": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0346": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0347": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.5
+  }
+ },
+ "U0348": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0349": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0350": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0351": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0352": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0353": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0354": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0355": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0356": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.5
+  }
+ },
+ "U0357": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0358": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0359": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0360": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0361": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0362": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0363": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0364": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0365": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0366": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0367": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0368": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0369": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0370": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0371": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0372": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0373": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0374": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0375": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0376": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0377": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0378": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0379": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0380": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0381": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0382": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0383": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0384": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0385": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0386": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0387": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0388": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.06666666666666667,
+   "brand_mid": 0.26666666666666666,
+   "brand_premium": 0.5333333333333333,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0389": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0390": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0391": {
+  "weights": {
+   "condition": 0.6666666666666666,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.3333333333333333
+  }
+ },
+ "U0392": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -1.0,
+   "seller_score_log": 1.3333333333333335,
+   "business_seller": 0.33333333333333337,
+   "returns_accepted": 0.33333333333333337,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ },
+ "U0393": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.39999999999999997,
+   "seller_score_log": 0.5333333333333333,
+   "business_seller": 0.13333333333333333,
+   "returns_accepted": 0.13333333333333333,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.5
+  }
+ },
+ "U0394": {
+  "weights": {
+   "condition": 1.0,
+   "seller_negative": -0.7999999999999999,
+   "seller_score_log": 1.0666666666666667,
+   "business_seller": 0.26666666666666666,
+   "returns_accepted": 0.26666666666666666,
+   "brand_budget": 0.03333333333333333,
+   "brand_mid": 0.13333333333333333,
+   "brand_premium": 0.26666666666666666,
+   "kw_damage": -0.5
+  }
+ },
+ "U0395": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0396": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.1,
+   "brand_mid": 0.4,
+   "brand_premium": 0.8,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0397": {
+  "weights": {
+   "condition": 1.3333333333333333,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.6666666666666666
+  }
+ },
+ "U0398": {
+  "weights": {
+   "condition": 1.6666666666666667,
+   "seller_negative": -0.6,
+   "seller_score_log": 0.8,
+   "business_seller": 0.2,
+   "returns_accepted": 0.2,
+   "brand_budget": 0.16666666666666669,
+   "brand_mid": 0.6666666666666667,
+   "brand_premium": 1.3333333333333335,
+   "kw_damage": -0.8333333333333334
+  }
+ },
+ "U0399": {
+  "weights": {
+   "condition": 0.3333333333333333,
+   "seller_negative": -0.19999999999999998,
+   "seller_score_log": 0.26666666666666666,
+   "business_seller": 0.06666666666666667,
+   "returns_accepted": 0.06666666666666667,
+   "brand_budget": 0.13333333333333333,
+   "brand_mid": 0.5333333333333333,
+   "brand_premium": 1.0666666666666667,
+   "kw_damage": -0.16666666666666666
+  }
+ }
+}

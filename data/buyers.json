@@ -1,0 +1,12013 @@
+[
+ {
+  "buyer_id": "U0000",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1110.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0001",
+  "name": "Chen",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1700.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0002",
+  "name": "Chen",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1350.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0003",
+  "name": "Ines",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 270.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0004",
+  "name": "Chen",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1930.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0005",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1330.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0006",
+  "name": "Diego",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1100.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0007",
+  "name": "Chen",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1980.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0008",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1930.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0009",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 360.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0010",
+  "name": "Omar",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 620.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0011",
+  "name": "Omar",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1830.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0012",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1860.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0013",
+  "name": "Amara",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 250.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0014",
+  "name": "Elena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1230.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0015",
+  "name": "Noah",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1900.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0016",
+  "name": "Elena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1270.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0017",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1930.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0018",
+  "name": "Sam",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1240.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0019",
+  "name": "Amara",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1990.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0020",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1660.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0021",
+  "name": "Omar",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 260.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0022",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1070.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0023",
+  "name": "Luis",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1410.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0024",
+  "name": "Luis",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1630.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0025",
+  "name": "Theo",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0026",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 770.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0027",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 920.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0028",
+  "name": "Diego",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 350.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0029",
+  "name": "Maya",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 180.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0030",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1390.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0031",
+  "name": "Grace",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 1
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1850.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0032",
+  "name": "Chen",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1470.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0033",
+  "name": "Amara",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0034",
+  "name": "Grace",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1600.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0035",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1190.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0036",
+  "name": "Ines",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 980.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0037",
+  "name": "Elena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1790.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0038",
+  "name": "Chen",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 670.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0039",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1440.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0040",
+  "name": "Diego",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1480.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0041",
+  "name": "Noah",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 440.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0042",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1810.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0043",
+  "name": "Noah",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1190.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0044",
+  "name": "Maya",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1680.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0045",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1140.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0046",
+  "name": "Hana",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1790.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0047",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 530.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0048",
+  "name": "Omar",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1320.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0049",
+  "name": "Sam",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1530.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0050",
+  "name": "Maya",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1330.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0051",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1680.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0052",
+  "name": "Priya",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 920.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0053",
+  "name": "Diego",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 770.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0054",
+  "name": "Luis",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 260.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0055",
+  "name": "Grace",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1860.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0056",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 310.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0057",
+  "name": "Omar",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1970.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0058",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 810.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0059",
+  "name": "Luis",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1570.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0060",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1010.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0061",
+  "name": "Grace",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 660.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0062",
+  "name": "Hana",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1850.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0063",
+  "name": "Diego",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 360.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0064",
+  "name": "Theo",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 370.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0065",
+  "name": "Luis",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1280.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0066",
+  "name": "Sam",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0067",
+  "name": "Ines",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1020.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0068",
+  "name": "Omar",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1080.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0069",
+  "name": "Lena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 960.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0070",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1590.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0071",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1080.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0072",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 1
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1910.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0073",
+  "name": "Diego",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 880.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0074",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1200.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0075",
+  "name": "Priya",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 380.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0076",
+  "name": "Priya",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 580.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0077",
+  "name": "Grace",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 310.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0078",
+  "name": "Luis",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1000.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0079",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1300.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0080",
+  "name": "Lena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1030.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0081",
+  "name": "Hana",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1660.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0082",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1730.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0083",
+  "name": "Grace",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 820.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0084",
+  "name": "Luis",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 310.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0085",
+  "name": "Maya",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 230.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0086",
+  "name": "Hana",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 670.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0087",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1480.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0088",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 430.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0089",
+  "name": "Hana",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1580.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0090",
+  "name": "Priya",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 940.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0091",
+  "name": "Grace",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1650.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0092",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 490.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0093",
+  "name": "Noah",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 890.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0094",
+  "name": "Grace",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1320.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0095",
+  "name": "Ines",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 910.0,
+  "shopping_list": [
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0096",
+  "name": "Amara",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1710.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0097",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 370.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0098",
+  "name": "Elena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 450.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0099",
+  "name": "Elena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1660.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0100",
+  "name": "Diego",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 840.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0101",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 210.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0102",
+  "name": "Ines",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1240.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0103",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1720.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0104",
+  "name": "Grace",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1570.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0105",
+  "name": "Hana",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 840.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0106",
+  "name": "Amara",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1770.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0107",
+  "name": "Omar",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1810.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0108",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 810.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0109",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 780.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0110",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 250.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0111",
+  "name": "Chen",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 310.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0112",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 860.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0113",
+  "name": "Omar",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 490.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0114",
+  "name": "Maya",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1180.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0115",
+  "name": "Diego",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 880.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0116",
+  "name": "Theo",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1290.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0117",
+  "name": "Chen",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1410.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0118",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1540.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0119",
+  "name": "Noah",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1400.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0120",
+  "name": "Theo",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1470.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0121",
+  "name": "Priya",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 820.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0122",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1770.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0123",
+  "name": "Chen",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1490.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0124",
+  "name": "Elena",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 910.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0125",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 430.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0126",
+  "name": "Omar",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1610.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0127",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1520.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0128",
+  "name": "Ines",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 710.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0129",
+  "name": "Chen",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1820.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0130",
+  "name": "Priya",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 640.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0131",
+  "name": "Priya",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 970.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0132",
+  "name": "Theo",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1300.0,
+  "shopping_list": [
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0133",
+  "name": "Amara",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1370.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0134",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 510.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0135",
+  "name": "Omar",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1820.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0136",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1080.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0137",
+  "name": "Maya",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1070.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0138",
+  "name": "Lena",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 200.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0139",
+  "name": "Luis",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1380.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0140",
+  "name": "Noah",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1440.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0141",
+  "name": "Hana",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1450.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0142",
+  "name": "Elena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0143",
+  "name": "Luis",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1700.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0144",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0145",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 720.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0146",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1920.0,
+  "shopping_list": [
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0147",
+  "name": "Ines",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1980.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0148",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 820.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0149",
+  "name": "Grace",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 510.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0150",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1090.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0151",
+  "name": "Omar",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1090.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0152",
+  "name": "Elena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1500.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0153",
+  "name": "Luis",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1710.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0154",
+  "name": "Luis",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1630.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0155",
+  "name": "Chen",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 580.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0156",
+  "name": "Grace",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1680.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0157",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1160.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0158",
+  "name": "Hana",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 890.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0159",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 340.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0160",
+  "name": "Sam",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 170.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0161",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 430.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0162",
+  "name": "Grace",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1520.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0163",
+  "name": "Noah",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1000.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0164",
+  "name": "Diego",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 950.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0165",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1330.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0166",
+  "name": "Noah",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 280.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0167",
+  "name": "Chen",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1020.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0168",
+  "name": "Luis",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0169",
+  "name": "Lena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1540.0,
+  "shopping_list": [
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0170",
+  "name": "Diego",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1290.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0171",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1500.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0172",
+  "name": "Noah",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1690.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0173",
+  "name": "Omar",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1620.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0174",
+  "name": "Diego",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1980.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0175",
+  "name": "Grace",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1330.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0176",
+  "name": "Maya",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 280.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0177",
+  "name": "Luis",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0178",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 320.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0179",
+  "name": "Chen",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1830.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0180",
+  "name": "Noah",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1130.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0181",
+  "name": "Chen",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1060.0,
+  "shopping_list": [
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0182",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 860.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0183",
+  "name": "Elena",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 700.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0184",
+  "name": "Sam",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1980.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0185",
+  "name": "Theo",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0186",
+  "name": "Grace",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1290.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0187",
+  "name": "Priya",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1410.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0188",
+  "name": "Elena",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1760.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0189",
+  "name": "Priya",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 610.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0190",
+  "name": "Diego",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1840.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0191",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 310.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0192",
+  "name": "Maya",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1370.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0193",
+  "name": "Maya",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1290.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0194",
+  "name": "Sam",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1830.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0195",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1330.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0196",
+  "name": "Sam",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1610.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0197",
+  "name": "Luis",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1310.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0198",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 250.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0199",
+  "name": "Sam",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1060.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0200",
+  "name": "Noah",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1740.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0201",
+  "name": "Amara",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 610.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0202",
+  "name": "Hana",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1960.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0203",
+  "name": "Omar",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 570.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0204",
+  "name": "Diego",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0205",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1410.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0206",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 670.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0207",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1410.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0208",
+  "name": "Lena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 250.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0209",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 770.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0210",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 450.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0211",
+  "name": "Hana",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1110.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0212",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1950.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0213",
+  "name": "Elena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 250.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0214",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 530.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0215",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 500.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0216",
+  "name": "Noah",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1890.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0217",
+  "name": "Amara",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1720.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0218",
+  "name": "Luis",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1270.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0219",
+  "name": "Omar",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1460.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0220",
+  "name": "Hana",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 820.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0221",
+  "name": "Noah",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1960.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0222",
+  "name": "Elena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 780.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0223",
+  "name": "Grace",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1970.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0224",
+  "name": "Ines",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 180.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0225",
+  "name": "Theo",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1400.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0226",
+  "name": "Maya",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 560.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0227",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1350.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0228",
+  "name": "Sam",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 440.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0229",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 450.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0230",
+  "name": "Elena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 500.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0231",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0232",
+  "name": "Ines",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 460.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0233",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1480.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0234",
+  "name": "Noah",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1400.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0235",
+  "name": "Sam",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 460.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0236",
+  "name": "Priya",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 820.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0237",
+  "name": "Grace",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 320.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0238",
+  "name": "Priya",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1050.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0239",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 700.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0240",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1960.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0241",
+  "name": "Diego",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1890.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0242",
+  "name": "Luis",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 540.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0243",
+  "name": "Elena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 950.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0244",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 810.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0245",
+  "name": "Lena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1550.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0246",
+  "name": "Hana",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 490.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0247",
+  "name": "Hana",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 240.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0248",
+  "name": "Elena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1220.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0249",
+  "name": "Ines",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1570.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0250",
+  "name": "Luis",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 830.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0251",
+  "name": "Theo",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1830.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0252",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1060.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0253",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 770.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0254",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1140.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0255",
+  "name": "Lena",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1060.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0256",
+  "name": "Noah",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 870.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0257",
+  "name": "Luis",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1320.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0258",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 840.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0259",
+  "name": "Chen",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 400.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0260",
+  "name": "Sam",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0261",
+  "name": "Omar",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1390.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0262",
+  "name": "Priya",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1540.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0263",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1320.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0264",
+  "name": "Ines",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 790.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0265",
+  "name": "Hana",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 940.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0266",
+  "name": "Elena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1360.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0267",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 980.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0268",
+  "name": "Theo",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1360.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0269",
+  "name": "Lena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 620.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0270",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 860.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0271",
+  "name": "Diego",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1260.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0272",
+  "name": "Grace",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1080.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0273",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1960.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0274",
+  "name": "Diego",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1420.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0275",
+  "name": "Lena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 390.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0276",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1380.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0277",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 320.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0278",
+  "name": "Amara",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1770.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0279",
+  "name": "Noah",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1940.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0280",
+  "name": "Chen",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1440.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0281",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 880.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0282",
+  "name": "Sam",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 750.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0283",
+  "name": "Hana",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1380.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0284",
+  "name": "Grace",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 870.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0285",
+  "name": "Amara",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 540.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0286",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 510.0,
+  "shopping_list": [
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0287",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 730.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0288",
+  "name": "Lena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1550.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0289",
+  "name": "Luis",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1550.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0290",
+  "name": "Sam",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 230.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0291",
+  "name": "Luis",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 720.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0292",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1400.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0293",
+  "name": "Amara",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1600.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0294",
+  "name": "Lena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1490.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0295",
+  "name": "Sam",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0296",
+  "name": "Diego",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1730.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0297",
+  "name": "Diego",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1640.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0298",
+  "name": "Omar",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1580.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0299",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 480.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0300",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1750.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0301",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 690.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0302",
+  "name": "Noah",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1630.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0303",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1430.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0304",
+  "name": "Diego",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 430.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0305",
+  "name": "Priya",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0306",
+  "name": "Sam",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 530.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0307",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 840.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0308",
+  "name": "Hana",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1930.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0309",
+  "name": "Sam",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1000.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0310",
+  "name": "Luis",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 800.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0311",
+  "name": "Noah",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1500.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0312",
+  "name": "Lena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 550.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0313",
+  "name": "Elena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1700.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0314",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1260.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0315",
+  "name": "Amara",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1250.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0316",
+  "name": "Lena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1640.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0317",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1080.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0318",
+  "name": "Elena",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1680.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0319",
+  "name": "Theo",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1160.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0320",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1260.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0321",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 220.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0322",
+  "name": "Sam",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1600.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0323",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 330.0,
+  "shopping_list": [
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0324",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 320.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0325",
+  "name": "Maya",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 730.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0326",
+  "name": "Lena",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 490.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0327",
+  "name": "Luis",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 410.0,
+  "shopping_list": [
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0328",
+  "name": "Lena",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 550.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0329",
+  "name": "Theo",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1670.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0330",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1890.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0331",
+  "name": "Amara",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1460.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0332",
+  "name": "Maya",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1390.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0333",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1660.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0334",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1230.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0335",
+  "name": "Amara",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1250.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0336",
+  "name": "Grace",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 150.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0337",
+  "name": "Amara",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 250.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0338",
+  "name": "Sam",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1170.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0339",
+  "name": "Lena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1140.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0340",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 310.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0341",
+  "name": "Luis",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
+  },
+  "transport": [
+   "transit",
+   "car"
+  ],
+  "budget": 1980.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0342",
+  "name": "Ines",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1890.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0343",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1020.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0344",
+  "name": "Sam",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 340.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0345",
+  "name": "Diego",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1000.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0346",
+  "name": "Chen",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1820.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0347",
+  "name": "Priya",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1050.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0348",
+  "name": "Hana",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 820.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0349",
+  "name": "Diego",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 470.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0350",
+  "name": "Chen",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 940.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0351",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1700.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0352",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1560.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0353",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1620.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0354",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1350.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0355",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1910.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0356",
+  "name": "Amara",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 590.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0357",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1230.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0358",
+  "name": "Ines",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1450.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0359",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1620.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0360",
+  "name": "Grace",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 220.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0361",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 170.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0362",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1070.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0363",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1270.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0364",
+  "name": "Theo",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 570.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0365",
+  "name": "Elena",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1840.0,
+  "shopping_list": [
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0366",
+  "name": "Hana",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 390.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0367",
+  "name": "Elena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 730.0,
+  "shopping_list": [
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "printer",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0368",
+  "name": "Luis",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0369",
+  "name": "Theo",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1700.0,
+  "shopping_list": [
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0370",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1270.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0371",
+  "name": "Maya",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 610.0,
+  "shopping_list": [
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0372",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1600.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0373",
+  "name": "Ines",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1200.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0374",
+  "name": "Ines",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0375",
+  "name": "Luis",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 880.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0376",
+  "name": "Omar",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 540.0,
+  "shopping_list": [
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0377",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1860.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0378",
+  "name": "Theo",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 1
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1900.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0379",
+  "name": "Ines",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 580.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0380",
+  "name": "Diego",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 490.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0381",
+  "name": "Amara",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1220.0,
+  "shopping_list": [
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0382",
+  "name": "Omar",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 510.0,
+  "shopping_list": [
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0383",
+  "name": "Grace",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 1
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1830.0,
+  "shopping_list": [
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0384",
+  "name": "Sam",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1630.0,
+  "shopping_list": [
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0385",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 590.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0386",
+  "name": "Theo",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 2
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1430.0,
+  "shopping_list": [
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0387",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 860.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   },
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "rug",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0388",
+  "name": "Noah",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 2
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 640.0,
+  "shopping_list": [
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0389",
+  "name": "Lena",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 3
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1620.0,
+  "shopping_list": [
+   {
+    "item": "speaker",
+    "category": "electronics"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0390",
+  "name": "Jordan",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "car"
+  ],
+  "budget": 220.0,
+  "shopping_list": [
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0391",
+  "name": "Hana",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1150.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "blender",
+    "category": "kitchen"
+   },
+   {
+    "item": "speaker",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0392",
+  "name": "Luis",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 740.0,
+  "shopping_list": [
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "tv",
+    "category": "electronics"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0393",
+  "name": "Diego",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1120.0,
+  "shopping_list": [
+   {
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   },
+   {
+    "item": "bookshelf",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   },
+   {
+    "item": "floor lamp",
+    "category": "decor"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0394",
+  "name": "Sam",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 1250.0,
+  "shopping_list": [
+   {
+    "item": "microwave",
+    "category": "kitchen"
+   },
+   {
+    "item": "mirror",
+    "category": "decor"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0395",
+  "name": "Zoe",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "transit"
+  ],
+  "budget": 1860.0,
+  "shopping_list": [
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "wall art",
+    "category": "decor"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0396",
+  "name": "Kwame",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 3
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 1990.0,
+  "shopping_list": [
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "desk",
+    "category": "furniture"
+   },
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0397",
+  "name": "Chen",
+  "priorities": {
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "car"
+  ],
+  "budget": 810.0,
+  "shopping_list": [
+   {
+    "item": "tv",
+    "category": "electronics"
+   },
+   {
+    "item": "coffee maker",
+    "category": "kitchen"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0398",
+  "name": "Noah",
+  "priorities": {
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit"
+  ],
+  "budget": 1320.0,
+  "shopping_list": [
+   {
+    "item": "monitor",
+    "category": "electronics"
+   },
+   {
+    "item": "office chair",
+    "category": "furniture"
+   },
+   {
+    "item": "sofa",
+    "category": "furniture"
+   },
+   {
+    "item": "mattress topper",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0399",
+  "name": "Ravi",
+  "priorities": {
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 4
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 440.0,
+  "shopping_list": [
+   {
+    "item": "cookware set",
+    "category": "kitchen"
+   },
+   {
+    "item": "dining table",
+    "category": "furniture"
+   },
+   {
+    "item": "dresser",
+    "category": "furniture"
+   },
+   {
+    "item": "coffee table",
+    "category": "furniture"
+   },
+   {
+    "item": "toaster oven",
+    "category": "kitchen"
+   }
+  ]
+ }
+]
