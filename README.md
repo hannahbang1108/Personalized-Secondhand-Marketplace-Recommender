@@ -26,27 +26,28 @@ pip install -r requirements.txt
 python generate_mock_data.py
 ```
 
-This creates a `data/` folder with mock buyers, listings, and pairwise choices. Useful options:
+This creates a `data/` folder with mock buyers, listings, and "which would you rather buy?" answers. Useful options:
 
 | Option | Default | Meaning |
 |---|---|---|
-| `--users` | 400 | Number of simulated buyers |
+| `--buyers` | 400 | Number of simulated buyers |
 | `--listings` | 3000 | Number of mock listings |
-| `--pairs-per-user` | 40 | Comparisons each buyer answers |
-| `--beta` | 1.5 | How consistent buyers are (higher = fewer "wrong" picks) |
-| `--val-share` | 0.1 | Share of pairs used for validation |
-| `--test-share` | 0.2 | Share of pairs used for the final test |
-| `--seed` | 0 | Random seed, for reproducible data |
+| `--questions-per-buyer` | 40 | Comparisons each buyer answers |
+| `--consistency` | 1.5 | How reliably buyers pick the listing they truly prefer |
+| `--cold-start-share` | 0.2 | Share of buyers held out entirely |
+| `--val-share` | 0.1 | Share of answers used for validation |
+| `--test-share` | 0.2 | Share of answers used for the final test |
+| `--seed` | 0 | Random seed; the same seed gives the same data |
 
 ## Repository Structure
 
 | File | What it does |
 |---|---|
-| `schema.py` | Defines the `Listing` and `Buyer` formats and converts a listing into the feature vector the model uses. Every data source (mock now, eBay later) must produce this format. |
-| `users.py` | Creates simulated buyers from onboarding-form answers, sets each buyer's true preference weights from their priority ratings, and simulates "which would you rather buy?" choices. Includes an optional LLM hook for filling in form answers. |
-| `mock_listings_stub.py` | Temporary generator for fake listings with eBay-like distributions. To be replaced by Mercari-grounded listings and the eBay adapter. |
+| `schema.py` | Defines the `Listing` and `Buyer` formats and turns a listing into the feature vector the model uses. Every data source (mock now, eBay later) must produce this format. |
+| `mock_buyers.py` | Creates simulated buyers from onboarding-form answers, sets each buyer's true preferences from their priority ratings, and simulates their choices. Includes an optional LLM hook for filling in form answers. |
+| `mock_listings.py` | Temporary fake listings with eBay-like numbers. To be replaced by Mercari-based listings and then the eBay adapter. |
+| `generate_mock_data.py` | The script you run. Generates buyers, listings, and choices, splits them for training and evaluation, and saves everything to `data/`. |
 | `docs/proposal.md` | Full project proposal: motivation, approach, methods, evaluation plan, related work. |
-| `generate_mock_data.py` | Main script. Generates buyers, listings, and comparisons, splits them for training and evaluation, and saves everything to `data/`. |
 
 ### Generated data (`data/`)
 
@@ -54,17 +55,17 @@ This creates a `data/` folder with mock buyers, listings, and pairwise choices. 
 |---|---|---|
 | `listings.json` | Listing records | Model and search |
 | `buyers.json` | Onboarding-form answers: priorities, transport modes, budget, shopping list | Model, constraints, and search |
-| `comparisons.csv` | Pairwise choices, with a `split` column: `train` (fit weights), `val` (tune hyperparameters), `test` (final accuracy, used once), `cold_start` (buyers held out entirely) | Model training and evaluation |
-| `ground_truth.json` | Each buyer's true preference weights (the answer key) | **Evaluation only**, never training |
+| `comparisons.csv` | Every "which would you rather buy?" answer, with a `split` column: `train` (fit weights), `val` (tune settings), `test` (final accuracy, used once), `cold_start` (buyers held out entirely) | Model training and evaluation |
+| `true_weights.json` | Each buyer's true preferences (the answer key) | **Evaluation only**, never training |
 
 ### Listing features in the match score
 
-Each true weight scales with one of the buyer's three priority ratings (1 to 5):
+Each buyer's true weight for a feature is a base weight scaled by their rating (1 to 5) for the priority that controls it:
 
 | Priority | Features |
 |---|---|
-| Condition | `condition`, `kw_damage` |
-| Seller trust | `seller_negative`, `seller_score_log`, `business_seller`, `returns_accepted` |
+| Condition | `condition`, `mentions_damage` |
+| Seller trust | `seller_negative_feedback`, `seller_review_count`, `business_seller`, `returns_accepted` |
 | Brand | `brand_budget`, `brand_mid`, `brand_premium` (compared with unbranded) |
 
-Price and distance are excluded from the match score; they are handled by the hard constraints and the combination search.
+Price and distance are not part of the match score; they are handled by the hard constraints and the combination search.
