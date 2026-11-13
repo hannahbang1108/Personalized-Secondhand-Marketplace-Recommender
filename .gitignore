@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments and secrets
+venv/
+.venv/
+.env
+
+# Large downloaded datasets
+data/raw/
+
+# OS files
+Thumbs.db
+.DS_Store
