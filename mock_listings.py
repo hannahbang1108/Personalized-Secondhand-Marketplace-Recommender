@@ -32,11 +32,69 @@ CONDITION_PRICE_FACTOR = {"fair": 0.55, "good": 0.8, "like_new": 1.0}
 BRAND_PRICE_FACTOR = {"unbranded": 0.8, "budget": 0.9, "mid": 1.1, "premium": 1.6}
 
 
+# Brands for each brand tier, by category.
+BRANDS = {
+    "furniture": {"budget": ["IKEA", "Mainstays", "Sauder"],
+                  "mid": ["Wayfair", "Ashley", "Threshold"],
+                  "premium": ["West Elm", "Pottery Barn", "Crate & Barrel"]},
+    "kitchen": {"budget": ["Hamilton Beach", "Black+Decker", "Mainstays"],
+                "mid": ["Cuisinart", "Ninja", "Oster"],
+                "premium": ["KitchenAid", "Breville"]},
+    "electronics": {"budget": ["Insignia", "Onn"],
+                    "mid": ["Samsung", "LG", "HP"],
+                    "premium": ["Sony", "Bose", "Apple"]},
+    "decor": {"budget": ["Mainstays", "IKEA"],
+              "mid": ["Threshold", "Wayfair"],
+              "premium": ["West Elm", "CB2", "Pottery Barn"]},
+    "bedding": {"budget": ["Mainstays", "Amazon Basics"],
+                "mid": ["Threshold", "Linenspa"],
+                "premium": ["Brooklinen", "Parachute", "Tempur-Pedic"]},
+}
+
+# A few ways sellers describe each item.
+ITEM_NAMES = {
+    "desk": ["Computer Desk", "Writing Desk with Drawer", 'Standing Desk 48"'],
+    "office chair": ["Ergonomic Office Chair", "Mesh Desk Chair", "Swivel Office Chair"],
+    "sofa": ["3-Seat Sofa", "Loveseat", "Sectional Sofa"],
+    "bed frame": ["Queen Bed Frame", "Full Platform Bed Frame", "Twin Metal Bed Frame"],
+    "dresser": ["6-Drawer Dresser", "4-Drawer Dresser", "Wood Dresser"],
+    "bookshelf": ["5-Shelf Bookcase", "Ladder Bookshelf", "Cube Bookshelf"],
+    "dining table": ["Dining Table for 4", "Extendable Dining Table", "Round Dining Table"],
+    "coffee table": ["Coffee Table", "Lift-Top Coffee Table", "Glass Coffee Table"],
+    "microwave": ["Countertop Microwave 1.1 cu ft", "900W Microwave", "Compact Microwave"],
+    "blender": ["Countertop Blender", "Personal Blender", "64oz Blender"],
+    "cookware set": ["10-Piece Cookware Set", "Nonstick Pots and Pans", "Stainless Cookware Set"],
+    "coffee maker": ["12-Cup Coffee Maker", "Drip Coffee Maker", "Single Serve Coffee Maker"],
+    "toaster oven": ["Toaster Oven", "Convection Toaster Oven", "4-Slice Toaster Oven"],
+    "monitor": ['24" 1080p Monitor', '27" Monitor', '27" 4K Monitor'],
+    "tv": ['32" TV', '43" Smart TV', '55" 4K Smart TV'],
+    "speaker": ["Bluetooth Speaker", "Bookshelf Speakers (Pair)", "Soundbar"],
+    "printer": ["Wireless Printer", "All-in-One Inkjet Printer", "Laser Printer"],
+    "floor lamp": ["Floor Lamp", "Arc Floor Lamp", "LED Floor Lamp"],
+    "rug": ["5x7 Area Rug", "8x10 Area Rug", "Runner Rug"],
+    "mirror": ["Full Length Mirror", "Round Wall Mirror", "Floor Mirror"],
+    "wall art": ["Framed Wall Art", "Canvas Print", "Set of 3 Framed Prints"],
+    "duvet": ["Queen Duvet Cover Set", "Down Alternative Duvet", "Full/Queen Comforter"],
+    "mattress topper": ["Queen Memory Foam Topper", '3" Mattress Topper', "Twin XL Mattress Topper"],
+    "curtains": ['Blackout Curtains 84"', "Linen Curtains (2 Panels)", "Sheer Curtains"],
+}
+
+# Optional endings, depending on condition.
+TITLE_ENDINGS = {
+    "like_new": ["Like New", "Barely Used", "Moving Sale", "Local Pickup"],
+    "good": ["Good Condition", "Moving Sale", "Local Pickup", "Must Go"],
+    "fair": ["Some Wear", "As Is", "Must Go", "Local Pickup"],
+}
+
+
 def make_listings(count, rng):
-    return [make_listing(f"L{i:05d}", rng) for i in range(count)]
+    # Titles use their own random stream so they don't change the rest of the
+    # generated data (buyers, comparisons) for the same seed.
+    title_rng = rng.spawn(1)[0]
+    return [make_listing(f"L{i:05d}", rng, title_rng) for i in range(count)]
 
 
-def make_listing(listing_id, rng):
+def make_listing(listing_id, rng, title_rng):
     category = pick(CATEGORY_SHARE, rng)
     condition = pick(CONDITION_SHARE, rng)
     brand = pick(BRAND_SHARE, rng)
@@ -49,11 +107,10 @@ def make_listing(listing_id, rng):
     accepts_returns = rng.random() < (0.8 if is_business else 0.3)
 
     latitude, longitude = random_location(rng)
-    title = item if brand == "unbranded" else f"{brand.capitalize()} {item}"
-
     return Listing(
         listing_id=listing_id,
-        title=title,
+        title=make_title(item, category, brand, condition, title_rng),
+        item=item,
         category=category,
         condition=condition,
         seller_feedback_percent=random_feedback_percent(rng),
@@ -66,6 +123,16 @@ def make_listing(listing_id, rng):
         latitude=latitude,
         longitude=longitude,
     )
+
+
+def make_title(item, category, brand_tier, condition, rng):
+    """e.g. "IKEA 6-Drawer Dresser - Some Wear" """
+    title = str(rng.choice(ITEM_NAMES[item]))
+    if brand_tier != "unbranded":
+        title = f"{rng.choice(BRANDS[category][brand_tier])} {title}"
+    if rng.random() < 0.5:
+        title += f" - {rng.choice(TITLE_ENDINGS[condition])}"
+    return title
 
 
 def pick(shares, rng):

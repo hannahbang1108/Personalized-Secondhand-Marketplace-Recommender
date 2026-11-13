@@ -1,52 +1,63 @@
 [
  {
   "buyer_id": "U0000",
-  "name": "Diego",
+  "name": "Amara",
   "priorities": {
    "condition": 2,
-   "seller_trust": 3,
-   "brand": 5
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "walk",
    "transit"
   ],
-  "budget": 830.0,
+  "budget": 1340.0,
   "shopping_list": [
    {
-    "item": "tv",
-    "category": "electronics"
+    "item": "toaster oven",
+    "category": "kitchen"
    },
    {
-    "item": "monitor",
-    "category": "electronics"
-   }
-  ]
- },
- {
-  "buyer_id": "U0001",
-  "name": "Chen",
-  "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 1
-  },
-  "transport": [
-   "walk",
-   "car"
-  ],
-  "budget": 340.0,
-  "shopping_list": [
+    "item": "blender",
+    "category": "kitchen"
+   },
    {
     "item": "coffee maker",
     "category": "kitchen"
    },
    {
-    "item": "sofa",
+    "item": "office chair",
+    "category": "furniture"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0001",
+  "name": "Noah",
+  "priorities": {
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 1
+  },
+  "transport": [
+   "walk"
+  ],
+  "budget": 230.0,
+  "shopping_list": [
+   {
+    "item": "dining table",
     "category": "furniture"
    },
    {
-    "item": "mirror",
+    "item": "curtains",
+    "category": "bedding"
+   },
+   {
+    "item": "bed frame",
+    "category": "furniture"
+   },
+   {
+    "item": "floor lamp",
     "category": "decor"
    }
   ]
@@ -55,88 +66,42 @@
   "buyer_id": "U0002",
   "name": "Noah",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
    "car"
   ],
-  "budget": 1580.0,
+  "budget": 1540.0,
   "shopping_list": [
    {
-    "item": "monitor",
-    "category": "electronics"
+    "item": "cookware set",
+    "category": "kitchen"
    },
    {
-    "item": "tv",
-    "category": "electronics"
-   },
-   {
-    "item": "curtains",
-    "category": "bedding"
-   },
-   {
-    "item": "sofa",
+    "item": "dining table",
     "category": "furniture"
    }
   ]
  },
  {
   "buyer_id": "U0003",
-  "name": "Elena",
+  "name": "Maya",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
-   "walk",
-   "transit",
-   "car"
+   "walk"
   ],
-  "budget": 410.0,
+  "budget": 940.0,
   "shopping_list": [
    {
-    "item": "office chair",
-    "category": "furniture"
-   },
-   {
-    "item": "toaster oven",
+    "item": "coffee maker",
     "category": "kitchen"
-   }
-  ]
- },
- {
-  "buyer_id": "U0004",
-  "name": "Luis",
-  "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 2
-  },
-  "transport": [
-   "walk",
-   "transit"
-  ],
-  "budget": 370.0,
-  "shopping_list": [
-   {
-    "item": "desk",
-    "category": "furniture"
-   },
-   {
-    "item": "office chair",
-    "category": "furniture"
-   },
-   {
-    "item": "mattress topper",
-    "category": "bedding"
-   },
-   {
-    "item": "speaker",
-    "category": "electronics"
    },
    {
     "item": "coffee table",
@@ -145,22 +110,45 @@
   ]
  },
  {
-  "buyer_id": "U0005",
-  "name": "Amara",
+  "buyer_id": "U0004",
+  "name": "Diego",
   "priorities": {
-   "condition": 1,
+   "condition": 4,
    "seller_trust": 4,
-   "brand": 4
+   "brand": 1
   },
   "transport": [
-   "walk"
+   "walk",
+   "transit",
+   "car"
   ],
-  "budget": 660.0,
+  "budget": 1930.0,
   "shopping_list": [
    {
-    "item": "tv",
-    "category": "electronics"
+    "item": "coffee table",
+    "category": "furniture"
    },
+   {
+    "item": "duvet",
+    "category": "bedding"
+   }
+  ]
+ },
+ {
+  "buyer_id": "U0005",
+  "name": "Fatima",
+  "priorities": {
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 5
+  },
+  "transport": [
+   "walk",
+   "transit",
+   "car"
+  ],
+  "budget": 1330.0,
+  "shopping_list": [
    {
     "item": "mattress topper",
     "category": "bedding"
@@ -173,10 +161,10 @@
  },
  {
   "buyer_id": "U0006",
-  "name": "Kwame",
+  "name": "Amara",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
+   "condition": 1,
+   "seller_trust": 4,
    "brand": 4
   },
   "transport": [
@@ -206,10 +194,10 @@
  },
  {
   "buyer_id": "U0007",
-  "name": "Zoe",
+  "name": "Kwame",
   "priorities": {
    "condition": 5,
-   "seller_trust": 4,
+   "seller_trust": 5,
    "brand": 4
   },
   "transport": [
@@ -230,11 +218,11 @@
  },
  {
   "buyer_id": "U0008",
-  "name": "Fatima",
+  "name": "Zoe",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -253,11 +241,11 @@
  },
  {
   "buyer_id": "U0009",
-  "name": "Noah",
+  "name": "Fatima",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "car"
@@ -280,11 +268,11 @@
  },
  {
   "buyer_id": "U0010",
-  "name": "Ravi",
+  "name": "Noah",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -312,11 +300,11 @@
  },
  {
   "buyer_id": "U0011",
-  "name": "Lena",
+  "name": "Ravi",
   "priorities": {
-   "condition": 3,
+   "condition": 1,
    "seller_trust": 5,
-   "brand": 3
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -341,11 +329,11 @@
  },
  {
   "buyer_id": "U0012",
-  "name": "Ines",
+  "name": "Lena",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -365,11 +353,11 @@
  },
  {
   "buyer_id": "U0013",
-  "name": "Maya",
+  "name": "Ines",
   "priorities": {
    "condition": 5,
-   "seller_trust": 1,
-   "brand": 2
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -388,7 +376,7 @@
  },
  {
   "buyer_id": "U0014",
-  "name": "Jordan",
+  "name": "Maya",
   "priorities": {
    "condition": 5,
    "seller_trust": 1,
@@ -415,11 +403,11 @@
  },
  {
   "buyer_id": "U0015",
-  "name": "Omar",
+  "name": "Jordan",
   "priorities": {
    "condition": 5,
    "seller_trust": 1,
-   "brand": 1
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -440,10 +428,10 @@
  },
  {
   "buyer_id": "U0016",
-  "name": "Ravi",
+  "name": "Omar",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
+   "condition": 5,
+   "seller_trust": 1,
    "brand": 1
   },
   "transport": [
@@ -467,11 +455,11 @@
  },
  {
   "buyer_id": "U0017",
-  "name": "Sam",
+  "name": "Ravi",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -499,11 +487,11 @@
  },
  {
   "buyer_id": "U0018",
-  "name": "Maya",
+  "name": "Sam",
   "priorities": {
-   "condition": 5,
+   "condition": 1,
    "seller_trust": 3,
-   "brand": 4
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -535,10 +523,10 @@
  },
  {
   "buyer_id": "U0019",
-  "name": "Amara",
+  "name": "Maya",
   "priorities": {
    "condition": 5,
-   "seller_trust": 2,
+   "seller_trust": 3,
    "brand": 4
   },
   "transport": [
@@ -572,11 +560,11 @@
  },
  {
   "buyer_id": "U0020",
-  "name": "Diego",
+  "name": "Amara",
   "priorities": {
    "condition": 5,
-   "seller_trust": 5,
-   "brand": 2
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -604,10 +592,10 @@
  },
  {
   "buyer_id": "U0021",
-  "name": "Ravi",
+  "name": "Diego",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
+   "condition": 5,
+   "seller_trust": 5,
    "brand": 2
   },
   "transport": [
@@ -640,11 +628,11 @@
  },
  {
   "buyer_id": "U0022",
-  "name": "Maya",
+  "name": "Ravi",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -671,7 +659,7 @@
  },
  {
   "buyer_id": "U0023",
-  "name": "Priya",
+  "name": "Maya",
   "priorities": {
    "condition": 5,
    "seller_trust": 5,
@@ -702,11 +690,11 @@
  },
  {
   "buyer_id": "U0024",
-  "name": "Chen",
+  "name": "Priya",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -730,11 +718,11 @@
  },
  {
   "buyer_id": "U0025",
-  "name": "Zoe",
+  "name": "Chen",
   "priorities": {
-   "condition": 2,
+   "condition": 3,
    "seller_trust": 4,
-   "brand": 4
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -758,11 +746,11 @@
  },
  {
   "buyer_id": "U0026",
-  "name": "Diego",
+  "name": "Zoe",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -787,11 +775,11 @@
  },
  {
   "buyer_id": "U0027",
-  "name": "Elena",
+  "name": "Diego",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 2
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -822,11 +810,11 @@
  },
  {
   "buyer_id": "U0028",
-  "name": "Lena",
+  "name": "Elena",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 2
   },
   "transport": [
    "transit"
@@ -857,11 +845,11 @@
  },
  {
   "buyer_id": "U0029",
-  "name": "Fatima",
+  "name": "Lena",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "car"
@@ -884,10 +872,10 @@
  },
  {
   "buyer_id": "U0030",
-  "name": "Ravi",
+  "name": "Fatima",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
+   "condition": 1,
+   "seller_trust": 4,
    "brand": 5
   },
   "transport": [
@@ -913,11 +901,11 @@
  },
  {
   "buyer_id": "U0031",
-  "name": "Diego",
+  "name": "Ravi",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "car"
@@ -948,11 +936,11 @@
  },
  {
   "buyer_id": "U0032",
-  "name": "Noah",
+  "name": "Diego",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -980,11 +968,11 @@
  },
  {
   "buyer_id": "U0033",
-  "name": "Theo",
+  "name": "Noah",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "car"
@@ -1007,11 +995,11 @@
  },
  {
   "buyer_id": "U0034",
-  "name": "Jordan",
+  "name": "Theo",
   "priorities": {
    "condition": 3,
-   "seller_trust": 5,
-   "brand": 3
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -1042,10 +1030,10 @@
  },
  {
   "buyer_id": "U0035",
-  "name": "Grace",
+  "name": "Jordan",
   "priorities": {
    "condition": 3,
-   "seller_trust": 1,
+   "seller_trust": 5,
    "brand": 3
   },
   "transport": [
@@ -1065,11 +1053,11 @@
  },
  {
   "buyer_id": "U0036",
-  "name": "Diego",
+  "name": "Grace",
   "priorities": {
-   "condition": 4,
+   "condition": 3,
    "seller_trust": 1,
-   "brand": 4
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -1096,11 +1084,11 @@
  },
  {
   "buyer_id": "U0037",
-  "name": "Elena",
+  "name": "Diego",
   "priorities": {
-   "condition": 2,
+   "condition": 4,
    "seller_trust": 1,
-   "brand": 5
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -1132,11 +1120,11 @@
  },
  {
   "buyer_id": "U0038",
-  "name": "Noah",
+  "name": "Elena",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 2
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -1165,11 +1153,11 @@
  },
  {
   "buyer_id": "U0039",
-  "name": "Diego",
+  "name": "Noah",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -1192,11 +1180,11 @@
  },
  {
   "buyer_id": "U0040",
-  "name": "Ines",
+  "name": "Diego",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -1216,11 +1204,11 @@
  },
  {
   "buyer_id": "U0041",
-  "name": "Jordan",
+  "name": "Ines",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -1248,11 +1236,11 @@
  },
  {
   "buyer_id": "U0042",
-  "name": "Maya",
+  "name": "Jordan",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -1276,11 +1264,11 @@
  },
  {
   "buyer_id": "U0043",
-  "name": "Elena",
+  "name": "Maya",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "car"
@@ -1311,11 +1299,11 @@
  },
  {
   "buyer_id": "U0044",
-  "name": "Maya",
+  "name": "Elena",
   "priorities": {
    "condition": 3,
-   "seller_trust": 5,
-   "brand": 5
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -1346,10 +1334,10 @@
  },
  {
   "buyer_id": "U0045",
-  "name": "Hana",
+  "name": "Maya",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
+   "condition": 3,
+   "seller_trust": 5,
    "brand": 5
   },
   "transport": [
@@ -1377,10 +1365,10 @@
  },
  {
   "buyer_id": "U0046",
-  "name": "Fatima",
+  "name": "Hana",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
+   "condition": 5,
+   "seller_trust": 1,
    "brand": 5
   },
   "transport": [
@@ -1401,9 +1389,9 @@
  },
  {
   "buyer_id": "U0047",
-  "name": "Theo",
+  "name": "Fatima",
   "priorities": {
-   "condition": 2,
+   "condition": 4,
    "seller_trust": 4,
    "brand": 5
   },
@@ -1429,10 +1417,10 @@
  },
  {
   "buyer_id": "U0048",
-  "name": "Amara",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
+   "condition": 2,
+   "seller_trust": 4,
    "brand": 5
   },
   "transport": [
@@ -1461,11 +1449,11 @@
  },
  {
   "buyer_id": "U0049",
-  "name": "Priya",
+  "name": "Amara",
   "priorities": {
    "condition": 4,
-   "seller_trust": 4,
-   "brand": 3
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -1493,11 +1481,11 @@
  },
  {
   "buyer_id": "U0050",
-  "name": "Ravi",
+  "name": "Priya",
   "priorities": {
    "condition": 4,
-   "seller_trust": 3,
-   "brand": 4
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -1530,9 +1518,9 @@
  },
  {
   "buyer_id": "U0051",
-  "name": "Hana",
+  "name": "Ravi",
   "priorities": {
-   "condition": 3,
+   "condition": 4,
    "seller_trust": 3,
    "brand": 4
   },
@@ -1561,11 +1549,11 @@
  },
  {
   "buyer_id": "U0052",
-  "name": "Lena",
+  "name": "Hana",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "car"
@@ -1592,11 +1580,11 @@
  },
  {
   "buyer_id": "U0053",
-  "name": "Jordan",
+  "name": "Lena",
   "priorities": {
    "condition": 5,
-   "seller_trust": 4,
-   "brand": 4
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -1616,11 +1604,11 @@
  },
  {
   "buyer_id": "U0054",
-  "name": "Elena",
+  "name": "Jordan",
   "priorities": {
    "condition": 5,
-   "seller_trust": 3,
-   "brand": 1
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -1648,11 +1636,11 @@
  },
  {
   "buyer_id": "U0055",
-  "name": "Kwame",
+  "name": "Elena",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -1685,11 +1673,11 @@
  },
  {
   "buyer_id": "U0056",
-  "name": "Ravi",
+  "name": "Kwame",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -1710,7 +1698,7 @@
  },
  {
   "buyer_id": "U0057",
-  "name": "Jordan",
+  "name": "Ravi",
   "priorities": {
    "condition": 4,
    "seller_trust": 5,
@@ -1746,11 +1734,11 @@
  },
  {
   "buyer_id": "U0058",
-  "name": "Ravi",
+  "name": "Jordan",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -1774,11 +1762,11 @@
  },
  {
   "buyer_id": "U0059",
-  "name": "Elena",
+  "name": "Ravi",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 4
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -1806,11 +1794,11 @@
  },
  {
   "buyer_id": "U0060",
-  "name": "Ines",
+  "name": "Elena",
   "priorities": {
    "condition": 2,
-   "seller_trust": 3,
-   "brand": 3
+   "seller_trust": 5,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -1843,11 +1831,11 @@
  },
  {
   "buyer_id": "U0061",
-  "name": "Grace",
+  "name": "Ines",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -1879,10 +1867,10 @@
  },
  {
   "buyer_id": "U0062",
-  "name": "Luis",
+  "name": "Grace",
   "priorities": {
    "condition": 5,
-   "seller_trust": 5,
+   "seller_trust": 4,
    "brand": 4
   },
   "transport": [
@@ -1910,10 +1898,10 @@
  },
  {
   "buyer_id": "U0063",
-  "name": "Hana",
+  "name": "Luis",
   "priorities": {
    "condition": 5,
-   "seller_trust": 3,
+   "seller_trust": 5,
    "brand": 4
   },
   "transport": [
@@ -1933,11 +1921,11 @@
  },
  {
   "buyer_id": "U0064",
-  "name": "Amara",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -1966,11 +1954,11 @@
  },
  {
   "buyer_id": "U0065",
-  "name": "Grace",
+  "name": "Amara",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -2002,11 +1990,11 @@
  },
  {
   "buyer_id": "U0066",
-  "name": "Amara",
+  "name": "Grace",
   "priorities": {
-   "condition": 1,
+   "condition": 3,
    "seller_trust": 3,
-   "brand": 5
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -2030,11 +2018,11 @@
  },
  {
   "buyer_id": "U0067",
-  "name": "Noah",
+  "name": "Amara",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "transit",
@@ -2062,11 +2050,11 @@
  },
  {
   "buyer_id": "U0068",
-  "name": "Amara",
+  "name": "Noah",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -2089,11 +2077,11 @@
  },
  {
   "buyer_id": "U0069",
-  "name": "Ravi",
+  "name": "Amara",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -2125,11 +2113,11 @@
  },
  {
   "buyer_id": "U0070",
-  "name": "Amara",
+  "name": "Ravi",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -2161,10 +2149,10 @@
  },
  {
   "buyer_id": "U0071",
-  "name": "Elena",
+  "name": "Amara",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
+   "condition": 1,
+   "seller_trust": 5,
    "brand": 5
   },
   "transport": [
@@ -2188,10 +2176,10 @@
  },
  {
   "buyer_id": "U0072",
-  "name": "Zoe",
+  "name": "Elena",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
+   "condition": 4,
+   "seller_trust": 2,
    "brand": 5
   },
   "transport": [
@@ -2219,11 +2207,11 @@
  },
  {
   "buyer_id": "U0073",
-  "name": "Chen",
+  "name": "Zoe",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "transit",
@@ -2247,11 +2235,11 @@
  },
  {
   "buyer_id": "U0074",
-  "name": "Hana",
+  "name": "Chen",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "transit"
@@ -2278,11 +2266,11 @@
  },
  {
   "buyer_id": "U0075",
-  "name": "Maya",
+  "name": "Hana",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 3
   },
   "transport": [
    "transit",
@@ -2314,10 +2302,10 @@
  },
  {
   "buyer_id": "U0076",
-  "name": "Zoe",
+  "name": "Maya",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
+   "condition": 3,
+   "seller_trust": 2,
    "brand": 5
   },
   "transport": [
@@ -2337,11 +2325,11 @@
  },
  {
   "buyer_id": "U0077",
-  "name": "Priya",
+  "name": "Zoe",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 5
   },
   "transport": [
    "car"
@@ -2368,11 +2356,11 @@
  },
  {
   "buyer_id": "U0078",
-  "name": "Grace",
+  "name": "Priya",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -2400,10 +2388,10 @@
  },
  {
   "buyer_id": "U0079",
-  "name": "Zoe",
+  "name": "Grace",
   "priorities": {
    "condition": 4,
-   "seller_trust": 5,
+   "seller_trust": 1,
    "brand": 2
   },
   "transport": [
@@ -2423,11 +2411,11 @@
  },
  {
   "buyer_id": "U0080",
-  "name": "Noah",
+  "name": "Zoe",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -2456,11 +2444,11 @@
  },
  {
   "buyer_id": "U0081",
-  "name": "Omar",
+  "name": "Noah",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -2485,11 +2473,11 @@
  },
  {
   "buyer_id": "U0082",
-  "name": "Kwame",
+  "name": "Omar",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "transit",
@@ -2509,11 +2497,11 @@
  },
  {
   "buyer_id": "U0083",
-  "name": "Lena",
+  "name": "Kwame",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -2540,10 +2528,10 @@
  },
  {
   "buyer_id": "U0084",
-  "name": "Jordan",
+  "name": "Lena",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
+   "condition": 1,
+   "seller_trust": 5,
    "brand": 5
   },
   "transport": [
@@ -2567,11 +2555,11 @@
  },
  {
   "buyer_id": "U0085",
-  "name": "Elena",
+  "name": "Jordan",
   "priorities": {
    "condition": 5,
-   "seller_trust": 5,
-   "brand": 3
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "transit"
@@ -2604,9 +2592,9 @@
   "buyer_id": "U0086",
   "name": "Elena",
   "priorities": {
-   "condition": 4,
+   "condition": 5,
    "seller_trust": 5,
-   "brand": 5
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -2630,11 +2618,11 @@
  },
  {
   "buyer_id": "U0087",
-  "name": "Luis",
+  "name": "Elena",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -2658,11 +2646,11 @@
  },
  {
   "buyer_id": "U0088",
-  "name": "Zoe",
+  "name": "Luis",
   "priorities": {
    "condition": 5,
-   "seller_trust": 3,
-   "brand": 4
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -2682,11 +2670,11 @@
  },
  {
   "buyer_id": "U0089",
-  "name": "Ravi",
+  "name": "Zoe",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -2706,11 +2694,11 @@
  },
  {
   "buyer_id": "U0090",
-  "name": "Theo",
+  "name": "Ravi",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 2
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "car"
@@ -2733,11 +2721,11 @@
  },
  {
   "buyer_id": "U0091",
-  "name": "Omar",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 2
   },
   "transport": [
    "car"
@@ -2764,10 +2752,10 @@
  },
  {
   "buyer_id": "U0092",
-  "name": "Kwame",
+  "name": "Omar",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
+   "condition": 4,
+   "seller_trust": 2,
    "brand": 3
   },
   "transport": [
@@ -2801,7 +2789,7 @@
  },
  {
   "buyer_id": "U0093",
-  "name": "Ines",
+  "name": "Kwame",
   "priorities": {
    "condition": 1,
    "seller_trust": 4,
@@ -2832,9 +2820,9 @@
  },
  {
   "buyer_id": "U0094",
-  "name": "Theo",
+  "name": "Ines",
   "priorities": {
-   "condition": 2,
+   "condition": 1,
    "seller_trust": 4,
    "brand": 3
   },
@@ -2855,11 +2843,11 @@
  },
  {
   "buyer_id": "U0095",
-  "name": "Maya",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
+   "condition": 2,
    "seller_trust": 4,
-   "brand": 1
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -2890,11 +2878,11 @@
  },
  {
   "buyer_id": "U0096",
-  "name": "Jordan",
+  "name": "Maya",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -2922,11 +2910,11 @@
  },
  {
   "buyer_id": "U0097",
-  "name": "Grace",
+  "name": "Jordan",
   "priorities": {
-   "condition": 3,
+   "condition": 2,
    "seller_trust": 5,
-   "brand": 5
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -2951,11 +2939,11 @@
  },
  {
   "buyer_id": "U0098",
-  "name": "Noah",
+  "name": "Grace",
   "priorities": {
    "condition": 3,
-   "seller_trust": 3,
-   "brand": 1
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "car"
@@ -2982,11 +2970,11 @@
  },
  {
   "buyer_id": "U0099",
-  "name": "Sam",
+  "name": "Noah",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
-   "brand": 5
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -3005,11 +2993,11 @@
  },
  {
   "buyer_id": "U0100",
-  "name": "Priya",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -3037,10 +3025,10 @@
  },
  {
   "buyer_id": "U0101",
-  "name": "Hana",
+  "name": "Priya",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
+   "condition": 4,
+   "seller_trust": 4,
    "brand": 3
   },
   "transport": [
@@ -3068,11 +3056,11 @@
  },
  {
   "buyer_id": "U0102",
-  "name": "Theo",
+  "name": "Hana",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -3099,11 +3087,11 @@
  },
  {
   "buyer_id": "U0103",
-  "name": "Maya",
+  "name": "Theo",
   "priorities": {
    "condition": 3,
    "seller_trust": 3,
-   "brand": 3
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -3131,11 +3119,11 @@
  },
  {
   "buyer_id": "U0104",
-  "name": "Lena",
+  "name": "Maya",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
-   "brand": 1
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 3
   },
   "transport": [
    "transit",
@@ -3163,11 +3151,11 @@
  },
  {
   "buyer_id": "U0105",
-  "name": "Ines",
+  "name": "Lena",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "transit",
@@ -3199,11 +3187,11 @@
  },
  {
   "buyer_id": "U0106",
-  "name": "Maya",
+  "name": "Ines",
   "priorities": {
    "condition": 3,
-   "seller_trust": 1,
-   "brand": 5
+   "seller_trust": 2,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -3222,11 +3210,11 @@
  },
  {
   "buyer_id": "U0107",
-  "name": "Theo",
+  "name": "Maya",
   "priorities": {
    "condition": 3,
-   "seller_trust": 2,
-   "brand": 2
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -3254,11 +3242,11 @@
  },
  {
   "buyer_id": "U0108",
-  "name": "Omar",
+  "name": "Theo",
   "priorities": {
    "condition": 3,
-   "seller_trust": 1,
-   "brand": 4
+   "seller_trust": 2,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -3282,11 +3270,11 @@
  },
  {
   "buyer_id": "U0109",
-  "name": "Sam",
+  "name": "Omar",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -3310,11 +3298,11 @@
  },
  {
   "buyer_id": "U0110",
-  "name": "Hana",
+  "name": "Sam",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -3335,11 +3323,11 @@
  },
  {
   "buyer_id": "U0111",
-  "name": "Elena",
+  "name": "Hana",
   "priorities": {
-   "condition": 4,
+   "condition": 5,
    "seller_trust": 4,
-   "brand": 2
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -3362,9 +3350,9 @@
  },
  {
   "buyer_id": "U0112",
-  "name": "Fatima",
+  "name": "Elena",
   "priorities": {
-   "condition": 2,
+   "condition": 4,
    "seller_trust": 4,
    "brand": 2
   },
@@ -3394,10 +3382,10 @@
  },
  {
   "buyer_id": "U0113",
-  "name": "Amara",
+  "name": "Fatima",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
+   "condition": 2,
+   "seller_trust": 4,
    "brand": 2
   },
   "transport": [
@@ -3429,10 +3417,10 @@
  },
  {
   "buyer_id": "U0114",
-  "name": "Kwame",
+  "name": "Amara",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
+   "condition": 5,
+   "seller_trust": 3,
    "brand": 2
   },
   "transport": [
@@ -3460,11 +3448,11 @@
  },
  {
   "buyer_id": "U0115",
-  "name": "Hana",
+  "name": "Kwame",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -3493,11 +3481,11 @@
  },
  {
   "buyer_id": "U0116",
-  "name": "Theo",
+  "name": "Hana",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -3520,11 +3508,11 @@
  },
  {
   "buyer_id": "U0117",
-  "name": "Omar",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -3552,11 +3540,11 @@
  },
  {
   "buyer_id": "U0118",
-  "name": "Fatima",
+  "name": "Omar",
   "priorities": {
-   "condition": 3,
+   "condition": 4,
    "seller_trust": 2,
-   "brand": 3
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -3579,11 +3567,11 @@
  },
  {
   "buyer_id": "U0119",
-  "name": "Kwame",
+  "name": "Fatima",
   "priorities": {
    "condition": 3,
    "seller_trust": 2,
-   "brand": 4
+   "brand": 3
   },
   "transport": [
    "transit",
@@ -3607,11 +3595,11 @@
  },
  {
   "buyer_id": "U0120",
-  "name": "Fatima",
+  "name": "Kwame",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -3634,11 +3622,11 @@
  },
  {
   "buyer_id": "U0121",
-  "name": "Amara",
+  "name": "Fatima",
   "priorities": {
-   "condition": 5,
+   "condition": 4,
    "seller_trust": 5,
-   "brand": 1
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -3657,10 +3645,10 @@
  },
  {
   "buyer_id": "U0122",
-  "name": "Luis",
+  "name": "Amara",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
+   "condition": 5,
+   "seller_trust": 5,
    "brand": 1
   },
   "transport": [
@@ -3692,11 +3680,11 @@
  },
  {
   "buyer_id": "U0123",
-  "name": "Kwame",
+  "name": "Luis",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -3727,10 +3715,10 @@
  },
  {
   "buyer_id": "U0124",
-  "name": "Sam",
+  "name": "Kwame",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
+   "condition": 5,
+   "seller_trust": 1,
    "brand": 4
   },
   "transport": [
@@ -3752,11 +3740,11 @@
  },
  {
   "buyer_id": "U0125",
-  "name": "Jordan",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -3776,11 +3764,11 @@
  },
  {
   "buyer_id": "U0126",
-  "name": "Ines",
+  "name": "Jordan",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 2
   },
   "transport": [
    "transit"
@@ -3807,11 +3795,11 @@
  },
  {
   "buyer_id": "U0127",
-  "name": "Priya",
+  "name": "Ines",
   "priorities": {
    "condition": 1,
-   "seller_trust": 1,
-   "brand": 1
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -3843,11 +3831,11 @@
  },
  {
   "buyer_id": "U0128",
-  "name": "Ravi",
+  "name": "Priya",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "transit"
@@ -3874,11 +3862,11 @@
  },
  {
   "buyer_id": "U0129",
-  "name": "Sam",
+  "name": "Ravi",
   "priorities": {
    "condition": 3,
-   "seller_trust": 3,
-   "brand": 4
+   "seller_trust": 2,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -3902,10 +3890,10 @@
  },
  {
   "buyer_id": "U0130",
-  "name": "Theo",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
+   "condition": 3,
+   "seller_trust": 3,
    "brand": 4
   },
   "transport": [
@@ -3937,11 +3925,11 @@
  },
  {
   "buyer_id": "U0131",
-  "name": "Amara",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -3973,11 +3961,11 @@
  },
  {
   "buyer_id": "U0132",
-  "name": "Priya",
+  "name": "Amara",
   "priorities": {
-   "condition": 1,
+   "condition": 5,
    "seller_trust": 5,
-   "brand": 4
+   "brand": 2
   },
   "transport": [
    "car"
@@ -4000,10 +3988,10 @@
  },
  {
   "buyer_id": "U0133",
-  "name": "Hana",
+  "name": "Priya",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
+   "condition": 1,
+   "seller_trust": 5,
    "brand": 4
   },
   "transport": [
@@ -4024,11 +4012,11 @@
  },
  {
   "buyer_id": "U0134",
-  "name": "Jordan",
+  "name": "Hana",
   "priorities": {
    "condition": 3,
-   "seller_trust": 3,
-   "brand": 2
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -4057,9 +4045,9 @@
   "buyer_id": "U0135",
   "name": "Jordan",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "transit"
@@ -4082,10 +4070,10 @@
  },
  {
   "buyer_id": "U0136",
-  "name": "Diego",
+  "name": "Jordan",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
+   "condition": 2,
+   "seller_trust": 4,
    "brand": 4
   },
   "transport": [
@@ -4117,11 +4105,11 @@
  },
  {
   "buyer_id": "U0137",
-  "name": "Kwame",
+  "name": "Diego",
   "priorities": {
    "condition": 1,
-   "seller_trust": 4,
-   "brand": 1
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -4142,11 +4130,11 @@
  },
  {
   "buyer_id": "U0138",
-  "name": "Omar",
+  "name": "Kwame",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -4166,9 +4154,9 @@
  },
  {
   "buyer_id": "U0139",
-  "name": "Grace",
+  "name": "Omar",
   "priorities": {
-   "condition": 5,
+   "condition": 4,
    "seller_trust": 2,
    "brand": 4
   },
@@ -4197,11 +4185,11 @@
  },
  {
   "buyer_id": "U0140",
-  "name": "Priya",
+  "name": "Grace",
   "priorities": {
-   "condition": 1,
+   "condition": 5,
    "seller_trust": 2,
-   "brand": 3
+   "brand": 4
   },
   "transport": [
    "car"
@@ -4220,11 +4208,11 @@
  },
  {
   "buyer_id": "U0141",
-  "name": "Luis",
+  "name": "Priya",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 5
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "car"
@@ -4247,11 +4235,11 @@
  },
  {
   "buyer_id": "U0142",
-  "name": "Sam",
+  "name": "Luis",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -4283,11 +4271,11 @@
  },
  {
   "buyer_id": "U0143",
-  "name": "Zoe",
+  "name": "Sam",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -4308,11 +4296,11 @@
  },
  {
   "buyer_id": "U0144",
-  "name": "Jordan",
+  "name": "Zoe",
   "priorities": {
    "condition": 3,
-   "seller_trust": 1,
-   "brand": 5
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -4340,7 +4328,7 @@
  },
  {
   "buyer_id": "U0145",
-  "name": "Amara",
+  "name": "Jordan",
   "priorities": {
    "condition": 3,
    "seller_trust": 1,
@@ -4376,10 +4364,10 @@
  },
  {
   "buyer_id": "U0146",
-  "name": "Theo",
+  "name": "Amara",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
+   "condition": 3,
+   "seller_trust": 1,
    "brand": 5
   },
   "transport": [
@@ -4399,11 +4387,11 @@
  },
  {
   "buyer_id": "U0147",
-  "name": "Jordan",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -4435,11 +4423,11 @@
  },
  {
   "buyer_id": "U0148",
-  "name": "Chen",
+  "name": "Jordan",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "transit",
@@ -4459,11 +4447,11 @@
  },
  {
   "buyer_id": "U0149",
-  "name": "Theo",
+  "name": "Chen",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -4491,11 +4479,11 @@
  },
  {
   "buyer_id": "U0150",
-  "name": "Elena",
+  "name": "Theo",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -4524,11 +4512,11 @@
  },
  {
   "buyer_id": "U0151",
-  "name": "Luis",
+  "name": "Elena",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -4559,11 +4547,11 @@
  },
  {
   "buyer_id": "U0152",
-  "name": "Diego",
+  "name": "Luis",
   "priorities": {
    "condition": 4,
-   "seller_trust": 1,
-   "brand": 5
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -4587,10 +4575,10 @@
  },
  {
   "buyer_id": "U0153",
-  "name": "Sam",
+  "name": "Diego",
   "priorities": {
    "condition": 4,
-   "seller_trust": 2,
+   "seller_trust": 1,
    "brand": 5
   },
   "transport": [
@@ -4615,10 +4603,10 @@
  },
  {
   "buyer_id": "U0154",
-  "name": "Grace",
+  "name": "Sam",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
+   "condition": 4,
+   "seller_trust": 2,
    "brand": 5
   },
   "transport": [
@@ -4642,10 +4630,10 @@
  },
  {
   "buyer_id": "U0155",
-  "name": "Sam",
+  "name": "Grace",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
+   "condition": 5,
+   "seller_trust": 3,
    "brand": 5
   },
   "transport": [
@@ -4677,11 +4665,11 @@
  },
  {
   "buyer_id": "U0156",
-  "name": "Zoe",
+  "name": "Sam",
   "priorities": {
    "condition": 2,
-   "seller_trust": 3,
-   "brand": 2
+   "seller_trust": 4,
+   "brand": 5
   },
   "transport": [
    "car"
@@ -4702,9 +4690,9 @@
   "buyer_id": "U0157",
   "name": "Zoe",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -4736,10 +4724,10 @@
  },
  {
   "buyer_id": "U0158",
-  "name": "Luis",
+  "name": "Zoe",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
+   "condition": 4,
+   "seller_trust": 1,
    "brand": 3
   },
   "transport": [
@@ -4763,11 +4751,11 @@
  },
  {
   "buyer_id": "U0159",
-  "name": "Grace",
+  "name": "Luis",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -4799,11 +4787,11 @@
  },
  {
   "buyer_id": "U0160",
-  "name": "Zoe",
+  "name": "Grace",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 4
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -4828,11 +4816,11 @@
  },
  {
   "buyer_id": "U0161",
-  "name": "Jordan",
+  "name": "Zoe",
   "priorities": {
-   "condition": 1,
+   "condition": 4,
    "seller_trust": 3,
-   "brand": 2
+   "brand": 4
   },
   "transport": [
    "car"
@@ -4863,11 +4851,11 @@
  },
  {
   "buyer_id": "U0162",
-  "name": "Ravi",
+  "name": "Jordan",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -4890,11 +4878,11 @@
  },
  {
   "buyer_id": "U0163",
-  "name": "Jordan",
+  "name": "Ravi",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -4926,11 +4914,11 @@
  },
  {
   "buyer_id": "U0164",
-  "name": "Grace",
+  "name": "Jordan",
   "priorities": {
    "condition": 2,
    "seller_trust": 1,
-   "brand": 2
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -4957,11 +4945,11 @@
  },
  {
   "buyer_id": "U0165",
-  "name": "Noah",
+  "name": "Grace",
   "priorities": {
-   "condition": 3,
+   "condition": 2,
    "seller_trust": 1,
-   "brand": 1
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -4989,11 +4977,11 @@
  },
  {
   "buyer_id": "U0166",
-  "name": "Jordan",
+  "name": "Noah",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -5016,11 +5004,11 @@
  },
  {
   "buyer_id": "U0167",
-  "name": "Sam",
+  "name": "Jordan",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -5043,11 +5031,11 @@
  },
  {
   "buyer_id": "U0168",
-  "name": "Zoe",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -5076,9 +5064,9 @@
   "buyer_id": "U0169",
   "name": "Zoe",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "car"
@@ -5109,11 +5097,11 @@
  },
  {
   "buyer_id": "U0170",
-  "name": "Omar",
+  "name": "Zoe",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 1,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -5133,11 +5121,11 @@
  },
  {
   "buyer_id": "U0171",
-  "name": "Diego",
+  "name": "Omar",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 5
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -5157,11 +5145,11 @@
  },
  {
   "buyer_id": "U0172",
-  "name": "Grace",
+  "name": "Diego",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "car"
@@ -5188,11 +5176,11 @@
  },
  {
   "buyer_id": "U0173",
-  "name": "Maya",
+  "name": "Grace",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -5223,10 +5211,10 @@
  },
  {
   "buyer_id": "U0174",
-  "name": "Sam",
+  "name": "Maya",
   "priorities": {
    "condition": 3,
-   "seller_trust": 2,
+   "seller_trust": 3,
    "brand": 3
   },
   "transport": [
@@ -5259,11 +5247,11 @@
  },
  {
   "buyer_id": "U0175",
-  "name": "Theo",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "car"
@@ -5286,11 +5274,11 @@
  },
  {
   "buyer_id": "U0176",
-  "name": "Sam",
+  "name": "Theo",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -5317,11 +5305,11 @@
  },
  {
   "buyer_id": "U0177",
-  "name": "Theo",
+  "name": "Sam",
   "priorities": {
    "condition": 3,
-   "seller_trust": 1,
-   "brand": 3
+   "seller_trust": 4,
+   "brand": 2
   },
   "transport": [
    "transit"
@@ -5340,11 +5328,11 @@
  },
  {
   "buyer_id": "U0178",
-  "name": "Fatima",
+  "name": "Theo",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -5375,11 +5363,11 @@
  },
  {
   "buyer_id": "U0179",
-  "name": "Hana",
+  "name": "Fatima",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "car"
@@ -5406,11 +5394,11 @@
  },
  {
   "buyer_id": "U0180",
-  "name": "Zoe",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -5442,11 +5430,11 @@
  },
  {
   "buyer_id": "U0181",
-  "name": "Lena",
+  "name": "Zoe",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "transit",
@@ -5470,11 +5458,11 @@
  },
  {
   "buyer_id": "U0182",
-  "name": "Fatima",
+  "name": "Lena",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -5505,11 +5493,11 @@
  },
  {
   "buyer_id": "U0183",
-  "name": "Noah",
+  "name": "Fatima",
   "priorities": {
-   "condition": 4,
+   "condition": 1,
    "seller_trust": 1,
-   "brand": 2
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -5528,11 +5516,11 @@
  },
  {
   "buyer_id": "U0184",
-  "name": "Ines",
+  "name": "Noah",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -5565,11 +5553,11 @@
  },
  {
   "buyer_id": "U0185",
-  "name": "Fatima",
+  "name": "Ines",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -5594,11 +5582,11 @@
  },
  {
   "buyer_id": "U0186",
-  "name": "Amara",
+  "name": "Fatima",
   "priorities": {
    "condition": 2,
    "seller_trust": 2,
-   "brand": 4
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -5619,11 +5607,11 @@
  },
  {
   "buyer_id": "U0187",
-  "name": "Hana",
+  "name": "Amara",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -5646,11 +5634,11 @@
  },
  {
   "buyer_id": "U0188",
-  "name": "Ravi",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
+   "condition": 4,
    "seller_trust": 5,
-   "brand": 2
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -5682,11 +5670,11 @@
  },
  {
   "buyer_id": "U0189",
-  "name": "Omar",
+  "name": "Ravi",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -5710,9 +5698,9 @@
  },
  {
   "buyer_id": "U0190",
-  "name": "Hana",
+  "name": "Omar",
   "priorities": {
-   "condition": 3,
+   "condition": 5,
    "seller_trust": 4,
    "brand": 3
   },
@@ -5733,11 +5721,11 @@
  },
  {
   "buyer_id": "U0191",
-  "name": "Sam",
+  "name": "Hana",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -5764,11 +5752,11 @@
  },
  {
   "buyer_id": "U0192",
-  "name": "Diego",
+  "name": "Sam",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -5791,10 +5779,10 @@
  },
  {
   "buyer_id": "U0193",
-  "name": "Omar",
+  "name": "Diego",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
+   "condition": 2,
+   "seller_trust": 2,
    "brand": 2
   },
   "transport": [
@@ -5814,10 +5802,10 @@
  },
  {
   "buyer_id": "U0194",
-  "name": "Ravi",
+  "name": "Omar",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
+   "condition": 5,
+   "seller_trust": 4,
    "brand": 2
   },
   "transport": [
@@ -5841,11 +5829,11 @@
  },
  {
   "buyer_id": "U0195",
-  "name": "Hana",
+  "name": "Ravi",
   "priorities": {
    "condition": 4,
-   "seller_trust": 2,
-   "brand": 3
+   "seller_trust": 1,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -5872,10 +5860,10 @@
  },
  {
   "buyer_id": "U0196",
-  "name": "Theo",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
+   "condition": 4,
+   "seller_trust": 2,
    "brand": 3
   },
   "transport": [
@@ -5896,11 +5884,11 @@
  },
  {
   "buyer_id": "U0197",
-  "name": "Fatima",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -5923,8 +5911,8 @@
   "name": "Fatima",
   "priorities": {
    "condition": 5,
-   "seller_trust": 3,
-   "brand": 1
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "car"
@@ -5943,11 +5931,11 @@
  },
  {
   "buyer_id": "U0199",
-  "name": "Hana",
+  "name": "Fatima",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "transit",
@@ -5975,11 +5963,11 @@
  },
  {
   "buyer_id": "U0200",
-  "name": "Luis",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -6011,11 +5999,11 @@
  },
  {
   "buyer_id": "U0201",
-  "name": "Diego",
+  "name": "Luis",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -6047,11 +6035,11 @@
  },
  {
   "buyer_id": "U0202",
-  "name": "Theo",
+  "name": "Diego",
   "priorities": {
    "condition": 1,
-   "seller_trust": 4,
-   "brand": 4
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -6078,11 +6066,11 @@
  },
  {
   "buyer_id": "U0203",
-  "name": "Omar",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -6114,11 +6102,11 @@
  },
  {
   "buyer_id": "U0204",
-  "name": "Maya",
+  "name": "Omar",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -6138,11 +6126,11 @@
  },
  {
   "buyer_id": "U0205",
-  "name": "Ravi",
+  "name": "Maya",
   "priorities": {
    "condition": 3,
-   "seller_trust": 1,
-   "brand": 3
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -6173,11 +6161,11 @@
  },
  {
   "buyer_id": "U0206",
-  "name": "Theo",
+  "name": "Ravi",
   "priorities": {
    "condition": 3,
-   "seller_trust": 4,
-   "brand": 5
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -6200,11 +6188,11 @@
  },
  {
   "buyer_id": "U0207",
-  "name": "Omar",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
+   "condition": 3,
    "seller_trust": 4,
-   "brand": 3
+   "brand": 5
   },
   "transport": [
    "car"
@@ -6231,11 +6219,11 @@
  },
  {
   "buyer_id": "U0208",
-  "name": "Lena",
+  "name": "Omar",
   "priorities": {
-   "condition": 2,
+   "condition": 5,
    "seller_trust": 4,
-   "brand": 1
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -6267,11 +6255,11 @@
  },
  {
   "buyer_id": "U0209",
-  "name": "Jordan",
+  "name": "Lena",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -6302,11 +6290,11 @@
  },
  {
   "buyer_id": "U0210",
-  "name": "Ines",
+  "name": "Jordan",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -6335,11 +6323,11 @@
  },
  {
   "buyer_id": "U0211",
-  "name": "Amara",
+  "name": "Ines",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -6359,11 +6347,11 @@
  },
  {
   "buyer_id": "U0212",
-  "name": "Priya",
+  "name": "Amara",
   "priorities": {
-   "condition": 5,
+   "condition": 3,
    "seller_trust": 4,
-   "brand": 3
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -6394,9 +6382,9 @@
   "buyer_id": "U0213",
   "name": "Priya",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -6419,11 +6407,11 @@
  },
  {
   "buyer_id": "U0214",
-  "name": "Hana",
+  "name": "Priya",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -6446,10 +6434,10 @@
  },
  {
   "buyer_id": "U0215",
-  "name": "Kwame",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
+   "condition": 4,
+   "seller_trust": 5,
    "brand": 2
   },
   "transport": [
@@ -6474,11 +6462,11 @@
  },
  {
   "buyer_id": "U0216",
-  "name": "Lena",
+  "name": "Kwame",
   "priorities": {
-   "condition": 3,
+   "condition": 2,
    "seller_trust": 2,
-   "brand": 5
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -6509,11 +6497,11 @@
  },
  {
   "buyer_id": "U0217",
-  "name": "Noah",
+  "name": "Lena",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -6544,11 +6532,11 @@
  },
  {
   "buyer_id": "U0218",
-  "name": "Jordan",
+  "name": "Noah",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -6576,11 +6564,11 @@
  },
  {
   "buyer_id": "U0219",
-  "name": "Zoe",
+  "name": "Jordan",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "transit",
@@ -6606,9 +6594,9 @@
   "buyer_id": "U0220",
   "name": "Zoe",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "transit",
@@ -6634,9 +6622,9 @@
   "buyer_id": "U0221",
   "name": "Zoe",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -6655,11 +6643,11 @@
  },
  {
   "buyer_id": "U0222",
-  "name": "Fatima",
+  "name": "Zoe",
   "priorities": {
-   "condition": 3,
+   "condition": 1,
    "seller_trust": 1,
-   "brand": 5
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -6690,11 +6678,11 @@
  },
  {
   "buyer_id": "U0223",
-  "name": "Hana",
+  "name": "Fatima",
   "priorities": {
    "condition": 3,
-   "seller_trust": 5,
-   "brand": 2
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -6722,10 +6710,10 @@
  },
  {
   "buyer_id": "U0224",
-  "name": "Kwame",
+  "name": "Hana",
   "priorities": {
    "condition": 3,
-   "seller_trust": 1,
+   "seller_trust": 5,
    "brand": 2
   },
   "transport": [
@@ -6751,9 +6739,9 @@
  },
  {
   "buyer_id": "U0225",
-  "name": "Elena",
+  "name": "Kwame",
   "priorities": {
-   "condition": 1,
+   "condition": 3,
    "seller_trust": 1,
    "brand": 2
   },
@@ -6787,11 +6775,11 @@
  },
  {
   "buyer_id": "U0226",
-  "name": "Ravi",
+  "name": "Elena",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -6819,11 +6807,11 @@
  },
  {
   "buyer_id": "U0227",
-  "name": "Luis",
+  "name": "Ravi",
   "priorities": {
-   "condition": 4,
+   "condition": 3,
    "seller_trust": 4,
-   "brand": 4
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -6844,10 +6832,10 @@
  },
  {
   "buyer_id": "U0228",
-  "name": "Hana",
+  "name": "Luis",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 1,
+   "condition": 4,
+   "seller_trust": 4,
    "brand": 4
   },
   "transport": [
@@ -6868,11 +6856,11 @@
  },
  {
   "buyer_id": "U0229",
-  "name": "Priya",
+  "name": "Hana",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -6903,11 +6891,11 @@
  },
  {
   "buyer_id": "U0230",
-  "name": "Theo",
+  "name": "Priya",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -6931,11 +6919,11 @@
  },
  {
   "buyer_id": "U0231",
-  "name": "Omar",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -6958,11 +6946,11 @@
  },
  {
   "buyer_id": "U0232",
-  "name": "Noah",
+  "name": "Omar",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -6981,11 +6969,11 @@
  },
  {
   "buyer_id": "U0233",
-  "name": "Grace",
+  "name": "Noah",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -7010,9 +6998,9 @@
   "buyer_id": "U0234",
   "name": "Grace",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 1,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "transit",
@@ -7040,10 +7028,10 @@
  },
  {
   "buyer_id": "U0235",
-  "name": "Ines",
+  "name": "Grace",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
+   "condition": 3,
+   "seller_trust": 1,
    "brand": 5
   },
   "transport": [
@@ -7073,11 +7061,11 @@
  },
  {
   "buyer_id": "U0236",
-  "name": "Zoe",
+  "name": "Ines",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -7108,8 +7096,8 @@
   "buyer_id": "U0237",
   "name": "Zoe",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
+   "condition": 5,
+   "seller_trust": 3,
    "brand": 1
   },
   "transport": [
@@ -7143,11 +7131,11 @@
  },
  {
   "buyer_id": "U0238",
-  "name": "Chen",
+  "name": "Zoe",
   "priorities": {
-   "condition": 1,
+   "condition": 3,
    "seller_trust": 5,
-   "brand": 3
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -7175,11 +7163,11 @@
  },
  {
   "buyer_id": "U0239",
-  "name": "Luis",
+  "name": "Chen",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 1,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -7200,11 +7188,11 @@
  },
  {
   "buyer_id": "U0240",
-  "name": "Lena",
+  "name": "Luis",
   "priorities": {
-   "condition": 5,
+   "condition": 3,
    "seller_trust": 1,
-   "brand": 4
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -7225,11 +7213,11 @@
  },
  {
   "buyer_id": "U0241",
-  "name": "Fatima",
+  "name": "Lena",
   "priorities": {
    "condition": 5,
    "seller_trust": 1,
-   "brand": 5
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -7254,11 +7242,11 @@
  },
  {
   "buyer_id": "U0242",
-  "name": "Noah",
+  "name": "Fatima",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "car"
@@ -7281,11 +7269,11 @@
  },
  {
   "buyer_id": "U0243",
-  "name": "Sam",
+  "name": "Noah",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "car"
@@ -7312,11 +7300,11 @@
  },
  {
   "buyer_id": "U0244",
-  "name": "Maya",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -7336,11 +7324,11 @@
  },
  {
   "buyer_id": "U0245",
-  "name": "Theo",
+  "name": "Maya",
   "priorities": {
    "condition": 4,
-   "seller_trust": 3,
-   "brand": 3
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -7360,11 +7348,11 @@
  },
  {
   "buyer_id": "U0246",
-  "name": "Sam",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -7392,11 +7380,11 @@
  },
  {
   "buyer_id": "U0247",
-  "name": "Hana",
+  "name": "Sam",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -7428,11 +7416,11 @@
  },
  {
   "buyer_id": "U0248",
-  "name": "Noah",
+  "name": "Hana",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -7456,10 +7444,10 @@
  },
  {
   "buyer_id": "U0249",
-  "name": "Zoe",
+  "name": "Noah",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
+   "condition": 5,
+   "seller_trust": 1,
    "brand": 3
   },
   "transport": [
@@ -7483,11 +7471,11 @@
  },
  {
   "buyer_id": "U0250",
-  "name": "Grace",
+  "name": "Zoe",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -7520,11 +7508,11 @@
  },
  {
   "buyer_id": "U0251",
-  "name": "Kwame",
+  "name": "Grace",
   "priorities": {
-   "condition": 3,
+   "condition": 5,
    "seller_trust": 3,
-   "brand": 3
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -7549,10 +7537,10 @@
  },
  {
   "buyer_id": "U0252",
-  "name": "Jordan",
+  "name": "Kwame",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
+   "condition": 3,
+   "seller_trust": 3,
    "brand": 3
   },
   "transport": [
@@ -7584,11 +7572,11 @@
  },
  {
   "buyer_id": "U0253",
-  "name": "Chen",
+  "name": "Jordan",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "transit",
@@ -7620,11 +7608,11 @@
  },
  {
   "buyer_id": "U0254",
-  "name": "Luis",
+  "name": "Chen",
   "priorities": {
-   "condition": 2,
+   "condition": 5,
    "seller_trust": 5,
-   "brand": 5
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -7655,10 +7643,10 @@
  },
  {
   "buyer_id": "U0255",
-  "name": "Ravi",
+  "name": "Luis",
   "priorities": {
    "condition": 2,
-   "seller_trust": 1,
+   "seller_trust": 5,
    "brand": 5
   },
   "transport": [
@@ -7691,10 +7679,10 @@
  },
  {
   "buyer_id": "U0256",
-  "name": "Priya",
+  "name": "Ravi",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
+   "condition": 2,
+   "seller_trust": 1,
    "brand": 5
   },
   "transport": [
@@ -7718,11 +7706,11 @@
  },
  {
   "buyer_id": "U0257",
-  "name": "Noah",
+  "name": "Priya",
   "priorities": {
-   "condition": 4,
+   "condition": 1,
    "seller_trust": 5,
-   "brand": 2
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -7749,11 +7737,11 @@
  },
  {
   "buyer_id": "U0258",
-  "name": "Jordan",
+  "name": "Noah",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -7774,9 +7762,9 @@
   "buyer_id": "U0259",
   "name": "Jordan",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -7797,10 +7785,10 @@
  },
  {
   "buyer_id": "U0260",
-  "name": "Luis",
+  "name": "Jordan",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
+   "condition": 2,
+   "seller_trust": 5,
    "brand": 4
   },
   "transport": [
@@ -7830,8 +7818,8 @@
   "buyer_id": "U0261",
   "name": "Luis",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
+   "condition": 4,
+   "seller_trust": 3,
    "brand": 4
   },
   "transport": [
@@ -7863,11 +7851,11 @@
  },
  {
   "buyer_id": "U0262",
-  "name": "Hana",
+  "name": "Luis",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -7890,11 +7878,11 @@
  },
  {
   "buyer_id": "U0263",
-  "name": "Chen",
+  "name": "Hana",
   "priorities": {
    "condition": 1,
-   "seller_trust": 4,
-   "brand": 4
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "transit",
@@ -7914,11 +7902,11 @@
  },
  {
   "buyer_id": "U0264",
-  "name": "Theo",
+  "name": "Chen",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -7950,9 +7938,9 @@
  },
  {
   "buyer_id": "U0265",
-  "name": "Kwame",
+  "name": "Theo",
   "priorities": {
-   "condition": 2,
+   "condition": 3,
    "seller_trust": 5,
    "brand": 3
   },
@@ -7979,11 +7967,11 @@
  },
  {
   "buyer_id": "U0266",
-  "name": "Lena",
+  "name": "Kwame",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -8015,11 +8003,11 @@
  },
  {
   "buyer_id": "U0267",
-  "name": "Amara",
+  "name": "Lena",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "transit",
@@ -8039,11 +8027,11 @@
  },
  {
   "buyer_id": "U0268",
-  "name": "Ravi",
+  "name": "Amara",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -8066,10 +8054,10 @@
  },
  {
   "buyer_id": "U0269",
-  "name": "Sam",
+  "name": "Ravi",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
+   "condition": 1,
+   "seller_trust": 5,
    "brand": 3
   },
   "transport": [
@@ -8103,11 +8091,11 @@
  },
  {
   "buyer_id": "U0270",
-  "name": "Amara",
+  "name": "Sam",
   "priorities": {
-   "condition": 5,
+   "condition": 4,
    "seller_trust": 3,
-   "brand": 5
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -8138,11 +8126,11 @@
  },
  {
   "buyer_id": "U0271",
-  "name": "Fatima",
+  "name": "Amara",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -8174,11 +8162,11 @@
  },
  {
   "buyer_id": "U0272",
-  "name": "Priya",
+  "name": "Fatima",
   "priorities": {
-   "condition": 1,
+   "condition": 3,
    "seller_trust": 2,
-   "brand": 5
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -8198,11 +8186,11 @@
  },
  {
   "buyer_id": "U0273",
-  "name": "Lena",
+  "name": "Priya",
   "priorities": {
-   "condition": 5,
+   "condition": 1,
    "seller_trust": 2,
-   "brand": 1
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -8231,10 +8219,10 @@
  },
  {
   "buyer_id": "U0274",
-  "name": "Luis",
+  "name": "Lena",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
+   "condition": 5,
+   "seller_trust": 2,
    "brand": 1
   },
   "transport": [
@@ -8265,9 +8253,9 @@
   "buyer_id": "U0275",
   "name": "Luis",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 1,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 1
   },
   "transport": [
    "transit",
@@ -8295,11 +8283,11 @@
  },
  {
   "buyer_id": "U0276",
-  "name": "Ines",
+  "name": "Luis",
   "priorities": {
-   "condition": 3,
+   "condition": 2,
    "seller_trust": 1,
-   "brand": 4
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -8322,10 +8310,10 @@
  },
  {
   "buyer_id": "U0277",
-  "name": "Fatima",
+  "name": "Ines",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
+   "condition": 3,
+   "seller_trust": 1,
    "brand": 4
   },
   "transport": [
@@ -8360,9 +8348,9 @@
   "buyer_id": "U0278",
   "name": "Fatima",
   "priorities": {
-   "condition": 5,
+   "condition": 4,
    "seller_trust": 2,
-   "brand": 2
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -8390,11 +8378,11 @@
  },
  {
   "buyer_id": "U0279",
-  "name": "Lena",
+  "name": "Fatima",
   "priorities": {
-   "condition": 4,
+   "condition": 5,
    "seller_trust": 2,
-   "brand": 5
+   "brand": 2
   },
   "transport": [
    "car"
@@ -8417,11 +8405,11 @@
  },
  {
   "buyer_id": "U0280",
-  "name": "Diego",
+  "name": "Lena",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -8446,11 +8434,11 @@
  },
  {
   "buyer_id": "U0281",
-  "name": "Kwame",
+  "name": "Diego",
   "priorities": {
-   "condition": 4,
+   "condition": 5,
    "seller_trust": 4,
-   "brand": 1
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -8477,11 +8465,11 @@
  },
  {
   "buyer_id": "U0282",
-  "name": "Noah",
+  "name": "Kwame",
   "priorities": {
    "condition": 4,
-   "seller_trust": 3,
-   "brand": 4
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -8506,11 +8494,11 @@
  },
  {
   "buyer_id": "U0283",
-  "name": "Chen",
+  "name": "Noah",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 1,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "transit",
@@ -8542,11 +8530,11 @@
  },
  {
   "buyer_id": "U0284",
-  "name": "Amara",
+  "name": "Chen",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -8577,11 +8565,11 @@
  },
  {
   "buyer_id": "U0285",
-  "name": "Jordan",
+  "name": "Amara",
   "priorities": {
    "condition": 5,
-   "seller_trust": 1,
-   "brand": 4
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -8608,9 +8596,9 @@
  },
  {
   "buyer_id": "U0286",
-  "name": "Maya",
+  "name": "Jordan",
   "priorities": {
-   "condition": 3,
+   "condition": 5,
    "seller_trust": 1,
    "brand": 4
   },
@@ -8631,11 +8619,11 @@
  },
  {
   "buyer_id": "U0287",
-  "name": "Amara",
+  "name": "Maya",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "transit",
@@ -8655,11 +8643,11 @@
  },
  {
   "buyer_id": "U0288",
-  "name": "Diego",
+  "name": "Amara",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 1,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -8687,11 +8675,11 @@
  },
  {
   "buyer_id": "U0289",
-  "name": "Sam",
+  "name": "Diego",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -8723,11 +8711,11 @@
  },
  {
   "buyer_id": "U0290",
-  "name": "Kwame",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 5
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -8759,11 +8747,11 @@
  },
  {
   "buyer_id": "U0291",
-  "name": "Ravi",
+  "name": "Kwame",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -8790,10 +8778,10 @@
  },
  {
   "buyer_id": "U0292",
-  "name": "Sam",
+  "name": "Ravi",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
+   "condition": 1,
+   "seller_trust": 1,
    "brand": 3
   },
   "transport": [
@@ -8813,7 +8801,7 @@
  },
  {
   "buyer_id": "U0293",
-  "name": "Chen",
+  "name": "Sam",
   "priorities": {
    "condition": 2,
    "seller_trust": 4,
@@ -8848,11 +8836,11 @@
  },
  {
   "buyer_id": "U0294",
-  "name": "Diego",
+  "name": "Chen",
   "priorities": {
-   "condition": 3,
+   "condition": 2,
    "seller_trust": 4,
-   "brand": 1
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -8881,11 +8869,11 @@
  },
  {
   "buyer_id": "U0295",
-  "name": "Priya",
+  "name": "Diego",
   "priorities": {
    "condition": 3,
-   "seller_trust": 3,
-   "brand": 5
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -8908,11 +8896,11 @@
  },
  {
   "buyer_id": "U0296",
-  "name": "Luis",
+  "name": "Priya",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -8931,11 +8919,11 @@
  },
  {
   "buyer_id": "U0297",
-  "name": "Ravi",
+  "name": "Luis",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -8955,11 +8943,11 @@
  },
  {
   "buyer_id": "U0298",
-  "name": "Elena",
+  "name": "Ravi",
   "priorities": {
-   "condition": 2,
+   "condition": 5,
    "seller_trust": 4,
-   "brand": 1
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -8984,11 +8972,11 @@
  },
  {
   "buyer_id": "U0299",
-  "name": "Theo",
+  "name": "Elena",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -9012,11 +9000,11 @@
  },
  {
   "buyer_id": "U0300",
-  "name": "Luis",
+  "name": "Theo",
   "priorities": {
    "condition": 4,
-   "seller_trust": 2,
-   "brand": 5
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -9035,11 +9023,11 @@
  },
  {
   "buyer_id": "U0301",
-  "name": "Chen",
+  "name": "Luis",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "car"
@@ -9070,11 +9058,11 @@
  },
  {
   "buyer_id": "U0302",
-  "name": "Luis",
+  "name": "Chen",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 3,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -9107,8 +9095,8 @@
   "buyer_id": "U0303",
   "name": "Luis",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
+   "condition": 1,
+   "seller_trust": 1,
    "brand": 1
   },
   "transport": [
@@ -9134,11 +9122,11 @@
  },
  {
   "buyer_id": "U0304",
-  "name": "Fatima",
+  "name": "Luis",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "car"
@@ -9157,11 +9145,11 @@
  },
  {
   "buyer_id": "U0305",
-  "name": "Omar",
+  "name": "Fatima",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 5
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -9185,11 +9173,11 @@
  },
  {
   "buyer_id": "U0306",
-  "name": "Zoe",
+  "name": "Omar",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "transit"
@@ -9216,10 +9204,10 @@
  },
  {
   "buyer_id": "U0307",
-  "name": "Diego",
+  "name": "Zoe",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
+   "condition": 1,
+   "seller_trust": 5,
    "brand": 3
   },
   "transport": [
@@ -9248,11 +9236,11 @@
  },
  {
   "buyer_id": "U0308",
-  "name": "Maya",
+  "name": "Diego",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -9271,11 +9259,11 @@
  },
  {
   "buyer_id": "U0309",
-  "name": "Sam",
+  "name": "Maya",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -9298,9 +9286,9 @@
  },
  {
   "buyer_id": "U0310",
-  "name": "Hana",
+  "name": "Sam",
   "priorities": {
-   "condition": 2,
+   "condition": 1,
    "seller_trust": 2,
    "brand": 5
   },
@@ -9322,11 +9310,11 @@
  },
  {
   "buyer_id": "U0311",
-  "name": "Kwame",
+  "name": "Hana",
   "priorities": {
-   "condition": 5,
+   "condition": 2,
    "seller_trust": 2,
-   "brand": 3
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -9346,11 +9334,11 @@
  },
  {
   "buyer_id": "U0312",
-  "name": "Omar",
+  "name": "Kwame",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -9370,11 +9358,11 @@
  },
  {
   "buyer_id": "U0313",
-  "name": "Hana",
+  "name": "Omar",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -9402,10 +9390,10 @@
  },
  {
   "buyer_id": "U0314",
-  "name": "Elena",
+  "name": "Hana",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
+   "condition": 3,
+   "seller_trust": 3,
    "brand": 2
   },
   "transport": [
@@ -9433,11 +9421,11 @@
  },
  {
   "buyer_id": "U0315",
-  "name": "Grace",
+  "name": "Elena",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -9457,10 +9445,10 @@
  },
  {
   "buyer_id": "U0316",
-  "name": "Fatima",
+  "name": "Grace",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
+   "condition": 2,
+   "seller_trust": 5,
    "brand": 1
   },
   "transport": [
@@ -9480,11 +9468,11 @@
  },
  {
   "buyer_id": "U0317",
-  "name": "Kwame",
+  "name": "Fatima",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -9513,10 +9501,10 @@
  },
  {
   "buyer_id": "U0318",
-  "name": "Amara",
+  "name": "Kwame",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
+   "condition": 4,
+   "seller_trust": 4,
    "brand": 4
   },
   "transport": [
@@ -9546,11 +9534,11 @@
  },
  {
   "buyer_id": "U0319",
-  "name": "Hana",
+  "name": "Amara",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -9571,11 +9559,11 @@
  },
  {
   "buyer_id": "U0320",
-  "name": "Jordan",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
+   "condition": 1,
    "seller_trust": 4,
-   "brand": 4
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -9607,11 +9595,11 @@
  },
  {
   "buyer_id": "U0321",
-  "name": "Diego",
+  "name": "Jordan",
   "priorities": {
    "condition": 2,
-   "seller_trust": 5,
-   "brand": 5
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -9631,10 +9619,10 @@
  },
  {
   "buyer_id": "U0322",
-  "name": "Lena",
+  "name": "Diego",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
+   "condition": 2,
+   "seller_trust": 5,
    "brand": 5
   },
   "transport": [
@@ -9668,11 +9656,11 @@
  },
  {
   "buyer_id": "U0323",
-  "name": "Maya",
+  "name": "Lena",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -9700,11 +9688,11 @@
  },
  {
   "buyer_id": "U0324",
-  "name": "Hana",
+  "name": "Maya",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -9737,11 +9725,11 @@
  },
  {
   "buyer_id": "U0325",
-  "name": "Maya",
+  "name": "Hana",
   "priorities": {
    "condition": 4,
-   "seller_trust": 4,
-   "brand": 5
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -9761,11 +9749,11 @@
  },
  {
   "buyer_id": "U0326",
-  "name": "Amara",
+  "name": "Maya",
   "priorities": {
    "condition": 4,
-   "seller_trust": 3,
-   "brand": 3
+   "seller_trust": 4,
+   "brand": 5
   },
   "transport": [
    "transit"
@@ -9792,11 +9780,11 @@
  },
  {
   "buyer_id": "U0327",
-  "name": "Elena",
+  "name": "Amara",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -9817,11 +9805,11 @@
  },
  {
   "buyer_id": "U0328",
-  "name": "Chen",
+  "name": "Elena",
   "priorities": {
    "condition": 3,
-   "seller_trust": 3,
-   "brand": 2
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "walk"
@@ -9852,11 +9840,11 @@
  },
  {
   "buyer_id": "U0329",
-  "name": "Maya",
+  "name": "Chen",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -9887,11 +9875,11 @@
  },
  {
   "buyer_id": "U0330",
-  "name": "Diego",
+  "name": "Maya",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -9919,11 +9907,11 @@
  },
  {
   "buyer_id": "U0331",
-  "name": "Theo",
+  "name": "Diego",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
-   "brand": 2
+   "condition": 3,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -9942,10 +9930,10 @@
  },
  {
   "buyer_id": "U0332",
-  "name": "Omar",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
+   "condition": 2,
+   "seller_trust": 4,
    "brand": 2
   },
   "transport": [
@@ -9977,11 +9965,11 @@
  },
  {
   "buyer_id": "U0333",
-  "name": "Amara",
+  "name": "Omar",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 2
   },
   "transport": [
    "car"
@@ -10012,11 +10000,11 @@
  },
  {
   "buyer_id": "U0334",
-  "name": "Kwame",
+  "name": "Amara",
   "priorities": {
    "condition": 3,
-   "seller_trust": 3,
-   "brand": 5
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -10040,11 +10028,11 @@
  },
  {
   "buyer_id": "U0335",
-  "name": "Noah",
+  "name": "Kwame",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 3,
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -10068,11 +10056,11 @@
  },
  {
   "buyer_id": "U0336",
-  "name": "Hana",
+  "name": "Noah",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -10097,9 +10085,9 @@
   "buyer_id": "U0337",
   "name": "Hana",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -10126,11 +10114,11 @@
  },
  {
   "buyer_id": "U0338",
-  "name": "Theo",
+  "name": "Hana",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "transit",
@@ -10150,11 +10138,11 @@
  },
  {
   "buyer_id": "U0339",
-  "name": "Jordan",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -10174,11 +10162,11 @@
  },
  {
   "buyer_id": "U0340",
-  "name": "Maya",
+  "name": "Jordan",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "car"
@@ -10199,9 +10187,9 @@
   "buyer_id": "U0341",
   "name": "Maya",
   "priorities": {
-   "condition": 4,
+   "condition": 2,
    "seller_trust": 2,
-   "brand": 4
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -10228,11 +10216,11 @@
  },
  {
   "buyer_id": "U0342",
-  "name": "Amara",
+  "name": "Maya",
   "priorities": {
    "condition": 4,
-   "seller_trust": 4,
-   "brand": 1
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -10263,11 +10251,11 @@
  },
  {
   "buyer_id": "U0343",
-  "name": "Elena",
+  "name": "Amara",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -10291,11 +10279,11 @@
  },
  {
   "buyer_id": "U0344",
-  "name": "Ines",
+  "name": "Elena",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "transit"
@@ -10314,11 +10302,11 @@
  },
  {
   "buyer_id": "U0345",
-  "name": "Theo",
+  "name": "Ines",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 5,
-   "brand": 1
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 3
   },
   "transport": [
    "walk"
@@ -10345,11 +10333,11 @@
  },
  {
   "buyer_id": "U0346",
-  "name": "Jordan",
+  "name": "Theo",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -10373,11 +10361,11 @@
  },
  {
   "buyer_id": "U0347",
-  "name": "Zoe",
+  "name": "Jordan",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -10396,11 +10384,11 @@
  },
  {
   "buyer_id": "U0348",
-  "name": "Noah",
+  "name": "Zoe",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 4
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -10432,10 +10420,10 @@
  },
  {
   "buyer_id": "U0349",
-  "name": "Theo",
+  "name": "Noah",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
+   "condition": 5,
+   "seller_trust": 5,
    "brand": 4
   },
   "transport": [
@@ -10464,11 +10452,11 @@
  },
  {
   "buyer_id": "U0350",
-  "name": "Zoe",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 4,
-   "brand": 1
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -10499,11 +10487,11 @@
  },
  {
   "buyer_id": "U0351",
-  "name": "Maya",
+  "name": "Zoe",
   "priorities": {
-   "condition": 4,
+   "condition": 5,
    "seller_trust": 4,
-   "brand": 2
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -10531,11 +10519,11 @@
  },
  {
   "buyer_id": "U0352",
-  "name": "Jordan",
+  "name": "Maya",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 3
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -10567,11 +10555,11 @@
  },
  {
   "buyer_id": "U0353",
-  "name": "Sam",
+  "name": "Jordan",
   "priorities": {
    "condition": 5,
-   "seller_trust": 4,
-   "brand": 2
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "car"
@@ -10598,11 +10586,11 @@
  },
  {
   "buyer_id": "U0354",
-  "name": "Diego",
+  "name": "Sam",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 5,
+   "seller_trust": 4,
+   "brand": 2
   },
   "transport": [
    "walk"
@@ -10629,11 +10617,11 @@
  },
  {
   "buyer_id": "U0355",
-  "name": "Luis",
+  "name": "Diego",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 3,
-   "brand": 2
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -10666,11 +10654,11 @@
  },
  {
   "buyer_id": "U0356",
-  "name": "Grace",
+  "name": "Luis",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 2
   },
   "transport": [
    "car"
@@ -10697,11 +10685,11 @@
  },
  {
   "buyer_id": "U0357",
-  "name": "Chen",
+  "name": "Grace",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 5,
-   "brand": 2
+   "condition": 4,
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -10733,11 +10721,11 @@
  },
  {
   "buyer_id": "U0358",
-  "name": "Diego",
+  "name": "Chen",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 5
+   "condition": 3,
+   "seller_trust": 5,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -10766,10 +10754,10 @@
  },
  {
   "buyer_id": "U0359",
-  "name": "Maya",
+  "name": "Diego",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
+   "condition": 1,
+   "seller_trust": 2,
    "brand": 5
   },
   "transport": [
@@ -10790,10 +10778,10 @@
  },
  {
   "buyer_id": "U0360",
-  "name": "Priya",
+  "name": "Maya",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
+   "condition": 5,
+   "seller_trust": 1,
    "brand": 5
   },
   "transport": [
@@ -10813,10 +10801,10 @@
  },
  {
   "buyer_id": "U0361",
-  "name": "Chen",
+  "name": "Priya",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 2,
+   "condition": 4,
+   "seller_trust": 3,
    "brand": 5
   },
   "transport": [
@@ -10847,9 +10835,9 @@
   "buyer_id": "U0362",
   "name": "Chen",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 5
   },
   "transport": [
    "transit",
@@ -10881,11 +10869,11 @@
  },
  {
   "buyer_id": "U0363",
-  "name": "Hana",
+  "name": "Chen",
   "priorities": {
    "condition": 4,
-   "seller_trust": 4,
-   "brand": 1
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -10908,11 +10896,11 @@
  },
  {
   "buyer_id": "U0364",
-  "name": "Zoe",
+  "name": "Hana",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 5,
-   "brand": 5
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk"
@@ -10939,11 +10927,11 @@
  },
  {
   "buyer_id": "U0365",
-  "name": "Diego",
+  "name": "Zoe",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 2,
-   "brand": 4
+   "condition": 1,
+   "seller_trust": 5,
+   "brand": 5
   },
   "transport": [
    "transit"
@@ -10974,9 +10962,9 @@
  },
  {
   "buyer_id": "U0366",
-  "name": "Sam",
+  "name": "Diego",
   "priorities": {
-   "condition": 2,
+   "condition": 5,
    "seller_trust": 2,
    "brand": 4
   },
@@ -11009,11 +10997,11 @@
  },
  {
   "buyer_id": "U0367",
-  "name": "Diego",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 2,
+   "seller_trust": 2,
+   "brand": 4
   },
   "transport": [
    "walk"
@@ -11040,11 +11028,11 @@
  },
  {
   "buyer_id": "U0368",
-  "name": "Omar",
+  "name": "Diego",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 4,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -11077,11 +11065,11 @@
  },
  {
   "buyer_id": "U0369",
-  "name": "Maya",
+  "name": "Omar",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 3,
-   "brand": 3
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 4
   },
   "transport": [
    "car"
@@ -11100,10 +11088,10 @@
  },
  {
   "buyer_id": "U0370",
-  "name": "Diego",
+  "name": "Maya",
   "priorities": {
    "condition": 2,
-   "seller_trust": 5,
+   "seller_trust": 3,
    "brand": 3
   },
   "transport": [
@@ -11132,10 +11120,10 @@
  },
  {
   "buyer_id": "U0371",
-  "name": "Amara",
+  "name": "Diego",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
+   "condition": 2,
+   "seller_trust": 5,
    "brand": 3
   },
   "transport": [
@@ -11156,11 +11144,11 @@
  },
  {
   "buyer_id": "U0372",
-  "name": "Theo",
+  "name": "Amara",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
-   "brand": 5
+   "condition": 5,
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -11183,10 +11171,10 @@
  },
  {
   "buyer_id": "U0373",
-  "name": "Ines",
+  "name": "Theo",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
+   "condition": 2,
+   "seller_trust": 4,
    "brand": 5
   },
   "transport": [
@@ -11206,10 +11194,10 @@
  },
  {
   "buyer_id": "U0374",
-  "name": "Hana",
+  "name": "Ines",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 2,
+   "condition": 5,
+   "seller_trust": 3,
    "brand": 5
   },
   "transport": [
@@ -11239,9 +11227,9 @@
   "buyer_id": "U0375",
   "name": "Hana",
   "priorities": {
-   "condition": 2,
+   "condition": 3,
    "seller_trust": 2,
-   "brand": 4
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -11273,11 +11261,11 @@
  },
  {
   "buyer_id": "U0376",
-  "name": "Kwame",
+  "name": "Hana",
   "priorities": {
-   "condition": 1,
+   "condition": 2,
    "seller_trust": 2,
-   "brand": 2
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -11302,9 +11290,9 @@
  },
  {
   "buyer_id": "U0377",
-  "name": "Ravi",
+  "name": "Kwame",
   "priorities": {
-   "condition": 3,
+   "condition": 1,
    "seller_trust": 2,
    "brand": 2
   },
@@ -11330,11 +11318,11 @@
  },
  {
   "buyer_id": "U0378",
-  "name": "Ines",
+  "name": "Ravi",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 4,
-   "brand": 3
+   "condition": 3,
+   "seller_trust": 2,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -11355,11 +11343,11 @@
  },
  {
   "buyer_id": "U0379",
-  "name": "Luis",
+  "name": "Ines",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 1,
+   "seller_trust": 4,
+   "brand": 3
   },
   "transport": [
    "walk",
@@ -11391,10 +11379,10 @@
  },
  {
   "buyer_id": "U0380",
-  "name": "Sam",
+  "name": "Luis",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
+   "condition": 4,
+   "seller_trust": 2,
    "brand": 1
   },
   "transport": [
@@ -11427,11 +11415,11 @@
  },
  {
   "buyer_id": "U0381",
-  "name": "Elena",
+  "name": "Sam",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 3,
-   "brand": 4
+   "condition": 3,
+   "seller_trust": 4,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -11452,11 +11440,11 @@
  },
  {
   "buyer_id": "U0382",
-  "name": "Sam",
+  "name": "Elena",
   "priorities": {
    "condition": 5,
-   "seller_trust": 2,
-   "brand": 2
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -11476,11 +11464,11 @@
  },
  {
   "buyer_id": "U0383",
-  "name": "Hana",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 1,
-   "brand": 3
+   "condition": 5,
+   "seller_trust": 2,
+   "brand": 2
   },
   "transport": [
    "walk",
@@ -11500,11 +11488,11 @@
  },
  {
   "buyer_id": "U0384",
-  "name": "Grace",
+  "name": "Hana",
   "priorities": {
    "condition": 4,
-   "seller_trust": 2,
-   "brand": 1
+   "seller_trust": 1,
+   "brand": 3
   },
   "transport": [
    "transit"
@@ -11535,11 +11523,11 @@
  },
  {
   "buyer_id": "U0385",
-  "name": "Elena",
+  "name": "Grace",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 5,
-   "brand": 4
+   "condition": 4,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -11563,11 +11551,11 @@
  },
  {
   "buyer_id": "U0386",
-  "name": "Zoe",
+  "name": "Elena",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 3,
-   "brand": 5
+   "condition": 5,
+   "seller_trust": 5,
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -11594,11 +11582,11 @@
  },
  {
   "buyer_id": "U0387",
-  "name": "Hana",
+  "name": "Zoe",
   "priorities": {
    "condition": 3,
-   "seller_trust": 2,
-   "brand": 4
+   "seller_trust": 3,
+   "brand": 5
   },
   "transport": [
    "walk",
@@ -11627,10 +11615,10 @@
  },
  {
   "buyer_id": "U0388",
-  "name": "Priya",
+  "name": "Hana",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 3,
+   "condition": 3,
+   "seller_trust": 2,
    "brand": 4
   },
   "transport": [
@@ -11662,11 +11650,11 @@
  },
  {
   "buyer_id": "U0389",
-  "name": "Amara",
+  "name": "Priya",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 2,
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "transit"
@@ -11685,11 +11673,11 @@
  },
  {
   "buyer_id": "U0390",
-  "name": "Priya",
+  "name": "Amara",
   "priorities": {
-   "condition": 3,
-   "seller_trust": 4,
-   "brand": 4
+   "condition": 1,
+   "seller_trust": 2,
+   "brand": 1
   },
   "transport": [
    "transit",
@@ -11717,10 +11705,10 @@
  },
  {
   "buyer_id": "U0391",
-  "name": "Amara",
+  "name": "Priya",
   "priorities": {
-   "condition": 5,
-   "seller_trust": 1,
+   "condition": 3,
+   "seller_trust": 4,
    "brand": 4
   },
   "transport": [
@@ -11746,11 +11734,11 @@
  },
  {
   "buyer_id": "U0392",
-  "name": "Ines",
+  "name": "Amara",
   "priorities": {
    "condition": 5,
    "seller_trust": 1,
-   "brand": 2
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -11779,11 +11767,11 @@
  },
  {
   "buyer_id": "U0393",
-  "name": "Zoe",
+  "name": "Ines",
   "priorities": {
    "condition": 5,
-   "seller_trust": 3,
-   "brand": 4
+   "seller_trust": 1,
+   "brand": 2
   },
   "transport": [
    "car"
@@ -11806,11 +11794,11 @@
  },
  {
   "buyer_id": "U0394",
-  "name": "Priya",
+  "name": "Zoe",
   "priorities": {
    "condition": 5,
-   "seller_trust": 4,
-   "brand": 1
+   "seller_trust": 3,
+   "brand": 4
   },
   "transport": [
    "walk",
@@ -11842,10 +11830,10 @@
  },
  {
   "buyer_id": "U0395",
-  "name": "Sam",
+  "name": "Priya",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 1,
+   "condition": 5,
+   "seller_trust": 4,
    "brand": 1
   },
   "transport": [
@@ -11873,11 +11861,11 @@
  },
  {
   "buyer_id": "U0396",
-  "name": "Zoe",
+  "name": "Sam",
   "priorities": {
-   "condition": 4,
-   "seller_trust": 3,
-   "brand": 3
+   "condition": 1,
+   "seller_trust": 1,
+   "brand": 1
   },
   "transport": [
    "walk",
@@ -11909,10 +11897,10 @@
  },
  {
   "buyer_id": "U0397",
-  "name": "Theo",
+  "name": "Zoe",
   "priorities": {
-   "condition": 2,
-   "seller_trust": 4,
+   "condition": 4,
+   "seller_trust": 3,
    "brand": 3
   },
   "transport": [
@@ -11937,10 +11925,10 @@
  },
  {
   "buyer_id": "U0398",
-  "name": "Hana",
+  "name": "Theo",
   "priorities": {
    "condition": 2,
-   "seller_trust": 5,
+   "seller_trust": 4,
    "brand": 3
   },
   "transport": [
@@ -11972,11 +11960,11 @@
  },
  {
   "buyer_id": "U0399",
-  "name": "Theo",
+  "name": "Hana",
   "priorities": {
-   "condition": 1,
-   "seller_trust": 2,
-   "brand": 1
+   "condition": 2,
+   "seller_trust": 5,
+   "brand": 3
   },
   "transport": [
    "walk",

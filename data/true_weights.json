@@ -1,83 +1,94 @@
 {
  "U0000": {
   "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.6,
-  "seller_review_count": 0.8000000000000002,
-  "business_seller": 0.20000000000000004,
-  "returns_accepted": 0.20000000000000004,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.16666666666666666,
-  "brand_mid": 0.6666666666666666,
-  "brand_premium": 1.3333333333333333
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
  },
  "U0001": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.6666666666666666,
+  "condition": 1.0,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.5,
   "brand_budget": 0.03333333333333333,
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
  "U0002": {
-  "condition": 0.3333333333333333,
-  "seller_negative_feedback": -0.7999999999999999,
-  "seller_review_count": 1.0666666666666667,
-  "business_seller": 0.26666666666666666,
-  "returns_accepted": 0.26666666666666666,
-  "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0003": {
   "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.6,
-  "seller_review_count": 0.8000000000000002,
-  "business_seller": 0.20000000000000004,
-  "returns_accepted": 0.20000000000000004,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0004": {
-  "condition": 0.3333333333333333,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0005": {
-  "condition": 0.3333333333333333,
-  "seller_negative_feedback": -0.7999999999999999,
-  "seller_review_count": 1.0666666666666667,
-  "business_seller": 0.26666666666666666,
-  "returns_accepted": 0.26666666666666666,
-  "mentions_damage": -0.16666666666666666,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0006": {
+ "U0003": {
   "condition": 1.6666666666666667,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0004": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.7999999999999999,
+  "seller_review_count": 1.0666666666666667,
+  "business_seller": 0.26666666666666666,
+  "returns_accepted": 0.26666666666666666,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.03333333333333333,
+  "brand_mid": 0.13333333333333333,
+  "brand_premium": 0.26666666666666666
+ },
+ "U0005": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0006": {
+  "condition": 0.3333333333333333,
+  "seller_negative_feedback": -0.7999999999999999,
+  "seller_review_count": 1.0666666666666667,
+  "business_seller": 0.26666666666666666,
+  "returns_accepted": 0.26666666666666666,
+  "mentions_damage": -0.16666666666666666,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0007": {
   "condition": 1.6666666666666667,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0008": {
+  "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
   "business_seller": 0.26666666666666666,
@@ -87,7 +98,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0008": {
+ "U0009": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -98,7 +109,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0009": {
+ "U0010": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -109,7 +120,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0010": {
+ "U0011": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -120,7 +131,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0011": {
+ "U0012": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -131,7 +142,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0012": {
+ "U0013": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -141,17 +152,6 @@
   "brand_budget": 0.03333333333333333,
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
- },
- "U0013": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
  },
  "U0014": {
   "condition": 1.6666666666666667,
@@ -171,11 +171,22 @@
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0016": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.8333333333333334,
   "brand_budget": 0.03333333333333333,
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0016": {
+ "U0017": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -186,7 +197,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0017": {
+ "U0018": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -197,7 +208,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0018": {
+ "U0019": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -208,7 +219,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0019": {
+ "U0020": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -219,7 +230,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0020": {
+ "U0021": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -230,7 +241,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0021": {
+ "U0022": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -240,17 +251,6 @@
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
- },
- "U0022": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
  },
  "U0023": {
   "condition": 1.6666666666666667,
@@ -264,6 +264,17 @@
   "brand_premium": 0.8000000000000002
  },
  "U0024": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0025": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -274,7 +285,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0025": {
+ "U0026": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -285,7 +296,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0026": {
+ "U0027": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -296,7 +307,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0027": {
+ "U0028": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -307,7 +318,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0028": {
+ "U0029": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -318,7 +329,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0029": {
+ "U0030": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -329,7 +340,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0030": {
+ "U0031": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -340,7 +351,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0031": {
+ "U0032": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -351,7 +362,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0032": {
+ "U0033": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -362,7 +373,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0033": {
+ "U0034": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -373,29 +384,29 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0034": {
+ "U0035": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.5,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0035": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.5,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
  "U0036": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.5,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0037": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -406,7 +417,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0037": {
+ "U0038": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -417,7 +428,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0038": {
+ "U0039": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -428,7 +439,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0039": {
+ "U0040": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -439,7 +450,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0040": {
+ "U0041": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -450,7 +461,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0041": {
+ "U0042": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -461,7 +472,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0042": {
+ "U0043": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -472,7 +483,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0043": {
+ "U0044": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -483,7 +494,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0044": {
+ "U0045": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -494,7 +505,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0045": {
+ "U0046": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -505,7 +516,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0046": {
+ "U0047": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -516,7 +527,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0047": {
+ "U0048": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -527,7 +538,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0048": {
+ "U0049": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -538,7 +549,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0049": {
+ "U0050": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -549,7 +560,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0050": {
+ "U0051": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -560,7 +571,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0051": {
+ "U0052": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -571,7 +582,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0052": {
+ "U0053": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -582,7 +593,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0053": {
+ "U0054": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -593,7 +604,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0054": {
+ "U0055": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -604,7 +615,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0055": {
+ "U0056": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -614,17 +625,6 @@
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
- },
- "U0056": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.03333333333333333,
-  "brand_mid": 0.13333333333333333,
-  "brand_premium": 0.26666666666666666
  },
  "U0057": {
   "condition": 1.3333333333333333,
@@ -638,6 +638,17 @@
   "brand_premium": 0.26666666666666666
  },
  "U0058": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.03333333333333333,
+  "brand_mid": 0.13333333333333333,
+  "brand_premium": 0.26666666666666666
+ },
+ "U0059": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -648,7 +659,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0059": {
+ "U0060": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -659,7 +670,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0060": {
+ "U0061": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -670,23 +681,12 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0061": {
+ "U0062": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
   "business_seller": 0.26666666666666666,
   "returns_accepted": 0.26666666666666666,
-  "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
- },
- "U0062": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.8333333333333334,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
@@ -694,16 +694,27 @@
  },
  "U0063": {
   "condition": 1.6666666666666667,
-  "seller_negative_feedback": -0.6,
-  "seller_review_count": 0.8000000000000002,
-  "business_seller": 0.20000000000000004,
-  "returns_accepted": 0.20000000000000004,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.8333333333333334,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0064": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -0.6,
+  "seller_review_count": 0.8000000000000002,
+  "business_seller": 0.20000000000000004,
+  "returns_accepted": 0.20000000000000004,
+  "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0065": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -714,7 +725,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0065": {
+ "U0066": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -725,7 +736,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0066": {
+ "U0067": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -736,7 +747,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0067": {
+ "U0068": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -747,7 +758,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0068": {
+ "U0069": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -758,7 +769,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0069": {
+ "U0070": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -769,7 +780,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0070": {
+ "U0071": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -780,7 +791,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0071": {
+ "U0072": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -791,7 +802,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0072": {
+ "U0073": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -802,7 +813,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0073": {
+ "U0074": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -813,7 +824,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0074": {
+ "U0075": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -824,7 +835,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0075": {
+ "U0076": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -835,7 +846,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0076": {
+ "U0077": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -846,7 +857,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0077": {
+ "U0078": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -857,29 +868,29 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0078": {
+ "U0079": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0079": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
  "U0080": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0081": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -890,7 +901,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0081": {
+ "U0082": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -901,7 +912,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0082": {
+ "U0083": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -912,7 +923,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0083": {
+ "U0084": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -923,7 +934,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0084": {
+ "U0085": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -934,7 +945,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0085": {
+ "U0086": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -945,7 +956,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0086": {
+ "U0087": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -956,7 +967,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0087": {
+ "U0088": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -967,7 +978,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0088": {
+ "U0089": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -978,7 +989,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0089": {
+ "U0090": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -989,7 +1000,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0090": {
+ "U0091": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1000,24 +1011,13 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0091": {
+ "U0092": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
   "business_seller": 0.13333333333333333,
   "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0092": {
-  "condition": 0.3333333333333333,
-  "seller_negative_feedback": -0.7999999999999999,
-  "seller_review_count": 1.0666666666666667,
-  "business_seller": 0.26666666666666666,
-  "returns_accepted": 0.26666666666666666,
-  "mentions_damage": -0.16666666666666666,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
@@ -1034,6 +1034,17 @@
   "brand_premium": 0.8000000000000002
  },
  "U0094": {
+  "condition": 0.3333333333333333,
+  "seller_negative_feedback": -0.7999999999999999,
+  "seller_review_count": 1.0666666666666667,
+  "business_seller": 0.26666666666666666,
+  "returns_accepted": 0.26666666666666666,
+  "mentions_damage": -0.16666666666666666,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0095": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1044,7 +1055,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0095": {
+ "U0096": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1055,7 +1066,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0096": {
+ "U0097": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1066,7 +1077,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0097": {
+ "U0098": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1077,7 +1088,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0098": {
+ "U0099": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1088,7 +1099,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0099": {
+ "U0100": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1099,7 +1110,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0100": {
+ "U0101": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1110,7 +1121,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0101": {
+ "U0102": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1120,17 +1131,6 @@
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
- },
- "U0102": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.6,
-  "seller_review_count": 0.8000000000000002,
-  "business_seller": 0.20000000000000004,
-  "returns_accepted": 0.20000000000000004,
-  "mentions_damage": -0.5,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
  },
  "U0103": {
   "condition": 1.0,
@@ -1139,11 +1139,22 @@
   "business_seller": 0.20000000000000004,
   "returns_accepted": 0.20000000000000004,
   "mentions_damage": -0.5,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0104": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.6,
+  "seller_review_count": 0.8000000000000002,
+  "business_seller": 0.20000000000000004,
+  "returns_accepted": 0.20000000000000004,
+  "mentions_damage": -0.5,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0104": {
+ "U0105": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1154,7 +1165,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0105": {
+ "U0106": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1165,7 +1176,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0106": {
+ "U0107": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1176,7 +1187,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0107": {
+ "U0108": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1187,7 +1198,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0108": {
+ "U0109": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1198,7 +1209,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0109": {
+ "U0110": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1209,7 +1220,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0110": {
+ "U0111": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1220,7 +1231,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0111": {
+ "U0112": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1231,7 +1242,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0112": {
+ "U0113": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1242,7 +1253,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0113": {
+ "U0114": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1253,7 +1264,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0114": {
+ "U0115": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1264,7 +1275,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0115": {
+ "U0116": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1275,7 +1286,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0116": {
+ "U0117": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1286,7 +1297,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0117": {
+ "U0118": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1296,17 +1307,6 @@
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
- },
- "U0118": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.5,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
  },
  "U0119": {
   "condition": 1.0,
@@ -1315,11 +1315,22 @@
   "business_seller": 0.13333333333333333,
   "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.5,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0120": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.5,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0120": {
+ "U0121": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1330,7 +1341,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0121": {
+ "U0122": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1341,7 +1352,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0122": {
+ "U0123": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1352,7 +1363,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0123": {
+ "U0124": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1363,7 +1374,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0124": {
+ "U0125": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1374,7 +1385,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0125": {
+ "U0126": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1385,7 +1396,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0126": {
+ "U0127": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1396,7 +1407,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0127": {
+ "U0128": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1407,7 +1418,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0128": {
+ "U0129": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1418,7 +1429,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0129": {
+ "U0130": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1429,7 +1440,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0130": {
+ "U0131": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1440,7 +1451,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0131": {
+ "U0132": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1451,7 +1462,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0132": {
+ "U0133": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1462,7 +1473,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0133": {
+ "U0134": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1473,7 +1484,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0134": {
+ "U0135": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1484,7 +1495,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0135": {
+ "U0136": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1495,7 +1506,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0136": {
+ "U0137": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1506,7 +1517,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0137": {
+ "U0138": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1517,7 +1528,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0138": {
+ "U0139": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1528,7 +1539,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0139": {
+ "U0140": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1539,7 +1550,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0140": {
+ "U0141": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1550,7 +1561,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0141": {
+ "U0142": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1561,7 +1572,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0142": {
+ "U0143": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1572,7 +1583,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0143": {
+ "U0144": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1582,17 +1593,6 @@
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
- },
- "U0144": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.5,
-  "brand_budget": 0.16666666666666666,
-  "brand_mid": 0.6666666666666666,
-  "brand_premium": 1.3333333333333333
  },
  "U0145": {
   "condition": 1.0,
@@ -1606,6 +1606,17 @@
   "brand_premium": 1.3333333333333333
  },
  "U0146": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.5,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0147": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1616,7 +1627,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0147": {
+ "U0148": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1627,7 +1638,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0148": {
+ "U0149": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1638,7 +1649,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0149": {
+ "U0150": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1649,7 +1660,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0150": {
+ "U0151": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1660,7 +1671,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0151": {
+ "U0152": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1671,29 +1682,29 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0152": {
+ "U0153": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.16666666666666666,
-  "brand_mid": 0.6666666666666666,
-  "brand_premium": 1.3333333333333333
- },
- "U0153": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
  "U0154": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0155": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1704,7 +1715,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0155": {
+ "U0156": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1715,7 +1726,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0156": {
+ "U0157": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1726,7 +1737,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0157": {
+ "U0158": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1737,7 +1748,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0158": {
+ "U0159": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1748,7 +1759,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0159": {
+ "U0160": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1759,7 +1770,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0160": {
+ "U0161": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1770,7 +1781,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0161": {
+ "U0162": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1781,7 +1792,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0162": {
+ "U0163": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1791,17 +1802,6 @@
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
- },
- "U0163": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
  },
  "U0164": {
   "condition": 0.6666666666666666,
@@ -1810,11 +1810,22 @@
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0165": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0165": {
+ "U0166": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1825,7 +1836,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0166": {
+ "U0167": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1836,7 +1847,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0167": {
+ "U0168": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1847,7 +1858,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0168": {
+ "U0169": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1858,7 +1869,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0169": {
+ "U0170": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1869,7 +1880,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0170": {
+ "U0171": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1880,7 +1891,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0171": {
+ "U0172": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1891,7 +1902,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0172": {
+ "U0173": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1902,29 +1913,29 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0173": {
+ "U0174": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
   "business_seller": 0.20000000000000004,
   "returns_accepted": 0.20000000000000004,
-  "mentions_damage": -0.5,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0174": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.5,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
  "U0175": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.5,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0176": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1935,7 +1946,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0176": {
+ "U0177": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -1946,7 +1957,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0177": {
+ "U0178": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -1957,7 +1968,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0178": {
+ "U0179": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -1968,7 +1979,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0179": {
+ "U0180": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -1979,7 +1990,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0180": {
+ "U0181": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -1990,7 +2001,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0181": {
+ "U0182": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2001,7 +2012,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0182": {
+ "U0183": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2012,7 +2023,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0183": {
+ "U0184": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2023,7 +2034,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0184": {
+ "U0185": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2033,17 +2044,6 @@
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
- },
- "U0185": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.03333333333333333,
-  "brand_mid": 0.13333333333333333,
-  "brand_premium": 0.26666666666666666
  },
  "U0186": {
   "condition": 0.6666666666666666,
@@ -2052,11 +2052,22 @@
   "business_seller": 0.13333333333333333,
   "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.03333333333333333,
+  "brand_mid": 0.13333333333333333,
+  "brand_premium": 0.26666666666666666
+ },
+ "U0187": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0187": {
+ "U0188": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2067,7 +2078,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0188": {
+ "U0189": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2078,7 +2089,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0189": {
+ "U0190": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2089,7 +2100,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0190": {
+ "U0191": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2100,7 +2111,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0191": {
+ "U0192": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2111,7 +2122,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0192": {
+ "U0193": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2122,51 +2133,51 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0193": {
+ "U0194": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
   "business_seller": 0.26666666666666666,
   "returns_accepted": 0.26666666666666666,
   "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0194": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
  "U0195": {
   "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0196": {
+  "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
   "business_seller": 0.13333333333333333,
   "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0196": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
  "U0197": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0198": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2177,7 +2188,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0198": {
+ "U0199": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2188,7 +2199,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0199": {
+ "U0200": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2199,7 +2210,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0200": {
+ "U0201": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2210,7 +2221,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0201": {
+ "U0202": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2221,7 +2232,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0202": {
+ "U0203": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2232,7 +2243,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0203": {
+ "U0204": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2243,7 +2254,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0204": {
+ "U0205": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2254,7 +2265,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0205": {
+ "U0206": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2265,7 +2276,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0206": {
+ "U0207": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2276,7 +2287,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0207": {
+ "U0208": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2287,7 +2298,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0208": {
+ "U0209": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2298,7 +2309,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0209": {
+ "U0210": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2309,7 +2320,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0210": {
+ "U0211": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2320,7 +2331,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0211": {
+ "U0212": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2331,7 +2342,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0212": {
+ "U0213": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2342,7 +2353,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0213": {
+ "U0214": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2353,29 +2364,29 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0214": {
+ "U0215": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0215": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
  "U0216": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0217": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2386,7 +2397,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0217": {
+ "U0218": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2397,7 +2408,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0218": {
+ "U0219": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2408,7 +2419,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0219": {
+ "U0220": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2419,7 +2430,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0220": {
+ "U0221": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2430,7 +2441,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0221": {
+ "U0222": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2441,7 +2452,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0222": {
+ "U0223": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2452,29 +2463,29 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0223": {
+ "U0224": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.5,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0224": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.5,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
  "U0225": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.5,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0226": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2485,7 +2496,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0226": {
+ "U0227": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2496,7 +2507,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0227": {
+ "U0228": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2507,7 +2518,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0228": {
+ "U0229": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2518,7 +2529,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0229": {
+ "U0230": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2529,7 +2540,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0230": {
+ "U0231": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2540,7 +2551,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0231": {
+ "U0232": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2551,7 +2562,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0232": {
+ "U0233": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2562,7 +2573,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0233": {
+ "U0234": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2573,7 +2584,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0234": {
+ "U0235": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2584,7 +2595,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0235": {
+ "U0236": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2595,7 +2606,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0236": {
+ "U0237": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2606,7 +2617,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0237": {
+ "U0238": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2617,7 +2628,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0238": {
+ "U0239": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2628,7 +2639,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0239": {
+ "U0240": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2638,17 +2649,6 @@
   "brand_budget": 0.03333333333333333,
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
- },
- "U0240": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
  },
  "U0241": {
   "condition": 1.6666666666666667,
@@ -2657,11 +2657,22 @@
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0242": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.8333333333333334,
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0242": {
+ "U0243": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2672,7 +2683,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0243": {
+ "U0244": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2683,7 +2694,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0244": {
+ "U0245": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2694,7 +2705,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0245": {
+ "U0246": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2705,7 +2716,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0246": {
+ "U0247": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2716,7 +2727,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0247": {
+ "U0248": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2727,7 +2738,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0248": {
+ "U0249": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2738,7 +2749,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0249": {
+ "U0250": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2749,7 +2760,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0250": {
+ "U0251": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2760,7 +2771,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0251": {
+ "U0252": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2771,7 +2782,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0252": {
+ "U0253": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -2782,7 +2793,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0253": {
+ "U0254": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2793,40 +2804,40 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0254": {
+ "U0255": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.16666666666666666,
-  "brand_mid": 0.6666666666666666,
-  "brand_premium": 1.3333333333333333
- },
- "U0255": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
  "U0256": {
-  "condition": 0.3333333333333333,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.16666666666666666,
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
  "U0257": {
+  "condition": 0.3333333333333333,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.16666666666666666,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0258": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2837,7 +2848,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0258": {
+ "U0259": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2848,40 +2859,40 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0259": {
+ "U0260": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
- },
- "U0260": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.6,
-  "seller_review_count": 0.8000000000000002,
-  "business_seller": 0.20000000000000004,
-  "returns_accepted": 0.20000000000000004,
-  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0261": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.8333333333333334,
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.6,
+  "seller_review_count": 0.8000000000000002,
+  "business_seller": 0.20000000000000004,
+  "returns_accepted": 0.20000000000000004,
+  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0262": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0263": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2892,7 +2903,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0263": {
+ "U0264": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2903,29 +2914,29 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0264": {
+ "U0265": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.5,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0265": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
  "U0266": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0267": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -2936,7 +2947,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0267": {
+ "U0268": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2947,7 +2958,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0268": {
+ "U0269": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -2958,7 +2969,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0269": {
+ "U0270": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2969,7 +2980,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0270": {
+ "U0271": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -2980,7 +2991,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0271": {
+ "U0272": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -2991,7 +3002,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0272": {
+ "U0273": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3002,29 +3013,29 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0273": {
+ "U0274": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
   "business_seller": 0.13333333333333333,
   "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.03333333333333333,
-  "brand_mid": 0.13333333333333333,
-  "brand_premium": 0.26666666666666666
- },
- "U0274": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.6,
-  "seller_review_count": 0.8000000000000002,
-  "business_seller": 0.20000000000000004,
-  "returns_accepted": 0.20000000000000004,
-  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.03333333333333333,
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
  "U0275": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.6,
+  "seller_review_count": 0.8000000000000002,
+  "business_seller": 0.20000000000000004,
+  "returns_accepted": 0.20000000000000004,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.03333333333333333,
+  "brand_mid": 0.13333333333333333,
+  "brand_premium": 0.26666666666666666
+ },
+ "U0276": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3035,29 +3046,29 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0276": {
+ "U0277": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.5,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
- },
- "U0277": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0278": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0279": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3068,7 +3079,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0279": {
+ "U0280": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3079,7 +3090,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0280": {
+ "U0281": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3090,7 +3101,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0281": {
+ "U0282": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3101,7 +3112,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0282": {
+ "U0283": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3112,7 +3123,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0283": {
+ "U0284": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3123,7 +3134,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0284": {
+ "U0285": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3134,29 +3145,29 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0285": {
+ "U0286": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
- },
- "U0286": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.5,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0287": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.5,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0288": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3167,7 +3178,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0288": {
+ "U0289": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3178,7 +3189,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0289": {
+ "U0290": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3189,7 +3200,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0290": {
+ "U0291": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3200,24 +3211,13 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0291": {
+ "U0292": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0292": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.7999999999999999,
-  "seller_review_count": 1.0666666666666667,
-  "business_seller": 0.26666666666666666,
-  "returns_accepted": 0.26666666666666666,
-  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
@@ -3234,6 +3234,17 @@
   "brand_premium": 0.8000000000000002
  },
  "U0294": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.7999999999999999,
+  "seller_review_count": 1.0666666666666667,
+  "business_seller": 0.26666666666666666,
+  "returns_accepted": 0.26666666666666666,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0295": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3244,7 +3255,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0295": {
+ "U0296": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3255,7 +3266,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0296": {
+ "U0297": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3266,7 +3277,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0297": {
+ "U0298": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3277,7 +3288,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0298": {
+ "U0299": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3288,7 +3299,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0299": {
+ "U0300": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3299,7 +3310,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0300": {
+ "U0301": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3310,7 +3321,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0301": {
+ "U0302": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3321,29 +3332,29 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0302": {
+ "U0303": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.03333333333333333,
-  "brand_mid": 0.13333333333333333,
-  "brand_premium": 0.26666666666666666
- },
- "U0303": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.7999999999999999,
-  "seller_review_count": 1.0666666666666667,
-  "business_seller": 0.26666666666666666,
-  "returns_accepted": 0.26666666666666666,
-  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.03333333333333333,
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
  "U0304": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.7999999999999999,
+  "seller_review_count": 1.0666666666666667,
+  "business_seller": 0.26666666666666666,
+  "returns_accepted": 0.26666666666666666,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.03333333333333333,
+  "brand_mid": 0.13333333333333333,
+  "brand_premium": 0.26666666666666666
+ },
+ "U0305": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3354,7 +3365,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0305": {
+ "U0306": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3365,29 +3376,29 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0306": {
+ "U0307": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0307": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.7999999999999999,
-  "seller_review_count": 1.0666666666666667,
-  "business_seller": 0.26666666666666666,
-  "returns_accepted": 0.26666666666666666,
-  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
  "U0308": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.7999999999999999,
+  "seller_review_count": 1.0666666666666667,
+  "business_seller": 0.26666666666666666,
+  "returns_accepted": 0.26666666666666666,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0309": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3398,29 +3409,29 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0309": {
+ "U0310": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
   "business_seller": 0.13333333333333333,
   "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.16666666666666666,
-  "brand_mid": 0.6666666666666666,
-  "brand_premium": 1.3333333333333333
- },
- "U0310": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
  "U0311": {
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.3333333333333333,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0312": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3431,7 +3442,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0312": {
+ "U0313": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3442,73 +3453,73 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0313": {
+ "U0314": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
   "business_seller": 0.20000000000000004,
   "returns_accepted": 0.20000000000000004,
   "mentions_damage": -0.5,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0314": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
  "U0315": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0316": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.03333333333333333,
-  "brand_mid": 0.13333333333333333,
-  "brand_premium": 0.26666666666666666
- },
- "U0316": {
-  "condition": 0.3333333333333333,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.16666666666666666,
   "brand_budget": 0.03333333333333333,
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
  "U0317": {
+  "condition": 0.3333333333333333,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.16666666666666666,
+  "brand_budget": 0.03333333333333333,
+  "brand_mid": 0.13333333333333333,
+  "brand_premium": 0.26666666666666666
+ },
+ "U0318": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
   "business_seller": 0.26666666666666666,
   "returns_accepted": 0.26666666666666666,
   "mentions_damage": -0.6666666666666666,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
- },
- "U0318": {
-  "condition": 1.0,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
-  "mentions_damage": -0.5,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0319": {
+  "condition": 1.0,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.5,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0320": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3519,7 +3530,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0320": {
+ "U0321": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3530,29 +3541,29 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0321": {
+ "U0322": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.16666666666666666,
-  "brand_mid": 0.6666666666666666,
-  "brand_premium": 1.3333333333333333
- },
- "U0322": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
  "U0323": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0324": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3563,7 +3574,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0324": {
+ "U0325": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3574,7 +3585,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0325": {
+ "U0326": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3585,7 +3596,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0326": {
+ "U0327": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3596,7 +3607,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0327": {
+ "U0328": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3607,7 +3618,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0328": {
+ "U0329": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3618,7 +3629,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0329": {
+ "U0330": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3629,7 +3640,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0330": {
+ "U0331": {
   "condition": 1.0,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3640,29 +3651,29 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0331": {
+ "U0332": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
   "business_seller": 0.26666666666666666,
   "returns_accepted": 0.26666666666666666,
   "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.06666666666666667,
-  "brand_mid": 0.26666666666666666,
-  "brand_premium": 0.5333333333333333
- },
- "U0332": {
-  "condition": 1.3333333333333333,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.6666666666666666,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
  "U0333": {
+  "condition": 1.3333333333333333,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.6666666666666666,
+  "brand_budget": 0.06666666666666667,
+  "brand_mid": 0.26666666666666666,
+  "brand_premium": 0.5333333333333333
+ },
+ "U0334": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3673,7 +3684,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0334": {
+ "U0335": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3684,7 +3695,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0335": {
+ "U0336": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3695,7 +3706,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0336": {
+ "U0337": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3706,7 +3717,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0337": {
+ "U0338": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3717,7 +3728,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0338": {
+ "U0339": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3728,7 +3739,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0339": {
+ "U0340": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3739,7 +3750,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0340": {
+ "U0341": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3750,7 +3761,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0341": {
+ "U0342": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3761,7 +3772,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0342": {
+ "U0343": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3772,7 +3783,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0343": {
+ "U0344": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3783,7 +3794,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0344": {
+ "U0345": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3794,7 +3805,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0345": {
+ "U0346": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3805,7 +3816,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0346": {
+ "U0347": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3816,7 +3827,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0347": {
+ "U0348": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3827,29 +3838,29 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0348": {
+ "U0349": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
   "business_seller": 0.3333333333333333,
   "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.8333333333333334,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
- },
- "U0349": {
-  "condition": 1.0,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.5,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
  "U0350": {
+  "condition": 1.0,
+  "seller_negative_feedback": -0.39999999999999997,
+  "seller_review_count": 0.5333333333333333,
+  "business_seller": 0.13333333333333333,
+  "returns_accepted": 0.13333333333333333,
+  "mentions_damage": -0.5,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0351": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3860,7 +3871,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0351": {
+ "U0352": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3871,7 +3882,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0352": {
+ "U0353": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3882,7 +3893,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0353": {
+ "U0354": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -3893,7 +3904,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0354": {
+ "U0355": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3904,7 +3915,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0355": {
+ "U0356": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3915,7 +3926,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0356": {
+ "U0357": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3926,7 +3937,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0357": {
+ "U0358": {
   "condition": 1.0,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -3937,29 +3948,29 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0358": {
+ "U0359": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
   "business_seller": 0.13333333333333333,
   "returns_accepted": 0.13333333333333333,
   "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.16666666666666666,
-  "brand_mid": 0.6666666666666666,
-  "brand_premium": 1.3333333333333333
- },
- "U0359": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.8333333333333334,
   "brand_budget": 0.16666666666666666,
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
  "U0360": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.16666666666666666,
+  "brand_mid": 0.6666666666666666,
+  "brand_premium": 1.3333333333333333
+ },
+ "U0361": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -3970,7 +3981,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0361": {
+ "U0362": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -3981,7 +3992,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0362": {
+ "U0363": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -3992,7 +4003,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0363": {
+ "U0364": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -4003,7 +4014,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0364": {
+ "U0365": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -4014,7 +4025,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0365": {
+ "U0366": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4025,7 +4036,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0366": {
+ "U0367": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4036,7 +4047,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0367": {
+ "U0368": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -4047,7 +4058,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0368": {
+ "U0369": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -4058,40 +4069,40 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0369": {
+ "U0370": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
   "business_seller": 0.20000000000000004,
   "returns_accepted": 0.20000000000000004,
-  "mentions_damage": -0.3333333333333333,
-  "brand_budget": 0.10000000000000002,
-  "brand_mid": 0.4000000000000001,
-  "brand_premium": 0.8000000000000002
- },
- "U0370": {
-  "condition": 0.6666666666666666,
-  "seller_negative_feedback": -1.0,
-  "seller_review_count": 1.3333333333333333,
-  "business_seller": 0.3333333333333333,
-  "returns_accepted": 0.3333333333333333,
   "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
  "U0371": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.8333333333333334,
+  "condition": 0.6666666666666666,
+  "seller_negative_feedback": -1.0,
+  "seller_review_count": 1.3333333333333333,
+  "business_seller": 0.3333333333333333,
+  "returns_accepted": 0.3333333333333333,
+  "mentions_damage": -0.3333333333333333,
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
  "U0372": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.10000000000000002,
+  "brand_mid": 0.4000000000000001,
+  "brand_premium": 0.8000000000000002
+ },
+ "U0373": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -4102,7 +4113,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0373": {
+ "U0374": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -4113,7 +4124,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0374": {
+ "U0375": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4124,7 +4135,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0375": {
+ "U0376": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4135,7 +4146,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0376": {
+ "U0377": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4146,7 +4157,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0377": {
+ "U0378": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4157,7 +4168,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0378": {
+ "U0379": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -4168,7 +4179,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0379": {
+ "U0380": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4179,7 +4190,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0380": {
+ "U0381": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -4190,7 +4201,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0381": {
+ "U0382": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -4201,7 +4212,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0382": {
+ "U0383": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4212,7 +4223,7 @@
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0383": {
+ "U0384": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -4223,7 +4234,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0384": {
+ "U0385": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4234,7 +4245,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0385": {
+ "U0386": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -4245,7 +4256,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0386": {
+ "U0387": {
   "condition": 1.0,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -4256,7 +4267,7 @@
   "brand_mid": 0.6666666666666666,
   "brand_premium": 1.3333333333333333
  },
- "U0387": {
+ "U0388": {
   "condition": 1.0,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4267,7 +4278,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0388": {
+ "U0389": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -4278,7 +4289,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0389": {
+ "U0390": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.39999999999999997,
   "seller_review_count": 0.5333333333333333,
@@ -4289,24 +4300,13 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0390": {
+ "U0391": {
   "condition": 1.0,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
   "business_seller": 0.26666666666666666,
   "returns_accepted": 0.26666666666666666,
   "mentions_damage": -0.5,
-  "brand_budget": 0.13333333333333333,
-  "brand_mid": 0.5333333333333333,
-  "brand_premium": 1.0666666666666667
- },
- "U0391": {
-  "condition": 1.6666666666666667,
-  "seller_negative_feedback": -0.19999999999999998,
-  "seller_review_count": 0.26666666666666666,
-  "business_seller": 0.06666666666666667,
-  "returns_accepted": 0.06666666666666667,
-  "mentions_damage": -0.8333333333333334,
   "brand_budget": 0.13333333333333333,
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
@@ -4318,11 +4318,22 @@
   "business_seller": 0.06666666666666667,
   "returns_accepted": 0.06666666666666667,
   "mentions_damage": -0.8333333333333334,
+  "brand_budget": 0.13333333333333333,
+  "brand_mid": 0.5333333333333333,
+  "brand_premium": 1.0666666666666667
+ },
+ "U0393": {
+  "condition": 1.6666666666666667,
+  "seller_negative_feedback": -0.19999999999999998,
+  "seller_review_count": 0.26666666666666666,
+  "business_seller": 0.06666666666666667,
+  "returns_accepted": 0.06666666666666667,
+  "mentions_damage": -0.8333333333333334,
   "brand_budget": 0.06666666666666667,
   "brand_mid": 0.26666666666666666,
   "brand_premium": 0.5333333333333333
  },
- "U0393": {
+ "U0394": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -4333,7 +4344,7 @@
   "brand_mid": 0.5333333333333333,
   "brand_premium": 1.0666666666666667
  },
- "U0394": {
+ "U0395": {
   "condition": 1.6666666666666667,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -4344,7 +4355,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0395": {
+ "U0396": {
   "condition": 0.3333333333333333,
   "seller_negative_feedback": -0.19999999999999998,
   "seller_review_count": 0.26666666666666666,
@@ -4355,7 +4366,7 @@
   "brand_mid": 0.13333333333333333,
   "brand_premium": 0.26666666666666666
  },
- "U0396": {
+ "U0397": {
   "condition": 1.3333333333333333,
   "seller_negative_feedback": -0.6,
   "seller_review_count": 0.8000000000000002,
@@ -4366,7 +4377,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0397": {
+ "U0398": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -0.7999999999999999,
   "seller_review_count": 1.0666666666666667,
@@ -4377,7 +4388,7 @@
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
  },
- "U0398": {
+ "U0399": {
   "condition": 0.6666666666666666,
   "seller_negative_feedback": -1.0,
   "seller_review_count": 1.3333333333333333,
@@ -4387,16 +4398,5 @@
   "brand_budget": 0.10000000000000002,
   "brand_mid": 0.4000000000000001,
   "brand_premium": 0.8000000000000002
- },
- "U0399": {
-  "condition": 0.3333333333333333,
-  "seller_negative_feedback": -0.39999999999999997,
-  "seller_review_count": 0.5333333333333333,
-  "business_seller": 0.13333333333333333,
-  "returns_accepted": 0.13333333333333333,
-  "mentions_damage": -0.16666666666666666,
-  "brand_budget": 0.03333333333333333,
-  "brand_mid": 0.13333333333333333,
-  "brand_premium": 0.26666666666666666
  }
 }

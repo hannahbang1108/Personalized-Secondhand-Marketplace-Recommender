@@ -43,7 +43,8 @@ PRIORITIES = ["condition", "seller_trust", "brand"]
 @dataclass
 class Listing:
     listing_id: str
-    title: str
+    title: str                     # what the seller wrote, e.g. "IKEA 6-Drawer Dresser"
+    item: str                      # one of ITEMS_BY_CATEGORY[category], e.g. "dresser"
     category: str                  # one of CATEGORIES
     condition: str                 # one of CONDITIONS, as stated by the seller for now
     seller_feedback_percent: float # eBay: seller.feedbackPercentage, e.g. 99.2
