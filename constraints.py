@@ -19,8 +19,8 @@ ALL_ITEMS = {item: category
 
 
 # Create a Buyer profile by asking questions in the console. Then filter a list of listings
-# to only those that are feasible for that buyer. Finally, print a report of how many
-# listings were removed for each reason, and how many remain for each item.
+# to only those that are feasible for that buyer. Finally, print how many
+# listings remain for each item.
 def ask_buyer(buyer_id="U_live"):
     print("=== Secondhand Marketplace Recommender: onboarding ===\n")
     name = input("Your name: ").strip()
@@ -117,78 +117,45 @@ def geocode(address):
 
 
 def filter_listings(buyer, location, max_miles, listings):
-    # returns {item: listings that passed} and {reason: number removed}
+    # returns {item: listings that passed}
     wanted = {entry["item"] for entry in buyer.shopping_list}
-    removed = {"not on shopping list": 0, "over budget": 0,
-               "too far away": 0, "leaves too little for other items": 0}
     candidates = {item: [] for item in wanted}
     buyer_lat, buyer_lon = location
 
     for listing in listings:
-        # Pythagoras in miles: 1 degree of latitude is ~69 miles, and degrees
+        # Pythagoras in miles: 1 degree of latitude is ~69.09 miles, and degrees
         # of longitude shrink by cos(latitude) away from the equator
-        dy = (listing.latitude - buyer_lat) * 69.0
-        dx = (listing.longitude - buyer_lon) * 69.0 * np.cos(np.radians(buyer_lat))
+        dy = (listing.latitude - buyer_lat) * 69.09
+        dx = (listing.longitude - buyer_lon) * 69.09 * np.cos(np.radians(buyer_lat))
         distance = np.hypot(dx, dy)
 
-        item = listing.item
-        if item not in wanted:
-            removed["not on shopping list"] += 1
-        elif listing.price > buyer.budget:
-            removed["over budget"] += 1
-        elif distance > max_miles:
-            removed["too far away"] += 1
-        else:
-            candidates[item].append(listing)
+        if (listing.item in wanted and listing.price <= buyer.budget
+                and distance <= max_miles):
+            candidates[listing.item].append(listing)
 
-    # drop listings that wouldn't leave enough money for the cheapest
-    # option of every other item
-    if all(candidates.values()):
-        cheapest = {item: min(l.price for l in options)
-                    for item, options in candidates.items()}
-        total_cheapest = sum(cheapest.values())
-        for item, options in candidates.items():
-            money_for_others = buyer.budget - (total_cheapest - cheapest[item])
-            kept = [l for l in options if l.price <= money_for_others]
-            removed["leaves too little for other items"] += len(options) - len(kept)
-            candidates[item] = kept
-
-    return candidates, removed
-
-
-def check_feasible(buyer, candidates):
-    # returns a message if nothing can work, otherwise None
-    missing = [item for item, options in candidates.items() if not options]
-    if missing:
-        return (f"No listings left for: {', '.join(missing)}. "
-                "Try raising your max distance or your budget.")
-    total_cheapest = sum(min(l.price for l in opts) for opts in candidates.values())
-    if total_cheapest > buyer.budget:
-        return (f"The cheapest option for every item adds up to "
-                f"${total_cheapest:.2f}, which is over your ${buyer.budget:.2f} budget.")
-    return None
-
-
-# --- Try it out ---
+    return candidates
 
 def load_listings(path="data/listings.json"):
     with open(path) as f:
         return [Listing(**record) for record in json.load(f)]
 
 
-def print_report(buyer, max_miles, candidates, removed):
+def print_report(buyer, max_miles, candidates):
     print(f"\n=== Results for {buyer.name} ===")
     print(f"Pickup range: {max_miles:g} miles")
-    for reason, count in removed.items():
-        print(f"  removed {count:5d}  {reason}")
     for item, options in candidates.items():
         print(f"  {item:15s} {len(options):4d} listings left")
-    problem = check_feasible(buyer, candidates)
-    print("\n" + (problem or "At least one combination fits your budget."))
+
+    # the search needs at least one listing for every item
+    missing = [item for item, options in candidates.items() if not options]
+    if missing:
+        print(f"\nNo listings left for: {', '.join(missing)}. "
+              "Try raising your max distance or your budget.")
+    else:
+        print("\nEvery item has at least one listing left.")
 
 
 if __name__ == "__main__":
     buyer, location, max_miles = ask_buyer()
-    candidates, removed = filter_listings(buyer, location, max_miles,
-                                          load_listings())
-    print_report(buyer, max_miles, candidates, removed)
+    candidates = filter_listings(buyer, location, max_miles, load_listings())
+    print_report(buyer, max_miles, candidates)
