@@ -119,6 +119,8 @@ def make_listing(listing_id, rng, title_rng):
         returns_accepted=bool(accepts_returns),
         brand_tier=brand,
         mentions_damage=bool(rng.random() < DAMAGE_CHANCE[condition]),
+        image_urls=[],   # mock listings have no photos
+
         price=random_price(category, condition, brand, rng),
         latitude=latitude,
         longitude=longitude,

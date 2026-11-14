@@ -36,7 +36,8 @@ def main():
     rng = np.random.default_rng(settings.seed)
 
     listings = make_listings(settings.listings, rng)
-    buyers = [make_buyer(rng, f"U{i:04d}") for i in range(settings.buyers)]
+    home_rng = rng.spawn(1)[0]
+    buyers = [make_buyer(rng, f"U{i:04d}", home_rng) for i in range(settings.buyers)]
     true_weights = {buyer.buyer_id: make_true_weights(buyer) for buyer in buyers}
     choices = simulate_choices(buyers, true_weights, listings, rng,
                                questions_per_buyer=settings.questions_per_buyer,

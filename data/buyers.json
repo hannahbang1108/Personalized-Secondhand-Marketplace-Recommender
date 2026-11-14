@@ -29,7 +29,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.17872,
+  "home_longitude": -74.98971,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0001",
@@ -60,7 +63,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.87341,
+  "home_longitude": -74.91776,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0002",
@@ -84,7 +90,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.93009,
+  "home_longitude": -75.23179,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0003",
@@ -107,7 +116,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.95276,
+  "home_longitude": -74.82335,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0004",
@@ -132,7 +144,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.86462,
+  "home_longitude": -75.19051,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0005",
@@ -157,7 +172,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.06298,
+  "home_longitude": -74.76293,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0006",
@@ -190,7 +208,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.03755,
+  "home_longitude": -74.97928,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0007",
@@ -214,7 +235,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.98883,
+  "home_longitude": -75.15922,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0008",
@@ -237,7 +261,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.90882,
+  "home_longitude": -74.88271,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0009",
@@ -264,7 +291,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.12583,
+  "home_longitude": -74.82543,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0010",
@@ -296,7 +326,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.91603,
+  "home_longitude": -75.06513,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0011",
@@ -325,7 +358,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.85144,
+  "home_longitude": -75.09885,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0012",
@@ -349,7 +385,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.89666,
+  "home_longitude": -74.9517,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0013",
@@ -372,7 +411,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.01368,
+  "home_longitude": -74.72134,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0014",
@@ -399,7 +441,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.98523,
+  "home_longitude": -75.15518,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0015",
@@ -424,7 +469,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97561,
+  "home_longitude": -75.24363,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0016",
@@ -451,7 +499,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.18292,
+  "home_longitude": -75.11352,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0017",
@@ -483,7 +534,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.12281,
+  "home_longitude": -74.85489,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0018",
@@ -519,7 +573,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.05811,
+  "home_longitude": -74.9361,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0019",
@@ -556,7 +613,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.98373,
+  "home_longitude": -75.22131,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0020",
@@ -588,7 +648,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.09041,
+  "home_longitude": -74.92121,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0021",
@@ -624,7 +687,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.07886,
+  "home_longitude": -74.82577,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0022",
@@ -655,7 +721,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96037,
+  "home_longitude": -75.02669,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0023",
@@ -686,7 +755,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.02422,
+  "home_longitude": -74.84157,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0024",
@@ -714,7 +786,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.09103,
+  "home_longitude": -75.11561,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0025",
@@ -742,7 +817,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.84327,
+  "home_longitude": -75.15624,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0026",
@@ -771,7 +849,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.04772,
+  "home_longitude": -75.08528,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0027",
@@ -806,7 +887,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.91896,
+  "home_longitude": -75.10235,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0028",
@@ -841,7 +925,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81863,
+  "home_longitude": -75.12617,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0029",
@@ -868,7 +955,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.99764,
+  "home_longitude": -74.84699,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0030",
@@ -897,7 +987,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.05404,
+  "home_longitude": -74.82065,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0031",
@@ -932,7 +1025,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.18876,
+  "home_longitude": -75.13096,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0032",
@@ -964,7 +1060,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.89447,
+  "home_longitude": -75.10863,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0033",
@@ -991,7 +1090,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.09144,
+  "home_longitude": -75.10075,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0034",
@@ -1026,7 +1128,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.98722,
+  "home_longitude": -74.92196,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0035",
@@ -1049,7 +1154,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.93245,
+  "home_longitude": -75.12697,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0036",
@@ -1080,7 +1188,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.07908,
+  "home_longitude": -74.8843,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0037",
@@ -1116,7 +1227,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.03779,
+  "home_longitude": -75.16431,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0038",
@@ -1149,7 +1263,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.10178,
+  "home_longitude": -74.9199,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0039",
@@ -1176,7 +1293,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.9602,
+  "home_longitude": -75.14014,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0040",
@@ -1200,7 +1320,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.80557,
+  "home_longitude": -75.05237,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0041",
@@ -1232,7 +1355,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.90876,
+  "home_longitude": -74.74739,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0042",
@@ -1260,7 +1386,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.08804,
+  "home_longitude": -74.93606,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0043",
@@ -1295,7 +1424,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.89975,
+  "home_longitude": -75.07708,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0044",
@@ -1330,7 +1462,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.14826,
+  "home_longitude": -74.88961,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0045",
@@ -1361,7 +1496,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.99555,
+  "home_longitude": -75.03974,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0046",
@@ -1385,7 +1523,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.00034,
+  "home_longitude": -74.7784,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0047",
@@ -1413,7 +1554,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.94162,
+  "home_longitude": -74.93252,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0048",
@@ -1445,7 +1589,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.9218,
+  "home_longitude": -74.90321,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0049",
@@ -1477,7 +1624,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.14954,
+  "home_longitude": -75.18651,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0050",
@@ -1514,7 +1664,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.1674,
+  "home_longitude": -75.0675,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0051",
@@ -1545,7 +1698,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.12065,
+  "home_longitude": -75.09227,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0052",
@@ -1576,7 +1732,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.10819,
+  "home_longitude": -74.86882,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0053",
@@ -1600,7 +1759,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.03142,
+  "home_longitude": -74.75147,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0054",
@@ -1632,7 +1794,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.06179,
+  "home_longitude": -75.2071,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0055",
@@ -1669,7 +1834,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.8726,
+  "home_longitude": -75.05465,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0056",
@@ -1694,7 +1862,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.01812,
+  "home_longitude": -74.88835,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0057",
@@ -1730,7 +1901,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.85692,
+  "home_longitude": -74.86386,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0058",
@@ -1758,7 +1932,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.99837,
+  "home_longitude": -75.24559,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0059",
@@ -1790,7 +1967,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.95855,
+  "home_longitude": -75.13336,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0060",
@@ -1827,7 +2007,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.15732,
+  "home_longitude": -74.92225,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0061",
@@ -1863,7 +2046,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96809,
+  "home_longitude": -75.19758,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0062",
@@ -1894,7 +2080,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97958,
+  "home_longitude": -75.00246,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0063",
@@ -1917,7 +2106,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.95226,
+  "home_longitude": -74.89891,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0064",
@@ -1950,7 +2142,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.1151,
+  "home_longitude": -74.86796,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0065",
@@ -1986,7 +2181,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.90035,
+  "home_longitude": -74.76002,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0066",
@@ -2014,7 +2212,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.0344,
+  "home_longitude": -75.00334,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0067",
@@ -2046,7 +2247,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.92688,
+  "home_longitude": -74.79675,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0068",
@@ -2073,7 +2277,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.00418,
+  "home_longitude": -74.87855,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0069",
@@ -2109,7 +2316,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.15434,
+  "home_longitude": -75.19753,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0070",
@@ -2145,7 +2355,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.0061,
+  "home_longitude": -74.75547,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0071",
@@ -2172,7 +2385,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.10258,
+  "home_longitude": -75.12677,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0072",
@@ -2203,7 +2419,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.97953,
+  "home_longitude": -75.09443,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0073",
@@ -2231,7 +2450,10 @@
     "item": "wall art",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.81777,
+  "home_longitude": -75.04725,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0074",
@@ -2262,7 +2484,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.91828,
+  "home_longitude": -74.80989,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0075",
@@ -2298,7 +2523,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.06072,
+  "home_longitude": -74.83724,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0076",
@@ -2321,7 +2549,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81264,
+  "home_longitude": -75.01393,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0077",
@@ -2352,7 +2583,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97176,
+  "home_longitude": -75.05498,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0078",
@@ -2384,7 +2618,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.16108,
+  "home_longitude": -75.03579,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0079",
@@ -2407,7 +2644,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.85785,
+  "home_longitude": -74.84025,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0080",
@@ -2440,7 +2680,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.07027,
+  "home_longitude": -74.95939,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0081",
@@ -2469,7 +2712,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.92139,
+  "home_longitude": -74.94207,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0082",
@@ -2493,7 +2739,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.07782,
+  "home_longitude": -74.82435,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0083",
@@ -2524,7 +2773,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.18027,
+  "home_longitude": -75.03931,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0084",
@@ -2551,7 +2803,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96272,
+  "home_longitude": -75.19133,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0085",
@@ -2586,7 +2841,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.89068,
+  "home_longitude": -74.98903,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0086",
@@ -2614,7 +2872,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.19396,
+  "home_longitude": -75.10097,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0087",
@@ -2642,7 +2903,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.94588,
+  "home_longitude": -74.79249,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0088",
@@ -2666,7 +2930,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.01222,
+  "home_longitude": -74.92946,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0089",
@@ -2690,7 +2957,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.92669,
+  "home_longitude": -75.02459,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0090",
@@ -2717,7 +2987,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.9306,
+  "home_longitude": -75.00196,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0091",
@@ -2748,7 +3021,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.93888,
+  "home_longitude": -75.11482,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0092",
@@ -2785,7 +3061,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.11907,
+  "home_longitude": -75.03875,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0093",
@@ -2816,7 +3095,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97525,
+  "home_longitude": -75.0541,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0094",
@@ -2839,7 +3121,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.10079,
+  "home_longitude": -74.79703,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0095",
@@ -2874,7 +3159,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.14557,
+  "home_longitude": -74.86542,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0096",
@@ -2906,7 +3194,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.87767,
+  "home_longitude": -74.98333,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0097",
@@ -2935,7 +3226,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.01362,
+  "home_longitude": -75.24048,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0098",
@@ -2966,7 +3260,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.08797,
+  "home_longitude": -75.21205,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0099",
@@ -2989,7 +3286,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.96706,
+  "home_longitude": -74.89829,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0100",
@@ -3021,7 +3321,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81762,
+  "home_longitude": -75.03741,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0101",
@@ -3052,7 +3355,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.14998,
+  "home_longitude": -74.84336,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0102",
@@ -3083,7 +3389,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.87794,
+  "home_longitude": -74.85276,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0103",
@@ -3115,7 +3424,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.93485,
+  "home_longitude": -74.91357,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0104",
@@ -3147,7 +3459,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.83691,
+  "home_longitude": -74.82242,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0105",
@@ -3183,7 +3498,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.9622,
+  "home_longitude": -75.07099,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0106",
@@ -3206,7 +3524,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96649,
+  "home_longitude": -75.09862,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0107",
@@ -3238,7 +3559,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.94124,
+  "home_longitude": -74.76689,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0108",
@@ -3266,7 +3590,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.87491,
+  "home_longitude": -75.2251,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0109",
@@ -3294,7 +3621,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.99231,
+  "home_longitude": -74.80928,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0110",
@@ -3319,7 +3649,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.13409,
+  "home_longitude": -75.18867,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0111",
@@ -3346,7 +3679,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.99827,
+  "home_longitude": -74.96864,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0112",
@@ -3378,7 +3714,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.05616,
+  "home_longitude": -75.17675,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0113",
@@ -3413,7 +3752,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.10139,
+  "home_longitude": -75.09857,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0114",
@@ -3444,7 +3786,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.86364,
+  "home_longitude": -74.86392,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0115",
@@ -3477,7 +3822,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.05341,
+  "home_longitude": -74.94971,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0116",
@@ -3504,7 +3852,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.93025,
+  "home_longitude": -74.79534,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0117",
@@ -3536,7 +3887,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.14414,
+  "home_longitude": -75.11426,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0118",
@@ -3563,7 +3917,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.13957,
+  "home_longitude": -74.92994,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0119",
@@ -3591,7 +3948,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.034,
+  "home_longitude": -75.26159,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0120",
@@ -3618,7 +3978,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.10955,
+  "home_longitude": -75.00179,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0121",
@@ -3641,7 +4004,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.15999,
+  "home_longitude": -74.83454,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0122",
@@ -3676,7 +4042,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.88407,
+  "home_longitude": -75.21583,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0123",
@@ -3711,7 +4080,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.04219,
+  "home_longitude": -75.02033,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0124",
@@ -3736,7 +4108,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.11457,
+  "home_longitude": -75.06454,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0125",
@@ -3760,7 +4135,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.8257,
+  "home_longitude": -75.03832,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0126",
@@ -3791,7 +4169,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.16135,
+  "home_longitude": -75.1628,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0127",
@@ -3827,7 +4208,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.10396,
+  "home_longitude": -75.15153,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0128",
@@ -3858,7 +4242,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.90845,
+  "home_longitude": -75.24982,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0129",
@@ -3886,7 +4273,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.0222,
+  "home_longitude": -74.91346,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0130",
@@ -3921,7 +4311,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.08751,
+  "home_longitude": -74.9733,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0131",
@@ -3957,7 +4350,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.92202,
+  "home_longitude": -74.84299,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0132",
@@ -3984,7 +4380,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.15769,
+  "home_longitude": -74.95946,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0133",
@@ -4008,7 +4407,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.12621,
+  "home_longitude": -75.03226,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0134",
@@ -4039,7 +4441,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.10724,
+  "home_longitude": -75.0731,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0135",
@@ -4066,7 +4471,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.91728,
+  "home_longitude": -75.25992,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0136",
@@ -4101,7 +4509,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.03233,
+  "home_longitude": -75.05607,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0137",
@@ -4126,7 +4537,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.15044,
+  "home_longitude": -75.04995,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0138",
@@ -4150,7 +4564,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.02328,
+  "home_longitude": -74.83857,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0139",
@@ -4181,7 +4598,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.01157,
+  "home_longitude": -75.15805,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0140",
@@ -4204,7 +4624,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.94277,
+  "home_longitude": -74.89002,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0141",
@@ -4231,7 +4654,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.04078,
+  "home_longitude": -74.83471,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0142",
@@ -4267,7 +4693,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.15027,
+  "home_longitude": -75.03065,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0143",
@@ -4292,7 +4721,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.86502,
+  "home_longitude": -74.86239,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0144",
@@ -4324,7 +4756,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.04792,
+  "home_longitude": -75.03561,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0145",
@@ -4360,7 +4795,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.01529,
+  "home_longitude": -75.14162,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0146",
@@ -4383,7 +4821,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.97401,
+  "home_longitude": -74.83455,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0147",
@@ -4419,7 +4860,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.84625,
+  "home_longitude": -75.10847,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0148",
@@ -4443,7 +4887,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.93638,
+  "home_longitude": -75.04983,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0149",
@@ -4475,7 +4922,10 @@
     "item": "wall art",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.93976,
+  "home_longitude": -75.12838,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0150",
@@ -4508,7 +4958,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.14442,
+  "home_longitude": -75.02237,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0151",
@@ -4543,7 +4996,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.02422,
+  "home_longitude": -74.75456,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0152",
@@ -4571,7 +5027,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.12847,
+  "home_longitude": -74.85768,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0153",
@@ -4599,7 +5058,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.88137,
+  "home_longitude": -74.97255,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0154",
@@ -4626,7 +5088,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.00222,
+  "home_longitude": -75.11508,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0155",
@@ -4661,7 +5126,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.83952,
+  "home_longitude": -74.99841,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0156",
@@ -4684,7 +5152,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.84279,
+  "home_longitude": -75.0973,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0157",
@@ -4720,7 +5191,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.93785,
+  "home_longitude": -74.90234,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0158",
@@ -4747,7 +5221,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.86438,
+  "home_longitude": -74.8647,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0159",
@@ -4783,7 +5260,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.04575,
+  "home_longitude": -74.82855,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0160",
@@ -4812,7 +5292,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.06428,
+  "home_longitude": -75.25723,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0161",
@@ -4847,7 +5330,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.09068,
+  "home_longitude": -74.96742,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0162",
@@ -4874,7 +5360,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.11765,
+  "home_longitude": -74.7656,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0163",
@@ -4910,7 +5399,10 @@
     "item": "wall art",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.13483,
+  "home_longitude": -75.07844,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0164",
@@ -4941,7 +5433,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.96035,
+  "home_longitude": -75.04233,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0165",
@@ -4973,7 +5468,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.165,
+  "home_longitude": -75.09186,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0166",
@@ -5000,7 +5498,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.83334,
+  "home_longitude": -75.01539,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0167",
@@ -5027,7 +5528,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.06206,
+  "home_longitude": -75.1835,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0168",
@@ -5058,7 +5562,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.8596,
+  "home_longitude": -75.02017,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0169",
@@ -5093,7 +5600,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.98184,
+  "home_longitude": -74.85713,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0170",
@@ -5117,7 +5627,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.93394,
+  "home_longitude": -75.07672,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0171",
@@ -5141,7 +5654,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.9358,
+  "home_longitude": -74.9466,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0172",
@@ -5172,7 +5688,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.89693,
+  "home_longitude": -75.16911,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0173",
@@ -5207,7 +5726,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.01917,
+  "home_longitude": -75.1139,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0174",
@@ -5243,7 +5765,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.08909,
+  "home_longitude": -74.85963,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0175",
@@ -5270,7 +5795,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.10992,
+  "home_longitude": -74.80077,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0176",
@@ -5301,7 +5829,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.10162,
+  "home_longitude": -74.97461,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0177",
@@ -5324,7 +5855,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.91945,
+  "home_longitude": -74.82158,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0178",
@@ -5359,7 +5893,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.8566,
+  "home_longitude": -74.81093,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0179",
@@ -5390,7 +5927,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.10206,
+  "home_longitude": -75.05215,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0180",
@@ -5426,7 +5966,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.1495,
+  "home_longitude": -75.20295,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0181",
@@ -5454,7 +5997,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.05253,
+  "home_longitude": -75.26321,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0182",
@@ -5489,7 +6035,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.8707,
+  "home_longitude": -75.13945,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0183",
@@ -5512,7 +6061,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.13031,
+  "home_longitude": -74.88511,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0184",
@@ -5549,7 +6101,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81681,
+  "home_longitude": -75.12363,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0185",
@@ -5578,7 +6133,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.987,
+  "home_longitude": -74.95376,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0186",
@@ -5603,7 +6161,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.12533,
+  "home_longitude": -75.01639,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0187",
@@ -5630,7 +6191,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.15401,
+  "home_longitude": -74.84318,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0188",
@@ -5666,7 +6230,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.93707,
+  "home_longitude": -74.90214,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0189",
@@ -5694,7 +6261,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.11967,
+  "home_longitude": -74.9258,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0190",
@@ -5717,7 +6287,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.83442,
+  "home_longitude": -75.02786,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0191",
@@ -5748,7 +6321,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.04789,
+  "home_longitude": -75.12946,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0192",
@@ -5775,7 +6351,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.15976,
+  "home_longitude": -74.92523,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0193",
@@ -5798,7 +6377,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.21353,
+  "home_longitude": -75.03737,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0194",
@@ -5825,7 +6407,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.18866,
+  "home_longitude": -75.04428,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0195",
@@ -5856,7 +6441,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.85415,
+  "home_longitude": -74.84479,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0196",
@@ -5880,7 +6468,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.01566,
+  "home_longitude": -74.92599,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0197",
@@ -5904,7 +6495,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.84489,
+  "home_longitude": -74.83459,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0198",
@@ -5927,7 +6521,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.95456,
+  "home_longitude": -74.97086,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0199",
@@ -5959,7 +6556,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.15251,
+  "home_longitude": -74.98248,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0200",
@@ -5995,7 +6595,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.08584,
+  "home_longitude": -74.74355,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0201",
@@ -6031,7 +6634,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.19576,
+  "home_longitude": -74.8987,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0202",
@@ -6062,7 +6668,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.90619,
+  "home_longitude": -74.99895,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0203",
@@ -6098,7 +6707,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.8864,
+  "home_longitude": -75.00597,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0204",
@@ -6122,7 +6734,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.93357,
+  "home_longitude": -75.1056,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0205",
@@ -6157,7 +6772,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.06914,
+  "home_longitude": -74.95343,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0206",
@@ -6184,7 +6802,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97075,
+  "home_longitude": -74.78755,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0207",
@@ -6215,7 +6836,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.06325,
+  "home_longitude": -74.91268,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0208",
@@ -6251,7 +6875,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.1793,
+  "home_longitude": -74.97343,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0209",
@@ -6286,7 +6913,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.02564,
+  "home_longitude": -74.72717,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0210",
@@ -6319,7 +6949,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.19381,
+  "home_longitude": -74.95612,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0211",
@@ -6343,7 +6976,10 @@
     "item": "wall art",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.02228,
+  "home_longitude": -74.99364,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0212",
@@ -6376,7 +7012,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.86452,
+  "home_longitude": -74.89971,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0213",
@@ -6403,7 +7042,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.8928,
+  "home_longitude": -75.06642,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0214",
@@ -6430,7 +7072,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.14068,
+  "home_longitude": -74.86458,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0215",
@@ -6458,7 +7103,10 @@
     "item": "wall art",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.0753,
+  "home_longitude": -74.79702,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0216",
@@ -6493,7 +7141,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.03851,
+  "home_longitude": -74.74698,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0217",
@@ -6528,7 +7179,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.85084,
+  "home_longitude": -75.12563,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0218",
@@ -6560,7 +7214,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.93334,
+  "home_longitude": -75.07981,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0219",
@@ -6588,7 +7245,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.95457,
+  "home_longitude": -74.73705,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0220",
@@ -6616,7 +7276,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.00272,
+  "home_longitude": -74.83998,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0221",
@@ -6639,7 +7302,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.83211,
+  "home_longitude": -75.13223,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0222",
@@ -6674,7 +7340,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.94071,
+  "home_longitude": -74.87036,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0223",
@@ -6706,7 +7375,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.02092,
+  "home_longitude": -74.73993,
+  "trip_miles": 32.0
  },
  {
   "buyer_id": "U0224",
@@ -6735,7 +7407,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.80956,
+  "home_longitude": -75.04475,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0225",
@@ -6771,7 +7446,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.14143,
+  "home_longitude": -75.10928,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0226",
@@ -6803,7 +7481,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.10918,
+  "home_longitude": -75.03733,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0227",
@@ -6828,7 +7509,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.87926,
+  "home_longitude": -75.17016,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0228",
@@ -6852,7 +7536,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.91627,
+  "home_longitude": -74.86217,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0229",
@@ -6887,7 +7574,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.98392,
+  "home_longitude": -74.79605,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0230",
@@ -6915,7 +7605,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.99734,
+  "home_longitude": -75.10691,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0231",
@@ -6942,7 +7635,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.0609,
+  "home_longitude": -74.82701,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0232",
@@ -6965,7 +7661,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.14062,
+  "home_longitude": -74.9658,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0233",
@@ -6992,7 +7691,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.0415,
+  "home_longitude": -74.94298,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0234",
@@ -7024,7 +7726,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.8673,
+  "home_longitude": -74.95554,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0235",
@@ -7057,7 +7762,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.1532,
+  "home_longitude": -75.19969,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0236",
@@ -7090,7 +7798,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.05888,
+  "home_longitude": -74.79281,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0237",
@@ -7127,7 +7838,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.02386,
+  "home_longitude": -75.26459,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0238",
@@ -7159,7 +7873,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.85867,
+  "home_longitude": -75.14369,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0239",
@@ -7184,7 +7901,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96697,
+  "home_longitude": -74.86126,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0240",
@@ -7209,7 +7929,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.80894,
+  "home_longitude": -74.95747,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0241",
@@ -7238,7 +7961,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.12005,
+  "home_longitude": -74.82757,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0242",
@@ -7265,7 +7991,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.04987,
+  "home_longitude": -74.96284,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0243",
@@ -7296,7 +8025,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81349,
+  "home_longitude": -74.96788,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0244",
@@ -7320,7 +8052,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.13282,
+  "home_longitude": -74.86899,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0245",
@@ -7344,7 +8079,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.05909,
+  "home_longitude": -74.8092,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0246",
@@ -7376,7 +8114,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.97901,
+  "home_longitude": -74.8403,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0247",
@@ -7412,7 +8153,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.00727,
+  "home_longitude": -75.24462,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0248",
@@ -7440,7 +8184,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.0138,
+  "home_longitude": -75.07996,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0249",
@@ -7467,7 +8214,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.19626,
+  "home_longitude": -74.98966,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0250",
@@ -7504,7 +8254,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.83429,
+  "home_longitude": -74.91187,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0251",
@@ -7533,7 +8286,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.88818,
+  "home_longitude": -75.01597,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0252",
@@ -7568,7 +8324,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.04453,
+  "home_longitude": -75.26065,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0253",
@@ -7604,7 +8363,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.9805,
+  "home_longitude": -74.83047,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0254",
@@ -7639,7 +8401,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.88811,
+  "home_longitude": -75.18962,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0255",
@@ -7675,7 +8440,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.84228,
+  "home_longitude": -74.87426,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0256",
@@ -7702,7 +8470,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.10178,
+  "home_longitude": -75.07229,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0257",
@@ -7733,7 +8504,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.92706,
+  "home_longitude": -74.95482,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0258",
@@ -7756,7 +8530,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81664,
+  "home_longitude": -75.03564,
+  "trip_miles": 14.0
  },
  {
   "buyer_id": "U0259",
@@ -7781,7 +8558,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.05914,
+  "home_longitude": -75.16259,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0260",
@@ -7812,7 +8592,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.17885,
+  "home_longitude": -75.10076,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0261",
@@ -7847,7 +8630,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.7963,
+  "home_longitude": -74.96699,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0262",
@@ -7874,7 +8660,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.88081,
+  "home_longitude": -75.1956,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0263",
@@ -7898,7 +8687,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.14471,
+  "home_longitude": -74.95029,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0264",
@@ -7934,7 +8726,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97393,
+  "home_longitude": -74.82869,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0265",
@@ -7963,7 +8758,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.00141,
+  "home_longitude": -75.16037,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0266",
@@ -7999,7 +8797,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.12397,
+  "home_longitude": -75.06284,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0267",
@@ -8023,7 +8824,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.83489,
+  "home_longitude": -74.93656,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0268",
@@ -8050,7 +8854,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.09018,
+  "home_longitude": -75.23411,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0269",
@@ -8087,7 +8894,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.13415,
+  "home_longitude": -74.96227,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0270",
@@ -8122,7 +8932,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.8406,
+  "home_longitude": -75.02859,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0271",
@@ -8158,7 +8971,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97779,
+  "home_longitude": -74.83875,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0272",
@@ -8182,7 +8998,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.12982,
+  "home_longitude": -74.83215,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0273",
@@ -8215,7 +9034,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.84101,
+  "home_longitude": -75.18955,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0274",
@@ -8247,7 +9069,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.18526,
+  "home_longitude": -74.87239,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0275",
@@ -8279,7 +9104,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.96131,
+  "home_longitude": -75.17156,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0276",
@@ -8306,7 +9134,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.90292,
+  "home_longitude": -74.99542,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0277",
@@ -8342,7 +9173,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.05483,
+  "home_longitude": -74.79975,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0278",
@@ -8374,7 +9208,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.00676,
+  "home_longitude": -74.95994,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0279",
@@ -8401,7 +9238,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.81787,
+  "home_longitude": -74.86662,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0280",
@@ -8430,7 +9270,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.87214,
+  "home_longitude": -75.03783,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0281",
@@ -8461,7 +9304,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 39.95396,
+  "home_longitude": -74.73491,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0282",
@@ -8490,7 +9336,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.00889,
+  "home_longitude": -74.79457,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0283",
@@ -8526,7 +9375,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.9757,
+  "home_longitude": -74.71804,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0284",
@@ -8561,7 +9413,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.96579,
+  "home_longitude": -75.2328,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0285",
@@ -8592,7 +9447,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.02129,
+  "home_longitude": -75.18172,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0286",
@@ -8615,7 +9473,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.0591,
+  "home_longitude": -75.17194,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0287",
@@ -8639,7 +9500,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.98294,
+  "home_longitude": -75.16873,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0288",
@@ -8671,7 +9535,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.11359,
+  "home_longitude": -75.05769,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0289",
@@ -8707,7 +9574,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.92024,
+  "home_longitude": -75.1119,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0290",
@@ -8743,7 +9613,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.08022,
+  "home_longitude": -74.98422,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0291",
@@ -8774,7 +9647,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.09639,
+  "home_longitude": -75.25101,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0292",
@@ -8797,7 +9673,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.02516,
+  "home_longitude": -75.05342,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0293",
@@ -8832,7 +9711,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.896,
+  "home_longitude": -74.921,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0294",
@@ -8865,7 +9747,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.785,
+  "home_longitude": -74.98126,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0295",
@@ -8892,7 +9777,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.91746,
+  "home_longitude": -74.87303,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0296",
@@ -8915,7 +9803,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96424,
+  "home_longitude": -75.24033,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0297",
@@ -8939,7 +9830,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.0807,
+  "home_longitude": -75.12218,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0298",
@@ -8968,7 +9862,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.89487,
+  "home_longitude": -75.20961,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0299",
@@ -8996,7 +9893,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.97355,
+  "home_longitude": -74.95356,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0300",
@@ -9019,7 +9919,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.15245,
+  "home_longitude": -74.91044,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0301",
@@ -9054,7 +9957,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.00053,
+  "home_longitude": -75.07391,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0302",
@@ -9089,7 +9995,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.86349,
+  "home_longitude": -74.95932,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0303",
@@ -9118,7 +10027,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.97477,
+  "home_longitude": -75.05772,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0304",
@@ -9141,7 +10053,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.19238,
+  "home_longitude": -75.09442,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0305",
@@ -9169,7 +10084,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.0267,
+  "home_longitude": -74.93429,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0306",
@@ -9200,7 +10118,10 @@
     "item": "rug",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.98864,
+  "home_longitude": -75.26407,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0307",
@@ -9232,7 +10153,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.14218,
+  "home_longitude": -75.06721,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0308",
@@ -9255,7 +10179,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.1642,
+  "home_longitude": -75.18217,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0309",
@@ -9282,7 +10209,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.98934,
+  "home_longitude": -75.11725,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0310",
@@ -9306,7 +10236,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.02787,
+  "home_longitude": -74.85295,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0311",
@@ -9330,7 +10263,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.03476,
+  "home_longitude": -75.08915,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0312",
@@ -9354,7 +10290,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81008,
+  "home_longitude": -75.07031,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0313",
@@ -9386,7 +10325,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96783,
+  "home_longitude": -74.95029,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0314",
@@ -9417,7 +10359,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.13204,
+  "home_longitude": -74.99836,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0315",
@@ -9441,7 +10386,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.99966,
+  "home_longitude": -75.00083,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0316",
@@ -9464,7 +10412,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.12784,
+  "home_longitude": -74.9302,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0317",
@@ -9497,7 +10448,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.81649,
+  "home_longitude": -75.0158,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0318",
@@ -9530,7 +10484,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97268,
+  "home_longitude": -74.96734,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0319",
@@ -9555,7 +10512,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.03124,
+  "home_longitude": -74.91751,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0320",
@@ -9591,7 +10551,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.09974,
+  "home_longitude": -74.95623,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0321",
@@ -9615,7 +10578,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.15196,
+  "home_longitude": -74.96746,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0322",
@@ -9652,7 +10618,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.8634,
+  "home_longitude": -74.95253,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0323",
@@ -9684,7 +10653,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.069,
+  "home_longitude": -75.04428,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0324",
@@ -9721,7 +10693,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.15299,
+  "home_longitude": -75.05161,
+  "trip_miles": 21.0
  },
  {
   "buyer_id": "U0325",
@@ -9745,7 +10720,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.87772,
+  "home_longitude": -74.84816,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0326",
@@ -9776,7 +10754,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.94857,
+  "home_longitude": -75.15587,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0327",
@@ -9801,7 +10782,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.07143,
+  "home_longitude": -75.16109,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0328",
@@ -9836,7 +10820,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.06745,
+  "home_longitude": -74.96684,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0329",
@@ -9871,7 +10858,10 @@
     "item": "wall art",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.96251,
+  "home_longitude": -75.07686,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0330",
@@ -9903,7 +10893,10 @@
     "item": "sofa",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.013,
+  "home_longitude": -75.05517,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0331",
@@ -9926,7 +10919,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.92108,
+  "home_longitude": -74.88075,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0332",
@@ -9961,7 +10957,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.96257,
+  "home_longitude": -74.74514,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0333",
@@ -9996,7 +10995,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.13592,
+  "home_longitude": -75.14717,
+  "trip_miles": 20.0
  },
  {
   "buyer_id": "U0334",
@@ -10024,7 +11026,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.16571,
+  "home_longitude": -74.9005,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0335",
@@ -10052,7 +11057,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.92326,
+  "home_longitude": -74.78005,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0336",
@@ -10079,7 +11087,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.92298,
+  "home_longitude": -75.18221,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0337",
@@ -10110,7 +11121,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.05828,
+  "home_longitude": -75.01576,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0338",
@@ -10134,7 +11148,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.09142,
+  "home_longitude": -75.16843,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0339",
@@ -10158,7 +11175,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.14207,
+  "home_longitude": -75.03688,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0340",
@@ -10181,7 +11201,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.10616,
+  "home_longitude": -75.0476,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0341",
@@ -10212,7 +11235,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.92316,
+  "home_longitude": -74.74854,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0342",
@@ -10247,7 +11273,10 @@
     "item": "monitor",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.11449,
+  "home_longitude": -74.76556,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0343",
@@ -10275,7 +11304,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.81363,
+  "home_longitude": -74.91968,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0344",
@@ -10298,7 +11330,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.07742,
+  "home_longitude": -74.83766,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0345",
@@ -10329,7 +11364,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.8327,
+  "home_longitude": -75.05993,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0346",
@@ -10357,7 +11395,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.97718,
+  "home_longitude": -75.02702,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0347",
@@ -10380,7 +11421,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.94643,
+  "home_longitude": -75.24902,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0348",
@@ -10416,7 +11460,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.1524,
+  "home_longitude": -75.04277,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0349",
@@ -10448,7 +11495,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.10299,
+  "home_longitude": -74.79742,
+  "trip_miles": 25.0
  },
  {
   "buyer_id": "U0350",
@@ -10483,7 +11533,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.93952,
+  "home_longitude": -74.96955,
+  "trip_miles": 27.0
  },
  {
   "buyer_id": "U0351",
@@ -10515,7 +11568,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.87571,
+  "home_longitude": -74.78461,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0352",
@@ -10551,7 +11607,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.00566,
+  "home_longitude": -75.06376,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0353",
@@ -10582,7 +11641,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.85585,
+  "home_longitude": -75.08737,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0354",
@@ -10613,7 +11675,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.98685,
+  "home_longitude": -75.15245,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0355",
@@ -10650,7 +11715,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.98113,
+  "home_longitude": -74.89342,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0356",
@@ -10681,7 +11749,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.92669,
+  "home_longitude": -75.25453,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0357",
@@ -10717,7 +11788,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.91278,
+  "home_longitude": -75.10277,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0358",
@@ -10750,7 +11824,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.01868,
+  "home_longitude": -74.75124,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0359",
@@ -10774,7 +11851,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.84867,
+  "home_longitude": -74.94383,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0360",
@@ -10797,7 +11877,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.93349,
+  "home_longitude": -74.84669,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0361",
@@ -10829,7 +11912,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.14502,
+  "home_longitude": -75.02203,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0362",
@@ -10865,7 +11951,10 @@
     "item": "speaker",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.11436,
+  "home_longitude": -75.10705,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0363",
@@ -10892,7 +11981,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.09859,
+  "home_longitude": -75.1793,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0364",
@@ -10923,7 +12015,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.98696,
+  "home_longitude": -74.91955,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0365",
@@ -10958,7 +12053,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.09231,
+  "home_longitude": -75.21054,
+  "trip_miles": 23.0
  },
  {
   "buyer_id": "U0366",
@@ -10993,7 +12091,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.95357,
+  "home_longitude": -74.73306,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0367",
@@ -11024,7 +12125,10 @@
     "item": "coffee maker",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.1616,
+  "home_longitude": -75.07248,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0368",
@@ -11061,7 +12165,10 @@
     "item": "wall art",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.98247,
+  "home_longitude": -74.80093,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0369",
@@ -11084,7 +12191,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.07157,
+  "home_longitude": -75.08042,
+  "trip_miles": 36.0
  },
  {
   "buyer_id": "U0370",
@@ -11116,7 +12226,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.99931,
+  "home_longitude": -75.24273,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0371",
@@ -11140,7 +12253,10 @@
     "item": "office chair",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.0704,
+  "home_longitude": -75.03322,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0372",
@@ -11167,7 +12283,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.79594,
+  "home_longitude": -74.92093,
+  "trip_miles": 15.0
  },
  {
   "buyer_id": "U0373",
@@ -11190,7 +12309,10 @@
     "item": "coffee table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.80989,
+  "home_longitude": -74.91616,
+  "trip_miles": 26.0
  },
  {
   "buyer_id": "U0374",
@@ -11221,7 +12343,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.96039,
+  "home_longitude": -74.7667,
+  "trip_miles": 13.0
  },
  {
   "buyer_id": "U0375",
@@ -11257,7 +12382,10 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.83107,
+  "home_longitude": -75.09787,
+  "trip_miles": 24.0
  },
  {
   "buyer_id": "U0376",
@@ -11286,7 +12414,10 @@
     "item": "printer",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.10113,
+  "home_longitude": -75.06035,
+  "trip_miles": 38.0
  },
  {
   "buyer_id": "U0377",
@@ -11314,7 +12445,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.82978,
+  "home_longitude": -74.92326,
+  "trip_miles": 11.0
  },
  {
   "buyer_id": "U0378",
@@ -11339,7 +12473,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.95762,
+  "home_longitude": -74.95481,
+  "trip_miles": 33.0
  },
  {
   "buyer_id": "U0379",
@@ -11375,7 +12512,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.04652,
+  "home_longitude": -74.72799,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0380",
@@ -11411,7 +12551,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.17625,
+  "home_longitude": -75.01517,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0381",
@@ -11436,7 +12579,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.8063,
+  "home_longitude": -75.02298,
+  "trip_miles": 29.0
  },
  {
   "buyer_id": "U0382",
@@ -11460,7 +12606,10 @@
     "item": "cookware set",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 40.10762,
+  "home_longitude": -74.78572,
+  "trip_miles": 40.0
  },
  {
   "buyer_id": "U0383",
@@ -11484,7 +12633,10 @@
     "item": "duvet",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.1859,
+  "home_longitude": -75.03688,
+  "trip_miles": 22.0
  },
  {
   "buyer_id": "U0384",
@@ -11519,7 +12671,10 @@
     "item": "blender",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.95359,
+  "home_longitude": -75.2307,
+  "trip_miles": 35.0
  },
  {
   "buyer_id": "U0385",
@@ -11547,7 +12702,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.86044,
+  "home_longitude": -74.95848,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0386",
@@ -11578,7 +12736,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.93003,
+  "home_longitude": -74.93397,
+  "trip_miles": 28.0
  },
  {
   "buyer_id": "U0387",
@@ -11611,7 +12772,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.95667,
+  "home_longitude": -75.12699,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0388",
@@ -11646,7 +12810,10 @@
     "item": "mirror",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 40.16601,
+  "home_longitude": -75.00811,
+  "trip_miles": 17.0
  },
  {
   "buyer_id": "U0389",
@@ -11669,7 +12836,10 @@
     "item": "tv",
     "category": "electronics"
    }
-  ]
+  ],
+  "home_latitude": 40.08856,
+  "home_longitude": -74.99094,
+  "trip_miles": 16.0
  },
  {
   "buyer_id": "U0390",
@@ -11701,7 +12871,10 @@
     "item": "floor lamp",
     "category": "decor"
    }
-  ]
+  ],
+  "home_latitude": 39.95465,
+  "home_longitude": -74.78495,
+  "trip_miles": 39.0
  },
  {
   "buyer_id": "U0391",
@@ -11730,7 +12903,10 @@
     "item": "dining table",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.8216,
+  "home_longitude": -74.88853,
+  "trip_miles": 30.0
  },
  {
   "buyer_id": "U0392",
@@ -11763,7 +12939,10 @@
     "item": "curtains",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 40.10915,
+  "home_longitude": -75.10402,
+  "trip_miles": 37.0
  },
  {
   "buyer_id": "U0393",
@@ -11790,7 +12969,10 @@
     "item": "microwave",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.97682,
+  "home_longitude": -74.83864,
+  "trip_miles": 18.0
  },
  {
   "buyer_id": "U0394",
@@ -11826,7 +13008,10 @@
     "item": "dresser",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.8187,
+  "home_longitude": -74.99871,
+  "trip_miles": 34.0
  },
  {
   "buyer_id": "U0395",
@@ -11857,7 +13042,10 @@
     "item": "bed frame",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 40.13672,
+  "home_longitude": -75.04896,
+  "trip_miles": 31.0
  },
  {
   "buyer_id": "U0396",
@@ -11893,7 +13081,10 @@
     "item": "desk",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.87574,
+  "home_longitude": -75.12389,
+  "trip_miles": 10.0
  },
  {
   "buyer_id": "U0397",
@@ -11921,7 +13112,10 @@
     "item": "mattress topper",
     "category": "bedding"
    }
-  ]
+  ],
+  "home_latitude": 39.81132,
+  "home_longitude": -75.12946,
+  "trip_miles": 12.0
  },
  {
   "buyer_id": "U0398",
@@ -11956,7 +13150,10 @@
     "item": "toaster oven",
     "category": "kitchen"
    }
-  ]
+  ],
+  "home_latitude": 39.89097,
+  "home_longitude": -75.14217,
+  "trip_miles": 19.0
  },
  {
   "buyer_id": "U0399",
@@ -11985,6 +13182,9 @@
     "item": "bookshelf",
     "category": "furniture"
    }
-  ]
+  ],
+  "home_latitude": 39.88173,
+  "home_longitude": -75.10329,
+  "trip_miles": 39.0
  }
 ]

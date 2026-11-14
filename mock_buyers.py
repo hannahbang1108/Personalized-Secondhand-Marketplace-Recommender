@@ -15,6 +15,7 @@ only use them afterwards to check how well the model learned each buyer.
 """
 import numpy as np
 
+from mock_listings import random_location
 from schema import (Buyer, ITEMS_BY_CATEGORY, TRANSPORT_MODES, PRIORITIES,
                     LISTING_FEATURE_NAMES, listing_to_features)
 
@@ -35,8 +36,13 @@ TRANSPORT_WILLINGNESS = {"walk": 0.70, "transit": 0.50, "car": 0.45}
 # Step 1: filling out the onboarding form
 # ---------------------------------------------------------------------------
 
-def make_buyer(rng, buyer_id):
-    """Create one buyer with randomly chosen form answers."""
+def make_buyer(rng, buyer_id, home_rng):
+    """Create one buyer with randomly chosen form answers.
+
+    The home and trip limit come from their own random stream (home_rng), so
+    adding them didn't change the rest of the generated data for a given seed.
+    """
+    home_latitude, home_longitude = random_location(home_rng)   # same area as the listings
     return Buyer(
         buyer_id=buyer_id,
         name=str(rng.choice(FIRST_NAMES)),
@@ -44,6 +50,9 @@ def make_buyer(rng, buyer_id):
         transport=pick_transport_modes(rng),
         budget=float(round(rng.uniform(150, 2000), -1)),   # rounded to $10
         shopping_list=pick_shopping_list(rng),
+        home_latitude=home_latitude,
+        home_longitude=home_longitude,
+        trip_miles=float(home_rng.integers(10, 41)),   # 10 to 40 miles
     )
 
 
