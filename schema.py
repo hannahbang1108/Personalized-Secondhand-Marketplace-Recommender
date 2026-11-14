@@ -9,11 +9,6 @@ so switching data sources never requires changes anywhere else.
 from dataclasses import dataclass
 import numpy as np
 
-
-# ---------------------------------------------------------------------------
-# Allowed values
-# ---------------------------------------------------------------------------
-
 # Everything a buyer can shop for, grouped by category.
 ITEMS_BY_CATEGORY = {
     "furniture": ["desk", "office chair", "sofa", "bed frame", "dresser",
@@ -34,11 +29,6 @@ TRANSPORT_MODES = ["walk", "transit", "car"]
 
 # The three things buyers rate from 1 (doesn't matter) to 5 (matters a lot).
 PRIORITIES = ["condition", "seller_trust", "brand"]
-
-
-# ---------------------------------------------------------------------------
-# Data formats
-# ---------------------------------------------------------------------------
 
 @dataclass
 class Listing:
@@ -74,11 +64,6 @@ class Buyer:
     home_latitude: float           # from the buyer's address
     home_longitude: float
     trip_miles: float              # most miles for one pickup trip, leaving from and returning home
-
-
-# ---------------------------------------------------------------------------
-# Feature extraction: turning a listing into numbers the model can use
-# ---------------------------------------------------------------------------
 
 # Names for each position in the feature vector, in order.
 # Category isn't included because buyers only ever compare listings from the
