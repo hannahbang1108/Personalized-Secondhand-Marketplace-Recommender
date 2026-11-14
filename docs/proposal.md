@@ -1,40 +1,14 @@
 # Personalized Secondhand Marketplace Recommender
 
-**CS 5100 Project** · Hannah Bang, Manavkrishna Manoj, Tarun Sethi
+**CS 5100 – Project Proposal** · Hannah Bang, Manavkrishna Manoj, Tarun Sethi
 
-A recommender that matches secondhand listings to each buyer's preferences, checks item condition directly from listing photos, and finds the best combination of listings for a whole shopping list, with sliders that let the buyer control how much price and distance matter.
+## 1. Motivation & Problem Statement
 
----
+Buying secondhand on marketplaces like eBay, Facebook Marketplace, and Craigslist saves money and reduces waste, but it is tedious and full of compromises. Listings are hard to compare, photos may not match the stated condition, and the best deal depends on the buyer: someone who only walks needs nearby pickups, while someone with a car on a tight budget may drive farther to save money. Buyers furnishing a home also need several items at once, so the best single listing for each item does not always add up to the best overall purchase within their budget. We propose a system that matches listings to each buyer's preferences, checks item condition directly from listing photos, and then finds the best combination of listings for a shopping list, with sliders that let the buyer control how much price and distance matter.
 
-## Motivation
+## 2. Proposed Approach
 
-Buying secondhand on marketplaces like eBay, Facebook Marketplace, and Craigslist saves money and reduces waste, but it is tedious and full of compromises:
-
-- **Listings are hard to compare**, and photos may not match the stated condition.
-- **The best deal depends on the buyer.** Someone who only walks needs nearby pickups, while someone with a car on a tight budget may drive farther to save money.
-- **Buyers often need several items at once.** When furnishing a home, the best single listing for each item does not always add up to the best overall purchase within budget.
-
-## How It Works
-
-The system runs as a four-stage pipeline:
-
-```
-Listings ──► 1. Condition from photos ──► 2. Hard constraints ──► 3. Matching model ──► 4. Combination search ──► Recommendations
-              (CNN)                         (filtering)               (pairwise ranking)      (simulated annealing)
-```
-
-1. **Condition from photos.** A convolutional neural network, trained from scratch, predicts each listing's condition (*like new*, *good*, or *fair*) from its photos. Seller-selected conditions on eBay listings serve as training labels.
-2. **Hard constraints.** Listings the buyer cannot use are removed before matching, such as items above their budget or beyond the reach of their transport mode (e.g., a listing 30 miles away for a buyer who only walks).
-3. **Matching model.** A model trained across many users scores each remaining listing for a given buyer, using listing features (predicted condition, seller rating, reviews, category, description text) and the buyer's preference features. It is trained on pairwise *"which would you rather buy?"* choices. Price and distance are deliberately left out of this score.
-4. **Combination search.** Local search picks one listing per item on the shopping list to maximize
-
-   ```
-   total match score − w_price · total price − w_distance · total distance
-   ```
-
-   subject to the combined cost staying within budget. The weights come from the buyer's sliders, and moving a slider reruns the search.
-
-## Methods
+The system runs in four steps. **(1) Condition from photos:** a convolutional neural network, trained from scratch, predicts each listing's condition (like new, good, or fair) from its photos, using the seller-selected condition on eBay listings as training labels. **(2) Hard constraints:** before matching, listings the buyer cannot use are removed, such as items above their budget or beyond the reach of their transport mode (for example, a listing 30 miles away for a buyer who only walks). **(3) Matching model:** a model trained across many users scores each remaining listing for a given buyer from the listing's features (predicted condition, seller rating, reviews, category, description text) and the buyer's preference features. Price and distance are deliberately left out of this score. The model is trained on pairwise "which would you rather buy?" choices. **(4) Combination search:** local search finds one listing per item on the buyer's shopping list that maximizes total match score minus slider-weighted total price and distance, while keeping the combined cost within budget. Moving a slider reruns the search. Since scraping marketplaces can break their terms of service, listing data and photos will come from eBay's Browse API, supplemented by LLM-generated mock listings grounded in the Mercari Price Suggestion dataset. We will test with simulated buyers whose true preferences we set in advance, plus a small number of real users. We will evaluate held-out pairwise accuracy of the matching model, condition accuracy of the CNN against a baseline, how close local search gets to the exact optimum on small shopping lists, and recommendation quality against a lowest-price baseline. All AI methods will be implemented from scratch in Python, NumPy, and PyTorch, with no pretrained models.
 
 | Component | Primary approach | Comparison |
 |---|---|---|
@@ -43,34 +17,9 @@ Listings ──► 1. Condition from photos ──► 2. Hard constraints ──
 | Matching model | Pairwise logistic regression with user features (Bradley-Terry) | Bayesian logistic regression; Siamese neural network (RankNet-style) |
 | Combination search | Simulated annealing | Hill climbing with random restarts; exhaustive search on small lists as the optimal reference |
 
-All AI methods are implemented **from scratch** in Python, NumPy, and PyTorch, with **no pretrained models**.
+## 3. Existing Approaches
 
-## Data
-
-Because scraping marketplaces can violate their terms of service, data comes from:
-
-- **[eBay Browse API](https://developer.ebay.com/api-docs/buy/browse/overview.html)** for listing data and photos
-- **LLM-generated mock listings** grounded in the [Mercari Price Suggestion dataset](https://www.kaggle.com/c/mercari-price-suggestion-challenge)
-
-## Evaluation
-
-We test with **simulated buyers** whose true preferences are set in advance, plus a small number of **real users**.
-
-| Component | Metric |
-|---|---|
-| Matching model | Held-out pairwise accuracy |
-| Condition CNN | Condition accuracy against a baseline |
-| Combination search | Gap to the exact optimum on small shopping lists |
-| Full system | Recommendation quality against a lowest-price baseline |
-
-## Related Work
-
-- **eBay Best Match** [1] ranks listings by factors like relevance, price, and seller track record. However, those factors are weighted by eBay rather than the buyer, it ranks single items rather than combinations, and it relies on the seller's stated condition.
-- **Salimans et al.** [2] learn preferences across many users from pairwise comparisons, so a new user's tastes can be estimated from only a few answers. Their work targets general product recommendation rather than marketplace listings with budgets and pickup limits.
-- **RankNet** [3] trains a shared neural scoring function on pairs of items and is the basis for our Siamese comparison model.
-- **Simulated annealing** [4] is a standard local search method for large combinatorial problems like choosing one listing per item.
-
-This project combines these ideas into one system for secondhand shopping.
+eBay's Best Match ranks listings using factors like relevance, price, and seller track record [1], but those factors are weighted by eBay rather than by the buyer, it ranks single items rather than combinations, and it relies on the seller's stated condition. Salimans et al. [2] learn preferences across many users from pairwise comparisons, so a new user's tastes can be estimated from only a few answers, but their work targets general product recommendation rather than marketplace listings with budgets and pickup limits. RankNet [3] trains a shared neural scoring function on pairs of items, which is the basis for our Siamese comparison model. Simulated annealing [4] is a standard local search method for large combinatorial problems like choosing one listing per item. Our project combines these ideas into one system for secondhand shopping.
 
 ## References
 

@@ -2,76 +2,98 @@
 
 **CS 5100 Project** · Hannah Bang, Manavkrishna Manoj, Tarun Sethi
 
-A recommender that matches secondhand listings to each buyer's preferences, checks item condition from listing photos, and finds the best combination of listings for a whole shopping list, with sliders that control how much price and distance matter.
+## 1. Overview
 
-For the motivation, methods, evaluation plan, and related work, see the **[project proposal](docs/proposal.md)**.
+Buying secondhand saves money and reduces waste, but it is full of compromises. Listings are hard to compare, photos may not match the stated condition, and the best deal depends on the buyer: someone who only walks needs nearby pickups, while someone with a car on a tight budget may drive farther to save money. Buyers furnishing a home also need several items at once, so the best single listing for each item does not always add up to the best overall purchase within their budget.
 
-## Pipeline
+This project recommends the best **combination** of listings for a buyer's whole shopping list. It runs in four steps:
 
 ```
 Listings ──► 1. Condition from photos ──► 2. Hard constraints ──► 3. Matching model ──► 4. Combination search ──► Recommendations
-              (CNN)                         (filtering)               (Gaussian process)      (simulated annealing)
+              (CNN)                         (filtering)               (pairwise ranking)      (simulated annealing)
 ```
 
-| Step | Approach |
-|---|---|
-| 1. Condition from photos | CNN trained from scratch to predict condition from listing photos |
-| 2. Hard constraints | Removes listings over the buyer's budget or beyond their transport range |
-| 3. Matching model | Gaussian process regression over buyer-listing pairs, giving a match score and its uncertainty |
-| 4. Combination search | Simulated annealing to pick one listing per shopping-list item |
+| Step | Approach | Status |
+|---|---|---|
+| 1. Condition from photos | CNN trained from scratch to predict condition from listing photos | Not started |
+| 2. Hard constraints | Removes listings not on the shopping list, over budget, or too far to fit in the buyer's pickup trip | **Done** |
+| 3. Matching model | Pairwise logistic regression (Bradley-Terry) trained on "which would you rather buy?" choices | Mock training data done |
+| 4. Combination search | Simulated annealing picks one listing per item, trading off match score against price and trip distance with buyer-controlled sliders | **Next up** |
 
-### Matching model
+All AI methods are implemented from scratch in Python, NumPy, and PyTorch, with no pretrained models. See the **[project proposal](docs/proposal.md)** for the full methods, evaluation plan, and related work.
 
-The Gaussian process predicts how well a listing matches a buyer from how similar that buyer-listing pair is to pairs that have already been rated. Similarity is a product kernel: buyer similarity times listing similarity, each an RBF kernel. Every prediction comes with a mean (the match score) and a variance (how sure the model is), and the posterior is exactly Gaussian, so no approximation is needed.
+### What works so far
+- **Onboarding app:** a web form where the buyer enters their budget, transport modes, home address, pickup-trip limit, shopping list, and how much condition, seller trust, and brand matter to them (1 to 5). Every question is required.
+- **Hard constraints:** the buyer's address is converted to coordinates with the free [US Census geocoder](https://geocoding.geo.census.gov/geocoder/). A listing is kept only if it is on the shopping list, costs no more than the budget, and going there and back from home fits in the trip limit. The app then shows how many listings are left for each item.
+- **Mock data:** simulated buyers, listings with realistic titles, and "which would you rather buy?" answers for training the matching model.
 
-An exact Gaussian process slows down as the number of ratings grows, since its cost grows with the cube of the training set size. To scale, the model uses a sparse Gaussian process with inducing points: a few hundred representative points, chosen by k-means, stand in for the full training set.
+## 2. Setting Up the Environment
 
-If time allows, we will also train a neural network matching model and compare it against the Gaussian process.
-
-All AI methods are implemented from scratch in Python, NumPy, and PyTorch, with no pretrained models.
-
-**Current status:** mock data generation for the matching model.
-
-## Getting Started
-
-Requires Python 3.9+.
+Requires **Python 3.12 or newer** (tested on 3.14) and an internet connection (the app looks up addresses online).
 
 ```
+git clone https://github.com/hannahbang1108/Personalized-Secondhand-Marketplace-Recommender.git
+cd Personalized-Secondhand-Marketplace-Recommender
+
+python -m venv venv
+venv\Scripts\activate          # Windows
+source venv/bin/activate       # macOS / Linux
+
 pip install -r requirements.txt
+```
+
+## 3. Running the Code
+
+**Generate the mock data:**
+
+```
 python generate_mock_data.py
 ```
 
-This creates a `data/` folder with mock buyers, listings, and ratings. Useful options:
+This writes four files to `data/`. The same `--seed` always produces the same data, so results are reproducible. Useful options:
 
 | Option | Default | Meaning |
 |---|---|---|
 | `--buyers` | 400 | Number of simulated buyers |
 | `--listings` | 3000 | Number of mock listings |
-| `--ratings-per-buyer` | 40 | Listings each buyer rates |
-| `--rating-noise` | 0.5 | How much ratings vary from a buyer's true preferences |
+| `--questions-per-buyer` | 40 | "Which would you rather buy?" questions each buyer answers |
+| `--consistency` | 1.5 | How reliably buyers pick the listing they truly prefer |
 | `--cold-start-share` | 0.2 | Share of buyers held out entirely |
-| `--val-share` | 0.1 | Share of ratings used for validation |
-| `--test-share` | 0.2 | Share of ratings used for the final test |
-| `--seed` | 0 | Random seed; the same seed gives the same data |
+| `--val-share` | 0.1 | Share of answers used for validation |
+| `--test-share` | 0.2 | Share of answers used for the final test |
+| `--seed` | 0 | Random seed |
 
-## Repository Structure
+**Run the app:**
+
+```
+python -m streamlit run app.py
+```
+
+This opens the app in your browser. The mock listings are scattered within 15 miles of Philadelphia, so use an address in that area, for example `1400 John F Kennedy Blvd, Philadelphia, PA` with a budget of 300, a trip limit of 16 miles, and a shopping list of desk, sofa, and tv.
+
+Model training, the combination search, and the evaluation scripts will be added here as they are built.
+
+## 4. Code Organization
 
 | File | What it does |
 |---|---|
-| `schema.py` | Defines the `Listing` and `Buyer` formats and turns a listing into the feature vector the model uses. Every data source (mock now, real-data-based later) must produce this format. |
-| `mock_buyers.py` | Creates simulated buyers from onboarding-form answers, sets each buyer's true preferences from their priority ratings, and simulates their ratings. |
-| `mock_listings.py` | Temporary fake listings. To be replaced by listings sampled from real datasets. |
-| `generate_mock_data.py` | The script you run. Generates buyers, listings, and ratings, splits them for training and evaluation, and saves everything to `data/`. |
-| `docs/proposal.md` | Full project proposal: motivation, approach, methods, evaluation plan, related work. |
+| `app.py` | Streamlit app: onboarding form and results. |
+| `constraints.py` | Step 2: address lookup and the hard-constraint filter. |
+| `schema.py` | Defines the `Listing` and `Buyer` formats and turns a listing into the feature vector the matching model uses. Every data source (mock now, real data later) must produce this format. |
+| `mock_listings.py` | Mock listings with realistic titles, prices, seller details, and locations. To be replaced by real listings later. |
+| `mock_buyers.py` | Simulated buyers: their onboarding answers, their true preferences, and their "which would you rather buy?" answers. |
+| `generate_mock_data.py` | Generates buyers, listings, and answers, splits them for training and evaluation, and saves everything to `data/`. |
+| `requirements.txt` | Python packages to install. |
+| `docs/proposal.md` | Full project proposal. |
 
 ### Generated data (`data/`)
 
 | File | Contents | Used by |
 |---|---|---|
-| `listings.json` | Listing records | Model and search |
-| `buyers.json` | Onboarding-form answers: priorities, transport modes, budget, shopping list | Model, constraints, and search |
-| `ratings.csv` | Every buyer's rating of a listing, with a `split` column: `train` (fit the model), `val` (tune kernel settings), `test` (final accuracy, used once), `cold_start` (buyers held out entirely) | Model training and evaluation |
-| `true_weights.json` | Each buyer's true preferences (the answer key) | **Evaluation only**, never training |
+| `listings.json` | Listing records | Constraints, model, and search |
+| `buyers.json` | Simulated onboarding answers: priorities, transport modes, budget, shopping list | Model and search |
+| `comparisons.csv` | Every "which would you rather buy?" answer, with a `split` column: `train` (fit the model), `val` (tune settings), `test` (final accuracy, used once), `cold_start` (buyers held out entirely) | Model training and evaluation |
+| `true_weights.json` | Each simulated buyer's true preferences (the answer key) | **Evaluation only**, never training |
 
 ### Listing features in the match score
 
