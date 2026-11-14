@@ -13,6 +13,7 @@ ALL_ITEMS = {item: category
 st.set_page_config(page_title="Secondhand Recommender")
 
 
+# Loads the listings once and reuses them on every rerun of the page.
 @st.cache_data
 def get_listings():
     return load_listings()

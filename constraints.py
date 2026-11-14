@@ -11,7 +11,8 @@ from schema import Listing
 CENSUS_GEOCODER_URL = ("https://geocoding.geo.census.gov/geocoder/"
                        "locations/onelineaddress")
 
-# returns (matched_address, lat, lon), or None if not found
+
+# Looks up an address and returns (matched_address, lat, lon), or None if it isn't found.
 def geocode(address):
     query = urllib.parse.urlencode({"address": address,
                                     "benchmark": "Public_AR_Current",
@@ -22,31 +23,36 @@ def geocode(address):
     if not matches:
         return None
     best = matches[0]
-    # x is longitude, y is latitude
+    # The geocoder calls longitude x and latitude y.
     return (best["matchedAddress"], best["coordinates"]["y"],
             best["coordinates"]["x"])
 
 
+# Returns the straight-line distance in miles between two points (or arrays of points).
+def miles_between(lat1, lon1, lat2, lon2):
+    # One degree of latitude is about 69.09 miles, and degrees of longitude
+    # shrink by cos(latitude) away from the equator.
+    dy = (lat2 - lat1) * 69.09
+    dx = (lon2 - lon1) * 69.09 * np.cos(np.radians(lat1))
+    return np.hypot(dx, dy)
+
+
+# Returns {item: listings} with only the listings that pass every hard constraint.
 def filter_listings(buyer, location, trip_miles, listings):
-    # returns {item: listings that passed}
-    wanted = {entry["item"] for entry in buyer.shopping_list}
-    candidates = {item: [] for item in wanted}
-    buyer_lat, buyer_lon = location
+    candidates = {entry["item"]: [] for entry in buyer.shopping_list}
 
     for listing in listings:
-        # Pythagoras in miles: 1 degree of latitude is ~69.09 miles, and degrees
-        # of longitude shrink by cos(latitude) away from the equator
-        dy = (listing.latitude - buyer_lat) * 69.09
-        dx = (listing.longitude - buyer_lon) * 69.09 * np.cos(np.radians(buyer_lat))
-        distance = np.hypot(dx, dy)
+        distance = miles_between(*location, listing.latitude, listing.longitude)
 
-        # going there and back alone has to fit in the trip
-        if (listing.item in wanted and listing.price <= buyer.budget
+        # Going there and back on its own has to fit within the trip limit.
+        if (listing.item in candidates and listing.price <= buyer.budget
                 and 2 * distance <= trip_miles):
             candidates[listing.item].append(listing)
 
     return candidates
 
+
+# Loads the listings saved by generate_mock_data.py.
 def load_listings(path="data/listings.json"):
     with open(path) as f:
         return [Listing(**record) for record in json.load(f)]
