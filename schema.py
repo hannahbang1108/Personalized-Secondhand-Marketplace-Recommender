@@ -53,6 +53,8 @@ class Listing:
     returns_accepted: bool
     brand_tier: str                # one of BRAND_TIERS
     mentions_damage: bool          # description mentions scratches, wear, stains, etc.
+    # Input for the condition CNN (step 1).
+    image_urls: list               # eBay: image.imageUrl + additionalImages; empty for mock listings
     # The fields below are used by the hard constraints and the search.
     # They are deliberately NOT part of the match score.
     price: float
@@ -69,6 +71,9 @@ class Buyer:
     transport: list                # modes they're willing to use, e.g. ["walk", "transit"]
     budget: float
     shopping_list: list            # e.g. [{"item": "desk", "category": "furniture"}]
+    home_latitude: float           # from the buyer's address
+    home_longitude: float
+    trip_miles: float              # most miles for one pickup trip, leaving from and returning home
 
 
 # ---------------------------------------------------------------------------
