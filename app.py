@@ -1,10 +1,12 @@
 # Run with: python -m streamlit run app.py
+import random
 import urllib.error
 
 import streamlit as st
 
-from constraints import geocode, filter_listings, load_listings
+from constraints import geocode, filter_listings, load_listings, miles_between
 from schema import Buyer, ITEMS_BY_CATEGORY, TRANSPORT_MODES, PRIORITIES
+from search import make_problem, shortest_distance, solve
 
 ALL_ITEMS = {item: category
              for category, items in ITEMS_BY_CATEGORY.items()
@@ -78,16 +80,22 @@ if submitted:
     else:
         matched_address, latitude, longitude = match
         buyer = Buyer(buyer_id="U_live", name=name, priorities=priorities,
-                    transport=transport, budget=budget,
-                    shopping_list=[{"item": i, "category": ALL_ITEMS[i]} for i in items],
-                    home_latitude=latitude, home_longitude=longitude,
-                    trip_miles=trip_miles)
+                      transport=transport, budget=budget,
+                      shopping_list=[{"item": i, "category": ALL_ITEMS[i]} for i in items],
+                      home_latitude=latitude, home_longitude=longitude,
+                      trip_miles=trip_miles)
+        candidates = filter_listings(buyer, (latitude, longitude), trip_miles,
+                                     get_listings())
+        # the search needs at least one listing for every item
+        can_search = all(candidates.values())
         st.session_state.results = {
             "buyer": buyer,
             "matched_address": matched_address,
             "trip_miles": trip_miles,
-            "candidates": filter_listings(buyer, (latitude, longitude), trip_miles,
-                                          get_listings()),
+            "candidates": candidates,
+            # built once per submit so the route cache survives slider changes
+            "problem": (make_problem(buyer, (latitude, longitude), trip_miles, candidates)
+                        if can_search else None),
         }
 
 if "results" in st.session_state:
@@ -107,6 +115,55 @@ if "results" in st.session_state:
         st.warning(f"No listings left for: {', '.join(missing)}. "
                    "Try raising your trip limit or your budget.")
     else:
-        st.success("Every item has at least one listing left.")
-        st.info("Price and distance sliders and the best combination will go here "
-                "once the search (step 4) is built.")
+        problem = results["problem"]
+        home = (buyer.home_latitude, buyer.home_longitude)
+
+        st.subheader("What should the search favor?")
+        # sliders live outside the form, so moving one reruns the page right away
+        # whole-number 0-10 sliders; dividing by 5 gives weights from 0 to 2 (5 = weight 1.0)
+        price_importance = st.slider(
+            "Price", 0, 10, 5,
+            help="Higher = the search works harder to keep the total price down.")
+        trip_importance = st.slider(
+            "Trip distance", 0, 10, 5,
+            help="Higher = the search works harder to keep the pickup loop short.")
+        problem["price_weight"] = price_importance / 5
+        problem["trip_weight"] = trip_importance / 5
+
+        # the search is random; seeding makes the same slider values give the same answer
+        random.seed(0)
+        best = solve(problem)
+
+        if best is None:
+            st.error("Couldn't find a combination that fits both your budget "
+                     "and your trip limit. Try raising either one.")
+        else:
+            miles, order = shortest_distance(problem, best)
+            total_price = sum(problem["prices"][i][j] for i, j in enumerate(best))
+
+            st.subheader("Your best combination")
+            col1, col2 = st.columns(2)
+            col1.metric("Total price", f"${total_price:,.2f}",
+                        f"${buyer.budget - total_price:,.2f} under budget",
+                        delta_color="off")
+            col2.metric("Pickup trip", f"{miles:.1f} mi",
+                        f"{results['trip_miles'] - miles:.1f} mi under limit",
+                        delta_color="off")
+
+            for item_num, listing_num in enumerate(best):
+                listing = problem["listings_by_item"][item_num][listing_num]
+                away = miles_between(*home, listing.latitude, listing.longitude)
+                with st.container(border=True):
+                    st.markdown(f"**{problem['item_names'][item_num].capitalize()}:** "
+                                f"{listing.title}")
+                    st.write(f"${listing.price:,.2f} · "
+                             f"{listing.condition.replace('_', ' ')} · "
+                             f"{away:.1f} mi from home")
+                    st.caption(f"Seller {listing.seller_feedback_percent:g}% positive "
+                               f"({listing.seller_review_count:,} reviews) · "
+                               f"{'returns accepted' if listing.returns_accepted else 'no returns'} · "
+                               f"match score "
+                               f"{problem['match_scores'][item_num][listing_num]:.2f}")
+
+            route = " → ".join(["Home"] + [problem["item_names"][i] for i in order] + ["Home"])
+            st.write(f"**Suggested pickup order:** {route}")
