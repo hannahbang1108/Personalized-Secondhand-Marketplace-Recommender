@@ -56,3 +56,25 @@ def shortest_distance(problem, state):
 
     cache[state] = (float(shortest_miles), shortest_order)
     return cache[state]
+
+# Returns how far over the budget and trip limit the state is (0 if it is within both).
+def limit_violation(problem, state):
+    budget = problem["buyer"].budget
+    total_price = sum(problem["prices"][item_num][listing_num] for item_num, listing_num in enumerate(state))
+    over_budget = max(0, total_price - budget)
+    over_trip = max(0, shortest_distance(problem, state)[0] - problem["trip_limit"])
+    # divided by each limit so dollars and miles can be added together
+    return over_budget / budget + over_trip / problem["trip_limit"]
+
+# Returns the energy to minimize: low means good matches, low price, and a short trip.
+def energy(problem, state):
+    # higher is better
+    average_match = sum(problem["match_scores"][item_num][listing_num]
+                        for item_num, listing_num in enumerate(state)) / len(state)
+    # total price as a share of the budget
+    price_share = sum(problem["prices"][item_num][listing_num]
+                      for item_num, listing_num in enumerate(state)) / problem["buyer"].budget
+    # trip miles as a share of the trip limit
+    trip_share = shortest_distance(problem, state)[0] / problem["trip_limit"]
+    # match is subtracted so a higher match lowers the energy
+    return -average_match + price_share + trip_share
