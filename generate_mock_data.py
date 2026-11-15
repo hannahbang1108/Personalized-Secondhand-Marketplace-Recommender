@@ -8,7 +8,7 @@ Run it with:
 It writes four files into data/:
     listings.json       the listings
     buyers.json         each buyer's onboarding-form answers
-    comparisons.csv     every "which would you rather buy?" answer
+    comparisons.csv     every rating a buyer gave a listing, from 1 to 5
     true_weights.json   each buyer's true preferences (the answer key, never
                         used for training)
 
@@ -54,7 +54,7 @@ def read_settings():
     parser.add_argument("--listings", type=int, default=3000)
     parser.add_argument("--questions-per-buyer", type=int, default=40)
     parser.add_argument("--consistency", type=float, default=1.5,
-                        help="how reliably buyers pick the listing they truly prefer")
+                        help="how closely buyers' ratings follow their true preferences")
     parser.add_argument("--cold-start-share", type=float, default=0.2,
                         help="share of buyers held out entirely")
     parser.add_argument("--val-share", type=float, default=0.1)
@@ -108,18 +108,19 @@ def print_summary(listings, buyers, choices):
     for choice in choices:
         split_sizes[choice["split"]] = split_sizes.get(choice["split"], 0) + 1
 
-    prob_chose_a = np.array([c["true_prob_chose_a"] for c in choices])
-    share_chose_a = np.mean([c["chose_a"] for c in choices])
+    stars = np.array([c["rating"] for c in choices])
+    true_scores = np.array([c["true_score"] for c in choices])
+    star_shares = {s: f"{np.mean(stars == s):.0%}" for s in range(1, 6)}
 
-    # The best any model could possibly do is always predict the listing the
-    # buyer is more likely to choose. Because buyers sometimes pick the
-    # "wrong" one, this is below 100%, and it's the target for the model.
-    best_possible_accuracy = np.mean(np.maximum(prob_chose_a, 1 - prob_chose_a))
+    # How closely the ratings follow the buyers' true preferences. Because
+    # buyers aren't perfectly consistent, this is below 1, and it's the
+    # target for the model.
+    agreement = np.corrcoef(stars, true_scores)[0, 1]
 
-    print(f"{len(listings)} listings, {len(buyers)} buyers, {len(choices)} comparisons")
+    print(f"{len(listings)} listings, {len(buyers)} buyers, {len(choices)} ratings")
     print(f"split sizes: {split_sizes}")
-    print(f"listing A was chosen {share_chose_a:.1%} of the time (should be near 50%)")
-    print(f"best possible model accuracy: {best_possible_accuracy:.1%}")
+    print(f"share of each star rating (1 to 5): {star_shares}")
+    print(f"correlation between ratings and true scores: {agreement:.2f}")
     print(f"\nexample buyer: {json.dumps(asdict(buyers[0]))}")
 
 
