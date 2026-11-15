@@ -78,8 +78,10 @@ if submitted:
     else:
         matched_address, latitude, longitude = match
         buyer = Buyer(buyer_id="U_live", name=name, priorities=priorities,
-                      transport=transport, budget=budget,
-                      shopping_list=[{"item": i, "category": ALL_ITEMS[i]} for i in items])
+                    transport=transport, budget=budget,
+                    shopping_list=[{"item": i, "category": ALL_ITEMS[i]} for i in items],
+                    home_latitude=latitude, home_longitude=longitude,
+                    trip_miles=trip_miles)
         st.session_state.results = {
             "buyer": buyer,
             "matched_address": matched_address,
