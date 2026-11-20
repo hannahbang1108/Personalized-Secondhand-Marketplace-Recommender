@@ -101,7 +101,7 @@ This writes four files to `data/`. The same `--seed` always produces the same da
 python -m streamlit run app.py
 ```
 
-This opens the app in your browser. The mock listings are scattered within 15 miles of Philadelphia, so use an address in that area, for example `1400 John F Kennedy Blvd, Philadelphia, PA` with a budget of 300, a trip limit of 16 miles, a shopping list of desk, sofa, and tv, and car selected as a transport mode (walk-only buyers only see listings within 1.5 miles, so they may have few or no matches). After you click "Find listings", the app shows the best combination, and the price and trip distance sliders below the listing counts change which combination it picks.
+This opens the app in your browser. The mock listings are scattered within 15 miles of downtown Boston, so use an address in that area, for example `1 City Hall Sq, Boston, MA` with a budget of 300, a trip limit of 16 miles, a shopping list of desk, sofa, and tv, and car selected as a transport mode (walk-only buyers only see listings within 1.5 miles, so they may have few or no matches). After you click "Find listings", the app shows the best combination, and the price and trip distance sliders below the listing counts change which combination it picks.
 
 Model training and the evaluation scripts will be added here as they are built.
 

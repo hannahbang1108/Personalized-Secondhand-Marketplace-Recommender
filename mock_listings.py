@@ -13,7 +13,7 @@ from schema import Listing, ITEMS_BY_CATEGORY, CONDITIONS, BRAND_TIERS
 
 
 # Listings are scattered within 15 miles of this point. Change it to your area.
-CENTER_LATITUDE, CENTER_LONGITUDE = 40.0, -75.0
+CENTER_LATITUDE, CENTER_LONGITUDE = 42.36, -71.06
 RADIUS_MILES = 15
 
 # How common each kind of listing is.
