@@ -1,0 +1,35 @@
+Title,Status,Owner,Deadline
+Set up GitHub repo,Done,Hannah,28-Oct
+Set up GitHub Projects board,Done,Everyone,28-Oct
+Set up project tracker,Done,Tarun,28-Oct
+Generate mock buyers and listings,Done,Hannah,4-Nov
+Conceptualize schema.py,Done,Hannah,4-Nov
+Review schema.py,Done,Everyone,10-Nov
+Confirm eBay permission covers ML use,Done,Tarun,10-Nov
+Update README and proposal,Done,Everyone,10-Nov
+Switch mock data to 1-5 ratings with non-linear preferences,Done,Tarun,11-Nov
+Generate Boston locations from Census data,Done,Manav,11-Nov
+Calibrate ratings to Amazon review distribution,Done,Manav,11-Nov
+Download furniture-age dataset,Done,Tarun,13-Nov
+Prepare CNN images (prepare_cnn_data.py),Done,Tarun,13-Nov
+Download ABO furniture images,Done,Tarun,13-Nov
+Add synthetic wear to ABO images,Done,Tarun,13-Nov
+Build CNN model and training script,Done,Tarun,14-Nov
+Train CNN on HPC,Done,Tarun,14-Nov
+Build GP matching model,Done,Tarun,14-Nov
+Hard constraints (constraints.py),Done,Hannah,15-Nov
+Simulated annealing search (search.py),Done,Hannah,15-Nov
+App with onboarding form and sliders (app.py),Done,Hannah,15-Nov
+TA check-in 2,In Progress,Everyone,20-Nov
+Add sparse GP for scaling,In Progress,Tarun,22-Nov
+Evaluate GP matching model,In Progress,Tarun,23-Nov
+"Add photo quality check, confidence and category gates",In Progress,Tarun,24-Nov
+Evaluate CNN on real test photos,In Progress,Tarun,24-Nov
+Generate seller fields from Avito stats,In Progress,Manav,25-Nov
+Neural network comparison,To Do,Manav,25-Nov
+Test file on mock data with expected results,To Do,Hannah,29-Nov
+Connect CNN and GP outputs to search and app,To Do,Everyone,3-Dec
+Final results figures,To Do,Everyone,3-Dec
+Repo cleanup and README,To Do,Everyone,5-Dec
+Write executive summary,To Do,Everyone,5-Dec
+Record walkthrough demo,To Do,Everyone,5-Dec
