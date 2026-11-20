@@ -12,9 +12,9 @@ import numpy as np
 from schema import Listing, ITEMS_BY_CATEGORY, CONDITIONS, BRAND_TIERS
 
 
-# Listings are scattered within 15 miles of this point. Change it to your area.
+# Listings are scattered within 50 miles of this point. Change it to your area.
 CENTER_LATITUDE, CENTER_LONGITUDE = 42.36, -71.06
-RADIUS_MILES = 15
+RADIUS_MILES = 50
 
 # How common each kind of listing is.
 CATEGORY_SHARE = {"furniture": 0.35, "kitchen": 0.20, "electronics": 0.20,
